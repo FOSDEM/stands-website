@@ -1,0 +1,67 @@
+{{ define "title" }}
+{{ .Params.Title }}
+{{ end }}
+{{ define "main" }}
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/themes/{{ .Params.Theme }}">{{ .Params.Theme }}</a></li>
+                    <li class="breadcrumb-item active" aria-current="page"> {{ .Params.Title }} </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <h1>Welcome to the {{ .Params.Title }} stand!</h1>
+        </div>
+    </div>
+    <div class="row mt-2">
+        <div class="col">
+            {{ .Params.Description }}
+        </div>
+    </div>
+    <div class="row mt-4">
+        <div class="col-sm-8">
+            <div class="container mx-lg-n3">
+                <div class="row">
+                    <div class="col">
+                        <h2>{{ .Params.Title }} @ FOSDEM</h2>
+                    </div>
+                </div>
+                <div class="row mt-2">
+                    <div class="col">
+                        {{ .Params.Showcase }}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">The {{ .Params.Title }} stand</h5>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item"><a href="https://chat.fosdem.org/stands/{{ .Params.Title }}">Chat with the team</a></li>
+                        <li class="list-group-item"><a href="https://video.fosdem.org/stands/{{ .Params.Title }}">Video's and demo's</a></li>
+                        {{ range .Pages }}
+                        <li class="list-group-item"><a href="{{ .Permalink }}">{{ .Params.title }}</a></li>
+                        {{ end }}
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row mt-4">
+        <div class="col">
+            <h2>{{ .Params.Title }} in 2020</h2>
+        </div>
+    </div>
+    <div class="row mt-2">
+        <div class="col">
+            {{ .Params.New_this_year }}
+        </div>
+    </div>
+</div>
+{{ end }}

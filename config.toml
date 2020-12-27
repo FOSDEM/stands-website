@@ -1,0 +1,4 @@
+baseURL = "https://stands.fosdem.org"
+languageCode = "en-us"
+title = "FOSDEM 2021 Stands"
+theme = "fosdem"

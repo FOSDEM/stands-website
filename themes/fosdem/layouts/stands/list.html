@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="container">
+{{ range .Pages }}
+<div class="row">
+    <div class="col-2">
+        <img src="{{ .Params.logo | relURL }}" class="img-thumbnail" alt="{{ .Params.title }} logo" />
+        <a href="{{ .Permalink }}">{{ .Params.title }}</a>
+        {{ .Params.theme }}
+        {{ .Params.website }}
+        {{ .Params.description }}
+    </div>
+    <div class="col-10">
+        <p>
+            {{ .Params.showcase }}
+        </p>
+        <p>
+            {{ .Params.new_this_year }}
+        </p>
+    </div>
+</div>
+{{ end }}
+</div>
+{{ end }}

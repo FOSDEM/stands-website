@@ -1,0 +1,3 @@
+---
+title: FOSDEM Stands
+---
