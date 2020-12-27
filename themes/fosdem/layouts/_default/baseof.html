@@ -1,7 +1,22 @@
 <!DOCTYPE html>
 <html>
     <head>
-    {{- partial "head.html" . -}}
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="{{ "css/lib/bootstrap/4.5.3/bootstrap.min.css" | relURL}}">
+        
+        <!-- Bootstrap JS -->
+        <script src="{{ "js/lib/jquery/3.5.1/jquery-3.5.1.min.js" | relURL }}"></script>
+        <script src="{{ "js/lib/bootstrap/4.5.3/bootstrap.bundle.min.js" | relURL}}"></script>
+        
+        <title>{{ block "title" . }}
+        {{ .Site.Title }}
+        {{ end }}</title>
+        
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="{{ "css/fosdem.css" | relURL}}">
     </head>
     <body>
         {{- partial "header.html" . -}}

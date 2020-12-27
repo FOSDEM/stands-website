@@ -1,5 +1,19 @@
+{{ define "title" }}
+{{ .Parent.Title }} - {{ .Title }}
+{{ end }}
 {{ define "main" }}
 <div class="container">
+    <div class="row">
+        <div class="col">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/themes/{{ .Parent.Params.Theme }}">{{ .Parent.Params.Theme }}</a></li>
+                    <li class="breadcrumb-item"><a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a></li>
+                    <li class="breadcrumb-item active" aria-current="page"> {{ .Title }} </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
     <div class="row">
         <div class="col">
             {{ .Content }}
