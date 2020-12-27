@@ -2,20 +2,21 @@
 <div class="container">
 {{ range .Pages }}
 <div class="row">
-    <div class="col-2">
-        <img src="{{ .Params.logo | relURL }}" class="img-thumbnail" alt="{{ .Params.title }} logo" />
-        <a href="{{ .Permalink }}">{{ .Params.title }}</a>
-        {{ .Params.theme }}
-        {{ .Params.website }}
-        {{ .Params.description }}
-    </div>
-    <div class="col-10">
-        <p>
-            {{ .Params.showcase }}
-        </p>
-        <p>
-            {{ .Params.new_this_year }}
-        </p>
+    <div class="col">
+        <div class="card mb-3 border-0">
+            <div class="row no-gutters">
+                <div class="col-md-2">
+                    <img src="{{ .Params.logo | relURL }}" class="card-img border-0" alt="{{ .Params.title }} logo" />
+                </div>
+                <div class="col-md-10">
+                    <div class="card-body">
+                        <h5 class="card-title"><a href="{{ .Permalink }}">{{ .Params.title }}</a></h5>
+                        <p class="card-text">{{ .Params.description }}</p>
+                        <p class="card-text"><small class="text-muted"><a href="/themes/{{ .Params.theme }}">{{ .Params.theme }}</a></small></p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 {{ end }}

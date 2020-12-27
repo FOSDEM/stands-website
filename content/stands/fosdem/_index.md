@@ -4,10 +4,10 @@ theme: Community advocacy
 website: https://www.fosdem.org
 logo: stands/fosdem/cogweel.png
 description: |
-    <p>FOSDEM is the yearly European free and open source developers meeting. Founded in 2000 as OSEM, it is currently celebrating its 21st edition, welcoming
+    FOSDEM is the yearly European free and open source developers meeting. Founded in 2000 as OSEM, it is currently celebrating its 21st edition, welcoming
     over 8000 developers to the ULB campus in Brussels. With hundreds of speakers and projects talking about their newest ideas and developments, it is the
     place to get in touch with projects and developers, keep up to date with latest developments and listen to the great minds in the field. The event is
-    totally free and is supported by donations, sponsorships and hundreds of volunteers.</p>
+    totally free and is supported by donations, sponsorships and hundreds of volunteers.
 
 showcase: |
     <p>Come to our stand to meet the team behind FOSDEM, get up to date with the latest developments (will there be a FOSDEM in 2021? does G. really have a
