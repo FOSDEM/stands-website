@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div class="container">
+    <div class="row">
+        <div class="col"><h4>Welcome to our themes page!</h4></div>
+    </div>
+    <div class="row mt-3">
+        <div class="col">
+            <p>There are over 50 stands at FOSDEM, and it is not always easy to find what you are looking for. To ease your search, we have organised all stands per theme, so related projects are closer together.</p>
+            <p>Not only can you find your favourite stand easier and faster, but it also allows related projects to talk to each other and maybe collaborate on common issues. We encourage fraternizing!</p>
+        </div>
+    </div>
+    <div class="row mt-3">
+    {{ range .Data.Terms.ByCount }}
+        <div class="col">
+            <div class="card mb-3 border-0" style="width: 18rem;">
+                <img src="{{ .Page.Params.Logo | relURL }}" class="card-img border-0" alt="{{ .Page.Title }} logo" style="max-width: 12rem"/>
+                <div class="card-body">
+                    <h5 class="card-title h6"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h5>
+                    <p class="card-text text-justify">{{ .Page.Params.Description }}</p>
+                </div>
+            </div>
+        </div>
+    {{ end }}
+    </div>
+</div>
+{{ end }}

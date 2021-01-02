@@ -12,7 +12,9 @@
                     <div class="card-body">
                         <h5 class="card-title"><a href="{{ .Permalink }}">{{ .Params.title }}</a></h5>
                         <p class="card-text">{{ .Params.description }}</p>
-                        <p class="card-text"><small class="text-muted"><a href="/themes/{{ .Params.theme }}">{{ .Params.theme }}</a></small></p>
+                        {{ range (.GetTerms "themes") }}
+                        <p class="card-text"><small class="text-muted"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></small></p>
+                        {{ end }}
                     </div>
                 </div>
             </div>

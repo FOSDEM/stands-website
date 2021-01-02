@@ -1,5 +1,8 @@
 {{ define "title" }}
-{{ .Params.Theme}} - {{ .Params.Title }}
+{{ range (.GetTerms "themes") -}}
+{{ .LinkTitle }} - 
+{{ end -}}
+{{ .Params.Title }}
 {{ end }}
 {{ define "main" }}
 <div class="container">
@@ -7,7 +10,9 @@
         <div class="col">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="/themes/{{ .Params.Theme }}">{{ .Params.Theme }}</a></li>
+                    {{ range (.GetTerms "themes") }}
+                        <li class="breadcrumb-item"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+                    {{ end }}
                     <li class="breadcrumb-item active" aria-current="page"> {{ .Params.Title }} </li>
                 </ol>
             </nav>

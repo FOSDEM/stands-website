@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h4>Welcome to the {{ .Title }} corner!</h4>
+        </div>
+    </div>
+    <div class="row mb-4 mt-3">
+        <div class="col">
+            <p>{{ .Params.Description }}</p>
+        </div>
+    </div>
+    <div class="row">
+    {{ range .Pages }}
+        <div class="col">
+            <div class="card mb-3 border-0" style="width: 18rem;">
+                <img src="{{ .Params.Logo | relURL }}" class="card-img border-0" alt="{{ .Params.Title }} logo" />
+                <div class="card-body">
+                    <h5 class="card-title h6"><a href="{{ .Permalink }}">{{ .Params.Title }}</a></h5>
+                    <p class="card-text text-justify">{{ .Params.Description }}</p>
+                </div>
+            </div>
+        </div>
+    {{ end }}
+    </div>
+</div>
+{{ end }}

@@ -1,6 +1,7 @@
 ---
 title: FOSDEM
-theme: Community advocacy
+themes:
+ - Community advocacy
 website: https://www.fosdem.org
 logo: stands/fosdem/cogweel.png
 description: |
