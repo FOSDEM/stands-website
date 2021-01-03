@@ -1,10 +1,11 @@
+#!/usr/bin/env python3
 import requests
 from os import mkdir
 from os.path import exists, isfile, isdir
 
 
 def fetch():
-    result = requests.get('http://stands.fosdem.org/submission/api/accepted')
+    result = requests.get('https://stands.fosdem.org/submission/api/accepted')
     result.raise_for_status()
     return result.json()
 
