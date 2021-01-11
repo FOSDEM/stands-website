@@ -1,0 +1,16 @@
+---
+hosts: localhost
+tasks:
+  - name: Fetch list of accepted stands
+    uri:
+      url: https://stands.fosdem.org/submission/api/accepted/
+      return_content: yes
+    register: accepted_stands
+  - name: Create stands content directories
+    file:
+      path: "/var/opt/app/fosdem_stands/html/content/stands/{{item['submission']['project']['name']}}"
+      state: directory
+    with_items: "{{accepted_stands.json}}"
+  - name: Download content files
+    git:
+      
