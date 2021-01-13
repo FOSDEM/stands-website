@@ -100,6 +100,11 @@ We use Bootstrap (4.5) for styling, so you can as well. jQuery is included (for 
 
 Please not that you cannot load any assets (images, css or js) from any other domain than stands.fosdem.org.
 
+## Local development environment
+To test your changes locally, this is what you can do.
+
+
+
 ## Feedback
 We realise this is certainly not the best possible option, but while we are fairly confident we can organise a physical edition,
 going virtual is new for us as well. If you have any ideas for improvements, feedback or anything else, please contact us

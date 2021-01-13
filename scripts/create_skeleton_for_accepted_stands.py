@@ -2,12 +2,26 @@
 import requests
 from os import mkdir
 from os.path import exists, isfile, isdir
+import configparser
 
 
 def fetch():
     result = requests.get('https://stands.fosdem.org/submission/api/accepted')
     result.raise_for_status()
     return result.json()
+
+
+def create_submodule_config(stand_o, config):
+    if stand_o['submission']['digital_edition']['stand_website_static']:
+        config['submodule "{0}-static"'.format(stand_o['submission']['project']['name'].lower())] = {
+            'path': 'content/stands/{0}'.format(stand_o['submission']['project']['name']),
+            'url': stand_o['submission']['digital_edition']['stand_website_static']
+        }
+    if stand_o['submission']['digital_edition']['stand_website_static']:
+        config['submodule "{0}-code"'.format(stand_o['submission']['project']['name'].lower())] = {
+            'path': 'static/stands/{0}'.format(stand_o['submission']['project']['name']),
+            'url': stand_o['submission']['digital_edition']['stand_website_code']
+        }
 
 
 def create_skeleton(stand_o):
@@ -51,6 +65,7 @@ Welcome to the {0} stand!
 
 def main():
     print('Fetching list of accepted stands ... ', end=None)
+    submodule_config = configparser.ConfigParser()
     try:
         accepted_stands = fetch()
     except Exception as e:
@@ -66,8 +81,17 @@ def main():
         except Exception as e:
             print('[FAILED]')
             print('\t\t {0}'.format(e))
+
+        try:
+            create_submodule_config(stand, submodule_config)
+        except Exception as e:
+            print('[FAILED]')
+            print('\t\t {0}'.format(e))
         else:
             print('[OK]')
+    
+    with open('../.gitmodules', 'w') as configfile:
+        submodule_config.write(configfile)
     return 0
 
 
