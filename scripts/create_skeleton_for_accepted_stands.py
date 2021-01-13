@@ -3,6 +3,7 @@ import requests
 from os import mkdir
 from os.path import exists, isfile, isdir
 import configparser
+import re
 
 
 def fetch():
@@ -11,22 +12,22 @@ def fetch():
     return result.json()
 
 
-def create_submodule_config(stand_o, config):
+def create_submodule_config(path_name, stand_o, config):
     if stand_o['submission']['digital_edition']['stand_website_static']:
-        config['submodule "{0}-static"'.format(stand_o['submission']['project']['name'].lower())] = {
-            'path': 'content/stands/{0}'.format(stand_o['submission']['project']['name'].lower()),
-            'url': stand_o['submission']['digital_edition']['stand_website_static']
-        }
-    if stand_o['submission']['digital_edition']['stand_website_static']:
-        config['submodule "{0}-code"'.format(stand_o['submission']['project']['name'].lower())] = {
-            'path': 'static/stands/{0}'.format(stand_o['submission']['project']['name'].lower()),
+        config['submodule "content/stands/{0}"'.format(path_name)] = {
+            'path': 'content/stands/{0}'.format(path_name),
             'url': stand_o['submission']['digital_edition']['stand_website_code']
         }
+    if stand_o['submission']['digital_edition']['stand_website_static']:
+        config['submodule "static/stands/{0}"'.format(path_name)] = {
+            'path': 'static/stands/{0}'.format(path_name),
+            'url': stand_o['submission']['digital_edition']['stand_website_static']
+        }
 
 
-def create_skeleton(stand_o):
-    path = '../content/stands/{0}'.format(stand_o['submission']['project']['name'].lower())
-    static_path = '../static/stands/{0}'.format(stand_o['submission']['project']['name'].lower())
+def create_skeleton(path_name, stand_o):
+    path = '../content/stands/{0}'.format(path_name)
+    static_path = '../static/stands/{0}'.format(path_name)
     if not exists(path):
         mkdir(path)
     if not exists(static_path):
@@ -58,14 +59,15 @@ Welcome to the {0} stand!
     stand_o['submission']['digital_edition']['showcase'],
     stand_o['submission']['digital_edition']['new_this_year']
 )
-    if not exists('{0}/_index.md'.format(path)):
-        with open('{0}/_index.md'.format(path), 'w') as fh:
+    if not exists('{0}/{1}.md'.format(path, path_name)):
+        with open('{0}/{1}'.format(path, path_name), 'w') as fh:
             fh.write(_index)
 
 
 def main():
     print('Fetching list of accepted stands ... ', end=None)
     submodule_config = configparser.ConfigParser()
+    invalid_r = re.compile('[^a-zA-Z0-9_-]', flags=re.IGNORECASE)
     try:
         accepted_stands = fetch()
     except Exception as e:
@@ -76,14 +78,15 @@ def main():
         print('[OK]')
     for stand in accepted_stands:
         print('Creating skeleton for {0} ... '.format(stand['submission']['project']['name']), end=None)
+        path_name = invalid_r.sub('_', stand['submission']['project']['name']).lower()
         try:
-            create_skeleton(stand)
+            create_skeleton(path_name, stand)
         except Exception as e:
             print('[FAILED]')
             print('\t\t {0}'.format(e))
 
         try:
-            create_submodule_config(stand, submodule_config)
+            create_submodule_config(path_name, stand, submodule_config)
         except Exception as e:
             print('[FAILED]')
             print('\t\t {0}'.format(e))
