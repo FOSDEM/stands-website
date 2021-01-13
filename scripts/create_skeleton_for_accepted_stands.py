@@ -4,6 +4,7 @@ from os import mkdir
 from os.path import exists, isfile, isdir
 import configparser
 import re
+import yaml
 
 
 def fetch():
@@ -32,35 +33,22 @@ def create_skeleton(path_name, stand_o):
         mkdir(path)
     if not exists(static_path):
         mkdir(static_path)
+    _index_contents = {
+        'title': stand_o['submission']['project']['name'],
+        'themes': [
+            stand_o['submission']['project']['theme']['theme']
+        ],
+        'website': stand_o['submission']['project']['website'],
+        'logo': 'stands/{0}/logo.png'.format(path_name),
+        'description': stand_o['submission']['project']['description'],
+        'showcase': stand_o['submission']['digital_edition']['showcase'],
+        'new_this_year': stand_o['submission']['digital_edition']['new_this_year'],
+        'layout': 'stand'
+    }
     _index = """---
-title: {0}
-themes:
- - {1}
-website: {2}
-logo: stands/{3}/logo.png
-description: |
-    {4}
-
-showcase: |
-    {5}
-
-new_this_year: |
-    {6}
-
-layout: stand
----
-Welcome to the {0} stand!
-""".format(
-    stand_o['submission']['project']['name'],
-    stand_o['submission']['project']['theme']['theme'],
-    stand_o['submission']['project']['website'],
-    stand_o['submission']['project']['name'].lower(),
-    stand_o['submission']['project']['description'],
-    stand_o['submission']['digital_edition']['showcase'],
-    stand_o['submission']['digital_edition']['new_this_year']
-)
-    if not exists('{0}/{1}.md'.format(path, path_name)):
-        with open('{0}/{1}'.format(path, path_name), 'w') as fh:
+{0}---""".format(yaml.dump(_index_contents, default_flow_style=False))
+    if not exists('../content/stands/{0}.md'.format(path_name)):
+        with open('../content/stands/{0}.md'.format(path_name), 'w') as fh:
             fh.write(_index)
 
 
