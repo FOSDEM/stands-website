@@ -98,7 +98,7 @@ Whatever you put as content of any file (or the contents of _\_index.md_) will a
 
 We use Bootstrap (4.5) for styling, so you can as well. jQuery is included (for Bootstrap), so you can use it.
 
-Please not that you cannot load any assets (images, css or js) from any other domain than stands.fosdem.org.
+Please note that you cannot load any assets (images, css or js) from any other domain than stands.fosdem.org.
 
 ## Local development environment
 To test your changes locally, this is what you can do (you'll need the Hugo binary).
