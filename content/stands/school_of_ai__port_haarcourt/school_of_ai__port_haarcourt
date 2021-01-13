@@ -1,0 +1,24 @@
+---
+title: School of AI, Port Haarcourt
+themes:
+ - Community advocacy
+website: https://phcschoolofai.org/
+logo: stands/school of ai, port haarcourt/logo.png
+description: |
+    The Port Harcourt school of AI is a non-profit educational organization focused on democratizing access to world-class Machine Learning & Data Science education to underrepresented groups in Nigeria for free through collaborative learning.
+
+showcase: |
+    The Port Harcourt School of AI is a non-profit organization based in Nigeria, led by a group of dedicated volunteers, who are creating awareness and increasing the number of machine learning, data science and artificial intelligence talents in the region through collaborative learning and community engagement.
+
+new_this_year: |
+    This year we will
+
+1. Continue and refine the production and tone of our podcast The African Data Scientist to include more beginner friendly topics and also topics on how data can directly impact or be used to solve some of the challenges we face as a region. Link to podcast: https://anchor.fm/african-data-scientist
+
+2. We recently partnered with Gradient Boost (http://thegradientboost.com/) to make our training sessions more efficient and be able to provide quality internships to members.
+
+3. We've laid down a content plan to organise more workshops and produce more youtube videos for our channel
+
+layout: stand
+---
+Welcome to the School of AI, Port Haarcourt stand!

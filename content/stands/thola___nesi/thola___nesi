@@ -1,0 +1,64 @@
+---
+title: Thola / NESi
+themes:
+ - System administration
+website: https://thola.io
+logo: stands/thola / nesi/logo.png
+description: |
+    Thola is a new open source tool for reading, monitoring and provisioning network devices written in Go. 
+
+This stand will inform about the current state of development as well as planned features, including reading out inventory, configuring network devices, support for other monitoring systems like prometheus and many more.
+
+It serves as a unified interface for communication with network devices and features a check mode which complies with the monitoring plugins development guidelines and is therefore compatible with Nagios, Icinga, Zabbix, Checkmk, etc.
+
+With the NESi software we aim at simulating certain points of a network. 
+
+At the Moment we are able to simulate DSLAMs (Digital Subscriber Line Multiplexer) of various vendors including Alcatel, Huawei and KeyMile to name the most popular.
+
+The software itself can simulate the vendors OS running on the network-device and allows the user to configure the amount of network cards, the number of ports on said cards and connected CPEs (Customer Premises Equipment). 
+
+The idea of the software originated from Ilya Etingof, the creator of snmpsim. A python based software to simulate snmp calls to a network-device. In a future release of NESi we are planning on integrating snmpsim into our framework as well.
+
+showcase: |
+    People who love everything about network monitoring and provisioning.
+People who got large networks and are interested in how to manage them with one unified interface.
+People who love the programming language GO.
+People who love to contribute in new OS projects.
+People who are searching for a smart monitoring solution, based on an open source project.
+People who are interested to see how network devices can be handled easy with an unified interface.
+People who may got trouble with vendor specific snmp requests and responses.
+People who would like to be part of a new, revolutionary, OS project.
+People who love to simulate a large environment with many different network devices.
+People who love to simulate a command line interface as well as a snmp interface of a network device.
+
+new_this_year: |
+    This would be the first time we have a stand on FOSDEM. Thola and NESi are quite new projects, we would like to introduce them.
+Thola
+- support for different network device types like switches, routers, WDM, directional radio, UPS, DSLAM/OLT,... including type specific requests and checks
+- an easy way for adding support for additional devices by YAML configuration files
+- support for different network protocols like SNMP, HTTP(S), telnet/ssh (coming soon) and more
+- a check plugin mode compatible with Icinga, Nagios, Zabbix, Checkmk, ...
+- a REST API mode
+- low resource needs
+
+NESi (Network Equipment Simulator)
+Supported Vendors
+- Alcatel  (nearly feature complete)
+- Huawei   (nearly feature complete)
+- Keymile  (work in progress)
+
+Supported network components
+- Subracks
+- Cards
+- Ports
+- ONTs
+- CPEs
+- Vlans
+
+Upcoming features this year in both projects:
+Thola should be easy to install and implement in the most known existing monitoring systems.
+NESi should cover nearly all big vendors to simulate the CLI and snmpsim by Ilya Etingof should be integrated in NESi.
+
+layout: stand
+---
+Welcome to the Thola / NESi stand!
