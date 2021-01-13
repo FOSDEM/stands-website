@@ -1,32 +1,16 @@
 [submodule "checkmk-static"]
-path = content/stands/Checkmk
+path = content/stands/checkmk
 url = https://github.com/tribe29/checkmk-fosdem-static.git
 
 [submodule "checkmk-code"]
-path = static/stands/Checkmk
+path = static/stands/checkmk
 url = https://github.com/tribe29/checkmk-fosdem-content.git
 
-[submodule "free software foundation europe-static"]
-path = content/stands/Free Software Foundation Europe
-url = https://git.fsfe.org/FSFE/fosdem21-static.git
-
-[submodule "free software foundation europe-code"]
-path = static/stands/Free Software Foundation Europe
-url = https://git.fsfe.org/FSFE/fosdem21-content.git
-
-[submodule "kiwi tcms-static"]
-path = content/stands/Kiwi TCMS
-url = https://github.com/kiwitcms/fosdem-2021-stand-static.git
-
-[submodule "kiwi tcms-code"]
-path = static/stands/Kiwi TCMS
-url = https://github.com/kiwitcms/fosdem-2021-stand-content.git
-
 [submodule "pharo-static"]
-path = content/stands/Pharo
+path = content/stands/pharo
 url = https://github.com/pharo-divulgation/pharo-fosdem-static.git
 
 [submodule "pharo-code"]
-path = static/stands/Pharo
+path = static/stands/pharo
 url = https://github.com/pharo-divulgation/pharo-fosdem-content.git
 

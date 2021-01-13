@@ -14,12 +14,12 @@ def fetch():
 def create_submodule_config(stand_o, config):
     if stand_o['submission']['digital_edition']['stand_website_static']:
         config['submodule "{0}-static"'.format(stand_o['submission']['project']['name'].lower())] = {
-            'path': 'content/stands/{0}'.format(stand_o['submission']['project']['name']),
+            'path': 'content/stands/{0}'.format(stand_o['submission']['project']['name'].lower()),
             'url': stand_o['submission']['digital_edition']['stand_website_static']
         }
     if stand_o['submission']['digital_edition']['stand_website_static']:
         config['submodule "{0}-code"'.format(stand_o['submission']['project']['name'].lower())] = {
-            'path': 'static/stands/{0}'.format(stand_o['submission']['project']['name']),
+            'path': 'static/stands/{0}'.format(stand_o['submission']['project']['name'].lower()),
             'url': stand_o['submission']['digital_edition']['stand_website_code']
         }
 
