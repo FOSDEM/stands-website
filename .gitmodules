@@ -30,3 +30,10 @@ url = https://github.com/pharo-divulgation/pharo-fosdem-content.git
 path = static/stands/pharo
 url = https://github.com/pharo-divulgation/pharo-fosdem-static.git
 
+[submodule "static/stands/postgresql"]
+path = static/stands/postgresql
+url = https://git.postgresql.org/git/fosdem2021-static.git
+
+[submodule "content/stands/postgresql"]
+path = content/stands/postgresql
+url = https://git.postgresql.org/git/fosdem2021-content.git
