@@ -35,5 +35,5 @@ url = https://git.fsfe.org/FSFE/fosdem21-static.git
 	url = https://git.postgresql.org/git/fosdem2021-static.git
 
 [submodule "content/stands/postgresql"]
-path = content/stands/postgresql
-url = https://git.postgresql.org/git/fosdem2021-content.git
+	path = content/stands/postgresql
+	url = https://git.postgresql.org/git/fosdem2021-content.git
