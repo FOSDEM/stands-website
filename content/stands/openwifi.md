@@ -36,4 +36,5 @@ themes:
 - Hardware
 title: openwifi
 website: https://github.com/open-sdr/openwifi
+show_on_overview: true
 ---

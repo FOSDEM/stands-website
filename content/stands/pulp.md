@@ -32,4 +32,5 @@ themes:
 - System administration
 title: Pulp
 website: https://pulpproject.org/
+show_on_overview: true
 ---

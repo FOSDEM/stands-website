@@ -27,6 +27,7 @@ showcase: "Foreman talks can usually be seen in the Infra Management dev room bu
   \ talk to some of our devs, see the latest version demoed or understand our upcoming\
   \ roadmap or even just hear an introduction to what we do, the stand is the place\
   \ for you."
+show_on_overview: true
 themes:
 - System administration
 title: Foreman

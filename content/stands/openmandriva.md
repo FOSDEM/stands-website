@@ -33,4 +33,5 @@ themes:
 - Operating systems
 title: OpenMandriva
 website: http://openmandriva.org/
+show_on_overview: true
 ---

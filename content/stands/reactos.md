@@ -42,4 +42,5 @@ themes:
 - Operating systems
 title: ReactOS
 website: https://reactos.org/
+show_on_overview: true
 ---

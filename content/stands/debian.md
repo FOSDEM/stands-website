@@ -12,5 +12,6 @@ showcase: meet Debian people, get any questions and remarks you might have about
 themes:
 - Operating systems
 title: Debian
+show_on_overview: true
 website: https://www.debian.org
 ---

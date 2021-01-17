@@ -48,4 +48,5 @@ themes:
 - World wide web
 title: 'Nextcloud Hub'
 website: https://nextcloud.com
+show_on_overview: true
 ---

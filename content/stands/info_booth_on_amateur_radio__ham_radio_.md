@@ -43,4 +43,5 @@ themes:
 - HAM Radio
 title: info booth on amateur radio (ham radio)
 website: https://www.uba.be/en
+show_on_overview: true
 ---

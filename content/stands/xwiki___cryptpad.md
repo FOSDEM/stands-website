@@ -72,5 +72,6 @@ showcase: "XWiki is a powerful Open Source collaborative platform allowing organ
 themes:
 - Office suites and productivity
 title: XWiki & CryptPad
+show_on_overview: true
 website: https://xwiki.com
 ---

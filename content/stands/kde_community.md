@@ -24,4 +24,5 @@ themes:
 - Desktop environments
 title: KDE Community
 website: https://kde.org
+show_on_overview: true
 ---

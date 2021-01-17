@@ -33,4 +33,5 @@ themes:
 - Community advocacy
 title: FreeBSD Project
 website: https://www.freebsd.org/
+show_on_overview: true
 ---

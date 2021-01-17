@@ -9,6 +9,7 @@ description: "Box86 allows to run 32bits x86 applications on ARM devices.\r\n\r\
   \ emulating frequently used functions and to be able to use box86 super easily:\
   \ no need for a full x86 chroot system, most used libraries are the native versions."
 layout: stand
+show_on_overview: true
 logo: stands/box86_-_linux_userspace_x86_emulator/logo.png
 new_this_year: "Box86 is targeted towards 32bits. While compatibility and speed can\
   \ be improved, the support of 16bits code (for Wine) is probably the last missing\

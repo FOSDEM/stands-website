@@ -24,4 +24,5 @@ themes:
 - Community advocacy
 title: The Apache Software Foundation
 website: https://www.apache.org/
+show_on_overview: true
 ---

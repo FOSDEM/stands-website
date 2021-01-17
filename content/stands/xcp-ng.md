@@ -19,4 +19,5 @@ themes:
 - Operating systems
 title: XCP-ng
 website: https://xcp-ng.org/
+show_on_overview: true
 ---
