@@ -20,6 +20,6 @@ showcase: Discover new possibilties for your RaspberryPI 4 and all other ARM SBC
   few laps on Flatout (to name just a few) becomes possible on a small SBC.
 themes:
 - Gaming
-title: Box86 - Linux Userspace x86 Emulator
+title: Box86
 website: https://ptitseb.github.io/box86/
 ---
