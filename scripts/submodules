@@ -1,0 +1,10 @@
+content/stands/checkmk https://github.com/tribe29/checkmk-fosdem-content.git
+static/stands/checkmk https://github.com/tribe29/checkmk-fosdem-static.git
+content/stands/free_software_foundation_europe https://git.fsfe.org/FSFE/fosdem21-content.git
+static/stands/free_software_foundation_europe https://git.fsfe.org/FSFE/fosdem21-static.git
+content/stands/kiwi_tcms https://github.com/kiwitcms/fosdem-2021-stand-content.git
+static/stands/kiwi_tcms https://github.com/kiwitcms/fosdem-2021-stand-static.git
+content/stands/pharo https://github.com/pharo-divulgation/pharo-fosdem-content.git
+static/stands/pharo https://github.com/pharo-divulgation/pharo-fosdem-static.git
+static/stands/postgresql https://git.postgresql.org/git/fosdem2021-static.git
+content/stands/postgresql https://git.postgresql.org/git/fosdem2021-content.git
