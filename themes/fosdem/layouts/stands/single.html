@@ -1,5 +1,9 @@
 {{ define "title" }}
+{{ if .Title }}
 {{ .Parent.Title }} - {{ .Title }}
+{{ else }}
+{{ .Parent.Title }} - {{ .File.TranslationBaseName }}
+{{ end }}
 {{ end }}
 {{ define "main" }}
 <div class="container">
