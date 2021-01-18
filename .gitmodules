@@ -43,3 +43,9 @@ url = https://git.fsfe.org/FSFE/fosdem21-static.git
 [submodule "content/stands/box86"]
 	path = content/stands/box86
 	url = https://github.com/rajdakin/box86-fosdem2021-content.git
+[submodule "content/stands/ntop"]
+	path = content/stands/ntop
+	url = https://github.com/ntop/fosdem21-content.git
+[submodule "static/stands/ntop"]
+	path = static/stands/ntop
+	url = https://github.com/ntop/fosdem21-static.git
