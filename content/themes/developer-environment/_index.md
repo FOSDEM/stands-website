@@ -1,6 +1,7 @@
 ---
 title: Developer environment
 description: |
-    None
+    Developers! Developers! Developers! What tools do they use? An editor, a version management tool and continuous integration is what
+    you will find here.
 logo: img/lib/material-icons/developer-environment.svg
 ---

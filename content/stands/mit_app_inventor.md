@@ -31,5 +31,6 @@ themes:
 - Education
 title: MIT App Inventor
 website: https://appinventor.mit.edu
-show_on_overview: true
+show_on_overview: false
+draft: true
 ---
