@@ -18,5 +18,6 @@ showcase: "Come to our stand to checkout: \r\n- Open source hardware device for 
 themes:
 - Hardware
 title: FOSSASIA
+show_on_overview: true
 website: https://fossasia.org/
 ---

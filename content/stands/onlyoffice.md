@@ -55,4 +55,5 @@ themes:
 - Office suites and productivity
 title: ONLYOFFICE
 website: https://www.onlyoffice.com/
+show_on_overview: true
 ---

@@ -37,5 +37,6 @@ showcase: "Do you have your own domain, and do you also want a complete communic
 themes:
 - Office suites and productivity
 title: Kopano
+show_on_overview: true
 website: https://kopano.io/
 ---

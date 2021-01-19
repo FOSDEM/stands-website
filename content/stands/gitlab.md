@@ -20,4 +20,5 @@ themes:
 - Developer environment
 title: GitLab
 website: https://www.gitlab.com
+show_on_overview: true
 ---

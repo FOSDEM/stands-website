@@ -49,4 +49,5 @@ themes:
 - IoT
 title: OpenEmbedded
 website: https://www.openembedded.org/wiki/Main_Page
+show_on_overview: true
 ---

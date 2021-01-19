@@ -37,4 +37,5 @@ themes:
 - Operating systems
 title: Unikraft
 website: http://www.unikraft.org/
+show_on_overview: true
 ---

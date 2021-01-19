@@ -29,4 +29,5 @@ themes:
 - Developer environment
 title: Jenkins
 website: https://www.jenkins.io
+show_on_overview: true
 ---

@@ -24,4 +24,5 @@ themes:
 - Database engines
 title: YottaDB
 website: https://yottadb.com
+show_on_overview: true
 ---

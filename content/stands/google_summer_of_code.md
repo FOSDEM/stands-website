@@ -40,4 +40,5 @@ themes:
 - Education
 title: Google Summer of Code
 website: http://g.co/gsoc
+show_on_overview: true
 ---

@@ -129,3 +129,21 @@ body {
 #license-text {
     width: 60%;
 }
+
+#main-image {
+    background: url("/img/fosdem-banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fosdem-subtitle {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    color: #fff;
+    text-shadow: 0 1px 0 #000;
+}
+
+.fosdem-subtitle-frame {
+    background: #1e1e1e;
+}
