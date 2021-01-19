@@ -49,3 +49,21 @@ url = https://git.fsfe.org/FSFE/fosdem21-static.git
 [submodule "static/stands/ntop"]
 	path = static/stands/ntop
 	url = https://github.com/ntop/fosdem21-static.git
+[submodule "content/stands/sesame_discovery"]
+	path = content/stands/sesame_discovery
+	url = https://github.com/SesameEngineering/fosdem21-content.git
+[submodule "static/stands/sesame_discovery"]
+	path = static/stands/sesame_discovery
+	url = https://github.com/SesameEngineering/fosdem21-static.git
+[submodule "content/stands/the_gnome_foundation"]
+	path = content/stands/the_gnome_foundation
+	url = https://github.com/gnome/stands-website.git
+[submodule "static/stands/the_gnome_foundation"]
+	path = static/stands/the_gnome_foundation
+	url = https://github.com/gnome/stands-website.git
+[submodule "content/stands/mit_app_inventor"]
+	path = content/stands/mit_app_inventor
+	url = https://github.com/mit-cml/fosdem-stand.git
+[submodule "static/stands/mit_app_inventor"]
+	path = static/stands/mit_app_inventor
+	url = https://github.com/mit-cml/fosdem-static.git
