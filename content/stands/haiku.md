@@ -33,4 +33,5 @@ themes:
 - Operating systems
 title: Haiku
 website: https://www.haiku-os.org/
+show_on_overview: true
 ---

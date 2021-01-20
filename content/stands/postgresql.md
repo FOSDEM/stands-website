@@ -14,6 +14,7 @@ description: "PostgreSQL is a powerful, open source object-relational database s
   \ using PostgreSQL has never been easier - pick a project you want to build, and\
   \ let PostgreSQL safely and robustly store your data."
 layout: stand
+show_on_overview: true
 logo: stands/postgresql/logo.png
 new_this_year: PostgreSQL 13 was released in September 2020, which makes it the latest
   major release. PostgreSQL 9.4 is no longer supported, if you still run on this (or

@@ -51,7 +51,11 @@
                         <li class="list-group-item"><a href="https://chat.fosdem.org/stands/{{ .Params.Title }}">Chatroom</a></li>
                         <li class="list-group-item"><a href="https://video.fosdem.org/stands/{{ .Params.Title }}">Video's</a></li>
                         {{ range .Pages }}
+                        {{ if .Params.title }}
                         <li class="list-group-item"><a href="{{ .Permalink }}">{{ .Params.title }}</a></li>
+                        {{ else }}
+                        <li class="list-group-item"><a href="{{ .Permalink }}">{{ .File.TranslationBaseName }}</a></li>
+                        {{ end }}
                         {{ end }}
                     </ul>
                 </div>

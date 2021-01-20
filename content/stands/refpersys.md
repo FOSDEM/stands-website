@@ -28,4 +28,5 @@ themes:
 - Programming languages
 title: RefPerSys
 website: http://refpersys.org/
+show_on_overview: true
 ---

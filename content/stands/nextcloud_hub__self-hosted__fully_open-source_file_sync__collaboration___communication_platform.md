@@ -46,7 +46,7 @@ showcase: "We're a real, cool, open source project. We care about the 'Free' par
   \ or real estate money etc."
 themes:
 - World wide web
-title: 'Nextcloud Hub: Self-hosted, fully open-source file sync, collaboration & communication
-  platform'
+title: 'Nextcloud Hub'
 website: https://nextcloud.com
+show_on_overview: true
 ---

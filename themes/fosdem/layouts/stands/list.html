@@ -1,6 +1,7 @@
 {{ define "main" }}
 <div class="container">
 {{ range .Pages }}
+{{ if .Params.show_on_overview }}
 <div class="row">
     <div class="col">
         <div class="card mb-3 border-0">
@@ -21,6 +22,7 @@
         </div>
     </div>
 </div>
+{{ end }}
 {{ end }}
 </div>
 {{ end }}

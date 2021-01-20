@@ -1,5 +1,9 @@
 {{ define "title" }}
+{{ if .Title }}
 {{ .Parent.Title }} - {{ .Title }}
+{{ else }}
+{{ .Parent.Title }} - {{ .File.TranslationBaseName }}
+{{ end }}
 {{ end }}
 {{ define "main" }}
 <div class="container">
@@ -7,9 +11,15 @@
         <div class="col">
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="/themes/{{ .Parent.Params.Theme }}">{{ .Parent.Params.Theme }}</a></li>
+                    {{ range (.Parent.GetTerms "themes") }}
+                        <li class="breadcrumb-item"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+                    {{ end }}
                     <li class="breadcrumb-item"><a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a></li>
+                    {{ if .Title }}
                     <li class="breadcrumb-item active" aria-current="page"> {{ .Title }} </li>
+                    {{ else }}
+                    <li class="breadcrumb-item active" aria-current="page"> {{ .File.TranslationBaseName }} </li>
+                    {{ end }}
                 </ol>
             </nav>
         </div>

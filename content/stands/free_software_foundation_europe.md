@@ -24,4 +24,5 @@ themes:
 - Community advocacy
 title: Free Software Foundation Europe
 website: https://fsfe.org/
+show_on_overview: true
 ---

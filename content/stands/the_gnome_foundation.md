@@ -37,4 +37,5 @@ themes:
 - Desktop environments
 title: The GNOME Foundation
 website: https://www.gnome.org/
+show_on_overview: true
 ---

@@ -1,10 +1,10 @@
 [submodule "content/stands/checkmk"]
-path = content/stands/checkmk
-url = https://github.com/tribe29/checkmk-fosdem-content.git
+	path = content/stands/checkmk
+	url = https://github.com/tribe29/checkmk-fosdem-content.git
 
 [submodule "static/stands/checkmk"]
-path = static/stands/checkmk
-url = https://github.com/tribe29/checkmk-fosdem-static.git
+	path = static/stands/checkmk
+	url = https://github.com/tribe29/checkmk-fosdem-static.git
 
 [submodule "content/stands/free_software_foundation_europe"]
 path = content/stands/free_software_foundation_europe
@@ -15,24 +15,24 @@ path = static/stands/free_software_foundation_europe
 url = https://git.fsfe.org/FSFE/fosdem21-static.git
 
 [submodule "content/stands/kiwi_tcms"]
-path = content/stands/kiwi_tcms
-url = https://github.com/kiwitcms/fosdem-2021-stand-content.git
+	path = content/stands/kiwi_tcms
+	url = https://github.com/kiwitcms/fosdem-2021-stand-content.git
 
 [submodule "static/stands/kiwi_tcms"]
-path = static/stands/kiwi_tcms
-url = https://github.com/kiwitcms/fosdem-2021-stand-static.git
+	path = static/stands/kiwi_tcms
+	url = https://github.com/kiwitcms/fosdem-2021-stand-static.git
 
 [submodule "content/stands/pharo"]
-path = content/stands/pharo
-url = https://github.com/pharo-divulgation/pharo-fosdem-content.git
+	path = content/stands/pharo
+	url = https://github.com/pharo-divulgation/pharo-fosdem-content.git
 
 [submodule "static/stands/pharo"]
-path = static/stands/pharo
-url = https://github.com/pharo-divulgation/pharo-fosdem-static.git
+	path = static/stands/pharo
+	url = https://github.com/pharo-divulgation/pharo-fosdem-static.git
 
 [submodule "static/stands/postgresql"]
-path = static/stands/postgresql
-url = https://git.postgresql.org/git/fosdem2021-static.git
+	path = static/stands/postgresql
+	url = https://git.postgresql.org/git/fosdem2021-static.git
 
 [submodule "content/stands/postgresql"]
 path = content/stands/postgresql
@@ -45,3 +45,35 @@ url = https://github.com/xwikisas/fosdem-stand-content.git
 [submodule "static/stands/xwiki___cryptpad"]
 path = static/stands/xwiki___cryptpad
 url = https://github.com/xwikisas/fosdem-stand-static.git
+	path = content/stands/postgresql
+	url = https://git.postgresql.org/git/fosdem2021-content.git
+[submodule "static/stands/box86"]
+	path = static/stands/box86
+	url = https://github.com/rajdakin/box86-fosdem2021-static.git
+[submodule "content/stands/box86"]
+	path = content/stands/box86
+	url = https://github.com/rajdakin/box86-fosdem2021-content.git
+[submodule "content/stands/ntop"]
+	path = content/stands/ntop
+	url = https://github.com/ntop/fosdem21-content.git
+[submodule "static/stands/ntop"]
+	path = static/stands/ntop
+	url = https://github.com/ntop/fosdem21-static.git
+[submodule "content/stands/sesame_discovery"]
+	path = content/stands/sesame_discovery
+	url = https://github.com/SesameEngineering/fosdem21-content.git
+[submodule "static/stands/sesame_discovery"]
+	path = static/stands/sesame_discovery
+	url = https://github.com/SesameEngineering/fosdem21-static.git
+[submodule "content/stands/the_gnome_foundation"]
+	path = content/stands/the_gnome_foundation
+	url = https://github.com/gnome/stands-website.git
+[submodule "static/stands/the_gnome_foundation"]
+	path = static/stands/the_gnome_foundation
+	url = https://github.com/gnome/stands-website.git
+[submodule "content/stands/mit_app_inventor"]
+	path = content/stands/mit_app_inventor
+	url = https://github.com/mit-cml/fosdem-stand.git
+[submodule "static/stands/mit_app_inventor"]
+	path = static/stands/mit_app_inventor
+	url = https://github.com/mit-cml/fosdem-static.git

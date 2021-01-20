@@ -26,4 +26,5 @@ themes:
 - Office suites and productivity
 title: Tracim
 website: https://www.tracim.fr
+show_on_overview: true
 ---

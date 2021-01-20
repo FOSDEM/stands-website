@@ -30,4 +30,5 @@ themes:
 - Community advocacy
 title: OpenUK
 website: https://openuk.uk
+show_on_overview: true
 ---

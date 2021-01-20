@@ -32,4 +32,5 @@ themes:
 - Operating systems
 title: The Fedora Project
 website: https://getfedora.org/
+show_on_overview: true
 ---

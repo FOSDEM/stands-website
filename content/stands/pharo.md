@@ -42,4 +42,5 @@ themes:
 - Programming languages
 title: Pharo
 website: https://www.pharo.org
+show_on_overview: true
 ---

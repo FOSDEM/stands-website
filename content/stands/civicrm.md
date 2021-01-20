@@ -4,6 +4,7 @@ description: CiviCRM is a free and open source CRM. It is used by many small and
   Foundation, CERN, the Wikimedia Foundation, universities - for their contact management,
   membership management, fundraising, event management, and mass mailings.
 layout: stand
+show_on_overview: true
 logo: stands/civicrm/logo.png
 new_this_year: We are eager to show you the brand new SearchKit and Form Builder,
   now shipping in the latest version of CiviCRM and available for you to test.

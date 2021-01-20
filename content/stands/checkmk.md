@@ -4,6 +4,7 @@ description: Open source monitoring software developed in Python and C++ for IT 
   infrastructures (public, private, hybrid), containers, storage, databases and environment
   sensors.
 layout: stand
+show_on_overview: true
 logo: stands/checkmk/logo.png
 new_this_year: In early 2021 we will be releasing the 2.0 version of the software,
   which will be our biggest release yet. Version 2.0 includes an overhaul of the GUI,

@@ -26,4 +26,5 @@ themes:
 - Office suites and productivity
 title: LibreOffice
 website: https://www.libreoffice.org
+show_on_overview: true
 ---

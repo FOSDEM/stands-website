@@ -12,6 +12,7 @@
     </div>
     <div class="row">
     {{ range .Pages }}
+    {{ if .Params.show_on_overview }}
         <div class="col">
             <div class="card mb-3 border-0" style="width: 18rem;">
                 <img src="{{ .Params.Logo | relURL }}" class="card-img border-0" alt="{{ .Params.Title }} logo" />
@@ -21,6 +22,7 @@
                 </div>
             </div>
         </div>
+    {{ end }}
     {{ end }}
     </div>
 </div>

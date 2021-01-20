@@ -38,4 +38,5 @@ themes:
 - Community advocacy
 title: Open Source Initiative
 website: https://opensource.org/
+show_on_overview: true
 ---

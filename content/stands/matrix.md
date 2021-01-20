@@ -59,4 +59,5 @@ themes:
 - Office suites and productivity
 title: Matrix
 website: https://matrix.org
+show_on_overview: true
 ---

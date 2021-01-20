@@ -7,6 +7,33 @@
       url(/css/lib/material-icons/4.0.0/MaterialIcons-Regular.woff2) format('woff2')
 }
 
+@font-face {
+    font-family:'Signika';
+    font-style:normal;
+    font-weight:600;
+    src:local('Signika-Semibold'),url(/css/lib/signika/Signika-SemiBold.ttf) format('truetype')
+}
+
+@font-face {
+    font-family:'Signika';
+    font-style:normal;
+    font-weight:400;
+    src:local('Signika'),local('Signika-Regular'),url(/css/lib/signika/Signika-Regular.ttf) format('truetype')
+}
+
+@font-face {
+    font-family:'Signika';
+    font-style:normal;
+    font-weight:700;
+    src:local('Signika-Bold'),url(/css/lib/signika/Signika-Bold.ttf) format('truetype')
+}
+
+@font-face {
+    font-family:'Lato';
+    font-style:normal;
+    font-weight:700;src:local('Lato Bold'),local('Lato-Bold'),url(/css/lib/lato/Lato-Bold.ttf) format('truetype')
+}
+
 .material-icons {
     font-family: 'Material Icons';
     font-weight: normal;
@@ -90,6 +117,7 @@ body {
 
 #footer {
     background: #efefef;
+    font-family: Signika, "DejaVu Sans", Arial, Helvetica, sans-serif;
     color: #5f5f5f;
 }
 
@@ -128,4 +156,38 @@ body {
 
 #license-text {
     width: 60%;
+}
+
+#main-image {
+    background: url("/img/fosdem-banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fosdem-subtitle {
+    font-weight: 600;
+    font-family: Signika, "DejaVu Sans", Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    line-height: 28px;
+    color: #fff;
+    text-shadow: 0 1px 0 #000;
+}
+
+.fosdem-subtitle-frame {
+    background: #1e1e1e;
+}
+
+.fosdem-jumbotron {
+    font-family: Signika, "DejaVu Sans", Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.fosdem-jumbotron h2 {
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.fosdem-themes {
+    font-family: Signika, "DejaVu Sans", Arial, Helvetica, sans-serif;
 }

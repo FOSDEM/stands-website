@@ -1,7 +1,6 @@
 ---
 title: World wide web
 description: |
-    Free and Open Source software is made by communities. These stands have one thing in common: creating communities and
-    bringing them together.
-logo: img/lib/material-icons/community-advocacy.svg
+    The world wide web is our portal to the world. Without free and open source software, the web as we know would not exist. Find out what the future holds!
+logo: img/lib/material-icons/www.svg
 ---
