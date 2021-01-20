@@ -2,6 +2,12 @@ baseURL = "https://stands.fosdem.org"
 languageCode = "en-us"
 title = "FOSDEM 2021 Stands"
 theme = "fosdem"
+ignoreFiles = [
+    "content/stands/the_gnome_foundation/archetypes/.*",
+    "content/stands/the_gnome_foundation/themes/.*",
+    "content/stands/the_gnome_foundation/content/.*"
+]
 
 [taxonomies]
 theme = "themes"
+
