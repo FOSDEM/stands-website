@@ -35,6 +35,16 @@ url = https://git.fsfe.org/FSFE/fosdem21-static.git
 	url = https://git.postgresql.org/git/fosdem2021-static.git
 
 [submodule "content/stands/postgresql"]
+path = content/stands/postgresql
+url = https://git.postgresql.org/git/fosdem2021-content.git
+
+[submodule "content/stands/xwiki___cryptpad"]
+path = content/stands/xwiki___cryptpad
+url = https://github.com/xwikisas/fosdem-stand-content.git
+
+[submodule "static/stands/xwiki___cryptpad"]
+path = static/stands/xwiki___cryptpad
+url = https://github.com/xwikisas/fosdem-stand-static.git
 	path = content/stands/postgresql
 	url = https://git.postgresql.org/git/fosdem2021-content.git
 [submodule "static/stands/box86"]
