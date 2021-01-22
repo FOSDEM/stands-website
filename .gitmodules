@@ -75,3 +75,15 @@ url = https://git.postgresql.org/git/fosdem2021-content.git
 [submodule "static/stands/xwiki___cryptpad"]
 	path = static/stands/xwiki___cryptpad
 	url = https://github.com/xwikisas/fosdem-stand-static.git
+[submodule "content/stands/openwifi"]
+	path = content/stands/openwifi
+	url = https://github.com/JiaoXianjun/openwifi-fosdem21-content.git
+[submodule "static/stands/openwifi"]
+	path = static/stands/openwifi
+	url = https://github.com/JiaoXianjun/openwifi-fosdem21-static.git
+[submodule "content/stands/ow2_open_source_community"]
+	path = content/stands/ow2_open_source_community
+	url = https://gitlab.ow2.org/ow2/fosdem/ow2-fosdem-stand-content.git
+[submodule "static/stands/ow2_open_source_community"]
+	path = static/stands/ow2_open_source_community
+	url = https://gitlab.ow2.org/ow2/fosdem/ow2-fosdem-stand-static.git
