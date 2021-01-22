@@ -87,3 +87,9 @@ url = https://git.postgresql.org/git/fosdem2021-content.git
 [submodule "static/stands/ow2_open_source_community"]
 	path = static/stands/ow2_open_source_community
 	url = https://gitlab.ow2.org/ow2/fosdem/ow2-fosdem-stand-static.git
+[submodule "content/stands/openembedded"]
+	path = content/stands/openembedded
+	url = https://gitlab.com/openembedded/community/fosdem-stand-content.git
+[submodule "static/stands/openembedded"]
+	path = static/stands/openembedded
+	url = https://gitlab.com/openembedded/community/fosdem-stand-static.git
