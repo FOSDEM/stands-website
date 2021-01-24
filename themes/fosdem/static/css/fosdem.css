@@ -178,9 +178,15 @@ body {
 }
 
 .fosdem-jumbotron {
+    font-family: "DejaVu Sans", Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 15px;
+}
+
+.fosdem-leader {
     font-family: Signika, "DejaVu Sans", Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    line-height: 26px;
+    font-size: 16px;
+    line-height: 18px;
 }
 
 .fosdem-jumbotron h2 {
@@ -189,5 +195,49 @@ body {
 }
 
 .fosdem-themes {
+    font-family: Signika, "DejaVu Sans", Arial, Helvetica, sans-serif;
+}
+
+.fosdem-stands {
+    font-family: Signika, "DejaVu Sans", Arial, Helvetica, sans-serif;
+}
+
+.fosdem-description {
+    font-family: "DejaVu Sans", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.fosdem-breadcrumb {
+    font-family: Signika, "DejaVu Sans", Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.fosdem-breadcrumb a {
+    color: #a3238e;
+}
+
+h1 {
+    font-family: Signika, "DejaVu Sans", Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Signika, "DejaVu Sans", Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    font-family: Signika, "DejaVu Sans", Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    font-family: Signika, "DejaVu Sans", Arial, Helvetica, sans-serif;
+}
+
+h5 {
+    font-family: Signika, "DejaVu Sans", Arial, Helvetica, sans-serif;
+}
+
+h6 {
     font-family: Signika, "DejaVu Sans", Arial, Helvetica, sans-serif;
 }

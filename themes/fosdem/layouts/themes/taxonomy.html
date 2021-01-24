@@ -1,28 +1,37 @@
 {{ define "main" }}
 <div class="container">
     <div class="row">
-        <div class="col-md-12 text-center">
+        <div class="col-md-12 text-center fosdem-jumbotron">
             <h4>Welcome to the {{ .Title }} corner!</h4>
         </div>
     </div>
-    <div class="row mb-4 mt-3">
+    <div class="row mb-4 mt-3 fosdem-description">
         <div class="col">
             <p>{{ .Params.Description }}</p>
         </div>
     </div>
-    <div class="row">
-    {{ range .Pages }}
-    {{ if .Params.show_on_overview }}
-        <div class="col">
-            <div class="card mb-3 border-0" style="width: 18rem;">
-                <img src="{{ .Params.Logo | relURL }}" class="card-img border-0" alt="{{ .Params.Title }} logo" />
+    
+    <div class="row mt-4 fosdem-stands">
+        {{ range .Pages }}
+        {{ if .Params.show_on_overview }}
+        <div class="col-sm-3">
+            <div class="card mb-3 border-0">
+                {{ if (fileExists (path.Join "/static/" .Params.logo)) -}}
+                    <a href="{{ .Permalink }}"><img src="{{ .Params.logo | relURL }}" class="card-img border-0" alt="{{ .Params.title }} logo" /></a>
+                {{ else }}
+                    <a href="{{ .Permalink }}"><img src="/img/empty_stand_logo.jpg" class="card-img border-0" alt="{{ .Params.title }} logo" /></a>
+                {{- end }}
                 <div class="card-body">
-                    <h5 class="card-title h6"><a href="{{ .Permalink }}">{{ .Params.Title }}</a></h5>
-                    <p class="card-text text-justify">{{ .Params.Description }}</p>
+                    <h5 class="card-title"><a href="{{ .Permalink }}">{{ .Params.title }}</a></h5>
+                    {{ if .Params.overview }}
+                    <p class="card-text">{{ .Params.overview | truncate 200 "..." | plainify }}</p>
+                    {{ else }}
+                    <p class="card-text">{{ .Params.description | truncate 200 "..." | plainify }}</p>
+                    {{ end }}
                 </div>
             </div>
         </div>
-    {{ end }}
+        {{ end }}
     {{ end }}
     </div>
 </div>

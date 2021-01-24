@@ -1,28 +1,37 @@
 {{ define "main" }}
 <div class="container">
-{{ range .Pages }}
-{{ if .Params.show_on_overview }}
-<div class="row">
-    <div class="col">
-        <div class="card mb-3 border-0">
-            <div class="row no-gutters">
-                <div class="col-md-2">
-                    <img src="{{ .Params.logo | relURL }}" class="card-img border-0" alt="{{ .Params.title }} logo" />
-                </div>
-                <div class="col-md-10">
-                    <div class="card-body">
-                        <h5 class="card-title"><a href="{{ .Permalink }}">{{ .Params.title }}</a></h5>
-                        <p class="card-text">{{ .Params.description }}</p>
-                        {{ range (.GetTerms "themes") }}
-                        <p class="card-text"><small class="text-muted"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></small></p>
-                        {{ end }}
-                    </div>
+    <div class="row mt-3 fosdem-description">
+        <div class="col">
+            <p>
+                All stands at FOSDEM 2021. If you want to see them per theme, you can go to <a href="/themes/">the themes page</a>.
+            </p>
+        </div>
+    </div>
+    <div class="row mt-4 fosdem-stands">
+        {{ range .Pages }}
+        {{ if .Params.show_on_overview }}
+        <div class="col-sm-3">
+            <div class="card mb-3 border-0">
+                {{ if (fileExists (path.Join "/static/" .Params.logo)) -}}
+                    <a href="{{ .Permalink }}"><img src="{{ .Params.logo | relURL }}" class="card-img border-0" alt="{{ .Params.title }} logo" /></a>
+                {{ else }}
+                    <a href="{{ .Permalink }}"><img src="/img/empty_stand_logo.jpg" class="card-img border-0" alt="{{ .Params.title }} logo" /></a>
+                {{- end }}
+                <div class="card-body">
+                    <h5 class="card-title"><a href="{{ .Permalink }}">{{ .Params.title }}</a></h5>
+                    {{ if .Params.overview }}
+                    <p class="card-text">{{ .Params.overview | truncate 200 "..." | plainify }}</p>
+                    {{ else }}
+                    <p class="card-text">{{ .Params.description | truncate 200 "..." | plainify }}</p>
+                    {{ end }}
+                    {{ range (.GetTerms "themes") }}
+                    <p class="card-text"><small class="text-muted"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></small></p>
+                    {{ end }}
                 </div>
             </div>
         </div>
+        {{ end }}
+    {{ end }}
     </div>
-</div>
-{{ end }}
-{{ end }}
 </div>
 {{ end }}
