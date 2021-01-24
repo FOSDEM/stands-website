@@ -8,10 +8,10 @@ description: |
 layout: stand
 logo: stands/coderdojo_belgium/logo.png
 new_this_year: |
-  We are continuously growing, adding more and more dojos. Since last year we had to adapt and give online dojos.
-  ach year we provide free workshops and conference for our coaches so that they can develop new skills that they can afterwards share with the kids.
-showcase:   
-  CoderDojo is also an environment where coaches and kids can get together with other technology enthusiasts and experiment with everything digital. It is a meeting place for digital minds and a playground for young and old. Have you always wanted to race with robots, send messages with a led screen or build your own version of Mario Bros? CoderDojo is your perfect excuse!
+  <p>We are continuously growing, adding more and more dojos. Since last year we had to adapt and give online dojos.
+  ach year we provide free workshops and conference for our coaches so that they can develop new skills that they can afterwards share with the kids.</p>
+showcase: | 
+  <p>CoderDojo is also an environment where coaches and kids can get together with other technology enthusiasts and experiment with everything digital. It is a meeting place for digital minds and a playground for young and old. Have you always wanted to race with robots, send messages with a led screen or build your own version of Mario Bros? CoderDojo is your perfect excuse!</p>
 themes:
 - Education
 title: CoderDojo Belgium
