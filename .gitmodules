@@ -93,3 +93,9 @@ url = https://git.postgresql.org/git/fosdem2021-content.git
 [submodule "static/stands/openembedded"]
 	path = static/stands/openembedded
 	url = https://gitlab.com/openembedded/community/fosdem-stand-static.git
+[submodule "content/stands/mautic"]
+	path = content/stands/mautic
+	url = https://github.com/mautic/fosdem-2021-stand-content.git
+[submodule "static/stands/mautic"]
+	path = static/stands/mautic
+	url = https://github.com/mautic/fosdem-2021-stand-static.git
