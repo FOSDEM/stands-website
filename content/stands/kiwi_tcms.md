@@ -18,7 +18,7 @@ layout: stand
 logo: stands/kiwi_tcms/logo.png
 new_this_year: |
 
-    Since FOSDEM 2020 Kiwi TCMS managed to:
+    <p>Since FOSDEM 2020 Kiwi TCMS managed to:</p>
 
     <ul>
         <li>
