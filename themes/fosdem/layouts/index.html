@@ -7,8 +7,41 @@
     </div>
     <div class="row">
         <div class="col-sm-4 mt-4 mb-4 mx-auto text-center fosdem-subtitle-frame px-2 py-2">
-            <span class="fosdem-subtitle">FOSDEM 2021 STANDS / Online / 6 & 7 February 2021</span>
+            <span class="fosdem-subtitle">FOSDEM 2021 Stands</span>
         </div>
+    </div>
+</div>
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-sm-12 fosdem-jumbotron">
+            <h2>Welcome to the FOSDEM 2021 Stands website!</h2>
+            <p class="fosdem-leader">
+                FOSDEM 2021 is our first fully online edition, and FOSDEM would not be FOSDEM without stands; so welcome to our fully online stands display website!
+            </p>
+            <p>
+                Online stands may seem a bit different from physical stands, but not a lot has changed. We have a little over 50 stands, organised per <a href="/themes/">theme</a>.
+                Normally, we would also split them per building, but this year we decided not to do so ;-)
+            </p>
+            <p>
+                Each stand has its own page (or group of pages), with all the information and topics they wish to show you. We've also created a special chat room for each stand, where you can discuss with the team behind the project (a bit like the hallways - though less crowded). Some stands also recorded video's, demoing their product or showing their <i>new hot thing</i>.
+            </p>
+            <p>
+                You can browse the stands per theme <a href="/themes/">here</a> (or below) or visit all the stands <a href="/stands/">here</a>. You can also return to the main conference floor at <a href="https://fosdem.org/2021">fosdem.org</a>.
+            </p>
+        </div>
+    </div>
+    <div class="row mt-4 fosdem-themes">
+        {{ range .Site.Taxonomies.themes }}
+        <div class="col-sm-3">
+            <div class="card mb-3 border-0" style="width: 18rem;">
+                <!--<img src="{{ .Page.Params.Logo | relURL }}" class="card-img" alt="{{ .Page.Title }} logo" />-->
+                <div class="card-body">
+                    <h5 class="card-title h6"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h5>
+                    <p class="card-text text-justify">{{ .Page.Params.Description }}</p>
+                </div>
+            </div>
+        </div>
+    {{ end }}
     </div>
 </div>
 {{ end }}
