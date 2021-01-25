@@ -7,12 +7,12 @@
 	url = https://github.com/tribe29/checkmk-fosdem-static.git
 
 [submodule "content/stands/free_software_foundation_europe"]
-path = content/stands/free_software_foundation_europe
-url = https://git.fsfe.org/FSFE/fosdem21-content.git
+	path = content/stands/free_software_foundation_europe
+	url = https://git.fsfe.org/FSFE/fosdem21-content.git
 
 [submodule "static/stands/free_software_foundation_europe"]
-path = static/stands/free_software_foundation_europe
-url = https://git.fsfe.org/FSFE/fosdem21-static.git
+	path = static/stands/free_software_foundation_europe
+	url = https://git.fsfe.org/FSFE/fosdem21-static.git
 
 [submodule "content/stands/kiwi_tcms"]
 	path = content/stands/kiwi_tcms
@@ -35,9 +35,8 @@ url = https://git.fsfe.org/FSFE/fosdem21-static.git
 	url = https://git.postgresql.org/git/fosdem2021-static.git
 
 [submodule "content/stands/postgresql"]
-path = content/stands/postgresql
-url = https://git.postgresql.org/git/fosdem2021-content.git
-
+	path = content/stands/postgresql
+	url = https://git.postgresql.org/git/fosdem2021-content.git
 
 [submodule "static/stands/box86"]
 	path = static/stands/box86
@@ -105,3 +104,4 @@ url = https://git.postgresql.org/git/fosdem2021-content.git
 [submodule "static/stands/thola___nesi"]
 	path = static/stands/thola___nesi
 	url = https://github.com/inexio/fosdem21-stand-static.git
+
