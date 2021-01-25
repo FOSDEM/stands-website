@@ -1,67 +1,13 @@
 ---
 description: "
+Hi there!
 
-
-<h2>Introductions</h2>
-<p>Let us introduce ourselves. We are Nextcloud, a global community of thousands of contributors developing Nextcloud Hub - a open source, on premises content collaboration platform.</p>
-
-<p>What is a content collaboration platform? Why on premises and open source? Let's answer that with a question!</p>
-<div class=\"row\">
-    <div class=\"col-md-8\">
-        <p>Where is your data? Where are the pictures from your last vacation on the beach, where is your contact list, where are the last chats you had with your loved ones? Who has access to that data, who can see it, who can download it, who can modify or delete it? Do you trust the services you use to take care of your data?
-
-        <p>Your data represents who you are and can easily be abused. We want this to change.</p>
-        <p>We at Nextcloud believe that you have a right to decide what happens with your data. We believe that you should be able to have as much control as possible on what belongs to no one else but you.</p>
-    </div>
-    <div class=\"col-md-4\">
-        <img style=\"width: 100%; height: auto; float: right;\" src=\"stands/nextcloud/who_owns_your_data.gif\">
-    </div>
-</div>
-<h3>Protecting your rights</h3>
-<div class=\"row\">
-    <div class=\"col-md-8\">
-        <p>How does that work? First, Nextcloud is an Open Source private cloud software, which means that anyone can read the code, and make sure it keeps your data safe. And second, at Nextcloud, we don't force you to pick our own infrastructure or servers like the big famous public clouds do. You can run Nextcloud yourself, at home or in a data center on rented space. You can buy ready-to-go devices with Nextcloud or pick a provider who rents out space to you!</p>
-
-        <p>We built a software that does everything you expect from a cloud - from syncing and sharing files to editing documents, storing passwords, calendars and bookmarks and reading mail. But YOU decide where the data is and who has access!</p>
-    </div>
-    <div class=\"col-md-4\">
-        <img style=\"width: 100%; height: auto;\" src=\"stands/nextcloud/dashboard.png\">
-    </div>
-</div>
-
-<h3>What it looks like</h3>
-
-<p>We created some videos to give you an idea of what Nextcloud Hub looks like!</p>
-
-<div class=\"row\">
-    <div class=\"col-md-6\">
-        <stream src=\"eb1384b4fa48d8f47abdec5051bc922d\" controls poster=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/hub-video.png\"></stream>
-        <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=eb1384b4fa48d8f47abdec5051bc922d\"></script>
-    </div>
-    <div class=\"col-md-6\">
-        <stream src=\"4b66104c586170a4dc5b6ebbed80b193\" controls preload poster=\"https://nextcloud.com/wp-content/themes/next//assets/img/features/homeoffice-video.png\">
-        </stream> <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=4b66104c586170a4dc5b6ebbed80b193\"></script>
-    </div>
-</div>
-<div style=\"margin-top:20px;\" class=\"row\">
-    <div class=\"col-md-4\">
-        <stream src=\"fa1b52828b602f72cf1bcfab61f74fb4\" controls poster=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/files-video.png\"></stream>
-        <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=fa1b52828b602f72cf1bcfab61f74fb4\"></script>
-    </div>
-    <div class=\"col-md-4\">
-        <stream src=\"58bf7b0f3ae662ee1d6b368099c8c94f\" controls poster=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/talk-video.png\"></stream>
-        <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=58bf7b0f3ae662ee1d6b368099c8c94f\"></script>
-    </div>
-    <div class=\"col-md-4\">
-    <stream src=\"3e135d59fff771d1909c4b8d588d5800\" controls poster=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/groupware-video.png\"></stream>
-    <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=3e135d59fff771d1909c4b8d588d5800\"></script>
-    </div>
-</div>
-
+We are Nextcloud, a global community of thousands of contributors developing Nextcloud Hub - a open source, self-hosted content collaboration platform. That is, we replace Google Workspace or Microsoft 365 with something that gives YOU control over your data. More privacy, but easy to use and secure. Sync files, edit and share them with others, chat or have a video call while keeping notes together and so on! All on your own server, or at a provider you can actually trust.
 "
 layout: stand
-logo: stands/nextcloud/logo.png
-new_this_year: "<p>To find out what's new in Nextcloud over 2020, it's probably best to check out our talk on that subject. But we'll also happily share some basics here.</p>
+logo: /stands/nextcloud/logo.png
+new_this_year: "
+<p>To find out what's new in Nextcloud over 2020, it's probably best to check out our talk on that subject. But we'll also happily share some basics here.</p>
 <h3>Releases</h3>
 <h4>Nextcloud hub 20</h4>
 <p>The three biggest features we introduced with Nextcloud 20 are:</p>
@@ -123,8 +69,61 @@ new_this_year: "<p>To find out what's new in Nextcloud over 2020, it's probably 
 <li><a href=\"https://nextcloud.com/blog/nextcloud-forms-is-here-to-take-on-gafam/\">We released Nextcloud Forms to replace Google Forms.</a></li>
 <li><a href=\"https://nextcloud.com/blog/nextcloud-mail-introduces-machine-learning-for-priority-inbox/\">Nextcloud Mail introduced a machine learning powered priority inbox</a></li>
 <li><a href=\"https://nextcloud.com/blog/nextcloud-deck-1-0-available-today-plus-deck-for-android/\">Nextcloud Deck made it to 1.0!</a></li>"
-showcase: "We have a virtual stand and we'll try and answer questions you have in the chat room. There's a talk about Nextcloud in 2020 and of course you can check the videos above.</p>
-<p>Of course, there's a lot more to learn about Nextcloud, and we've collected some links for you to our website:</p>
+showcase: "
+<h3>Introductions</h3>
+<p>What is a content collaboration platform? Why on premises and open source? Let's answer that with a question!</p>
+<div class=\"row\">
+    <div class=\"col-md-8\">
+        <p>Where is your data? Where are the pictures from your last vacation on the beach, where is your contact list, where are the last chats you had with your loved ones? Who has access to that data, who can see it, who can download it, who can modify or delete it? Do you trust the services you use to take care of your data?
+
+        <p>Your data represents who you are and can easily be abused.<br /> <strong>We want this to change.</strong></p>
+        <p>We at Nextcloud believe that you have a right to decide what happens with your data. We believe that you should be able to have as much control as possible on what belongs to no one else but you.</p>
+    </div>
+    <div class=\"col-md-4\">
+        <img style=\"width: 100%; height: auto; float: right;\" src=\"/stands/nextcloud/who_owns_your_data.gif\">
+    </div>
+</div>
+<h4>Protecting your rights</h4>
+<div class=\"row\">
+    <div class=\"col-md-8\">
+        <p>How does that work? First, Nextcloud is an Open Source private cloud software, which means that anyone can read the code, and make sure it keeps your data safe. And second, at Nextcloud, we don't force you to pick our own infrastructure or servers like the big famous public clouds do. You can run Nextcloud yourself, at home or in a data center on rented space. You can buy ready-to-go devices with Nextcloud or pick a provider who rents out space to you!</p>
+
+        <p>We built a software that does everything you expect from a cloud - from syncing and sharing files to editing documents, storing passwords, calendars and bookmarks and reading mail. But YOU decide where the data is and who has access!</p>
+    </div>
+    <div class=\"col-md-4\">
+        <img style=\"width: 100%; height: auto;\" src=\"/stands/nextcloud/dashboard.png\">
+    </div>
+</div>
+
+<h4>What it looks like</h4>
+
+<p>We created some videos to give you an idea of what Nextcloud Hub looks like!</p>
+
+<div class=\"row\">
+    <div class=\"col-md-6\">
+        <stream src=\"eb1384b4fa48d8f47abdec5051bc922d\" controls poster=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/hub-video.png\"></stream>
+        <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=eb1384b4fa48d8f47abdec5051bc922d\"></script>
+    </div>
+    <div class=\"col-md-6\">
+        <stream src=\"4b66104c586170a4dc5b6ebbed80b193\" controls preload poster=\"https://nextcloud.com/wp-content/themes/next//assets/img/features/homeoffice-video.png\">
+        </stream> <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=4b66104c586170a4dc5b6ebbed80b193\"></script>
+    </div>
+</div>
+<div style=\"margin-top:20px;\" class=\"row\">
+    <div class=\"col-md-4\">
+        <stream src=\"fa1b52828b602f72cf1bcfab61f74fb4\" controls poster=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/files-video.png\"></stream>
+        <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=fa1b52828b602f72cf1bcfab61f74fb4\"></script>
+    </div>
+    <div class=\"col-md-4\">
+        <stream src=\"58bf7b0f3ae662ee1d6b368099c8c94f\" controls poster=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/talk-video.png\"></stream>
+        <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=58bf7b0f3ae662ee1d6b368099c8c94f\"></script>
+    </div>
+    <div class=\"col-md-4\">
+    <stream src=\"3e135d59fff771d1909c4b8d588d5800\" controls poster=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/groupware-video.png\"></stream>
+    <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=3e135d59fff771d1909c4b8d588d5800\"></script>
+    </div>
+</div>
+<p style=\"margin-top: 20px;\">Of course, there's a lot more to learn about Nextcloud, and we've collected some links for you to our website:</p>
 <ul>
 <li><a href=\"https://nextcloud.com/hub\">Nextcloud Hub overview</a></li>
 <li><a href=\"https://nextcloud.com/files\">Nextcloud Files overview</a></li>
@@ -155,7 +154,7 @@ showcase: "We have a virtual stand and we'll try and answer questions you have i
 </ul>
 <p>Also, did you know we <a href=\"https://nextcloud.com/podcast\">have a podcast?</a></p>
 
-
+<p>We have a virtual stand and we'll try and answer questions you have in the chat room. There's a talk about Nextcloud in 2020 and of course you can check the videos above.</p>
 "
 themes:
 - World wide web
@@ -163,7 +162,3 @@ title: 'Nextcloud Hub'
 website: https://nextcloud.com
 show_on_overview: true
 ---
-
-# Welcome to the Nextcloud stand!
-
-this is awesome
