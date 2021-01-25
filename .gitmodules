@@ -105,3 +105,6 @@
 	path = static/stands/thola___nesi
 	url = https://github.com/inexio/fosdem21-stand-static.git
 
+[submodule "static/stands/coderdojo_belgium"]
+	path = static/stands/coderdojo_belgium
+	url = https://github.com/valeriecdj/FosdemStatic.git
