@@ -99,3 +99,9 @@ url = https://git.postgresql.org/git/fosdem2021-content.git
 [submodule "static/stands/mautic"]
 	path = static/stands/mautic
 	url = https://github.com/mautic/fosdem-2021-stand-static.git
+[submodule "content/stands/thola___nesi"]
+	path = content/stands/thola___nesi
+	url = https://github.com/inexio/fosdem21-stand-content.git
+[submodule "static/stands/thola___nesi"]
+	path = static/stands/thola___nesi
+	url = https://github.com/inexio/fosdem21-stand-static.git
