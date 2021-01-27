@@ -30,4 +30,5 @@ themes:
 title: KDE Community
 website: https://kde.org
 show_on_overview: true
+chatroom: kde
 ---

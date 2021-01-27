@@ -33,4 +33,5 @@ themes:
 title: The Fedora Project
 website: https://getfedora.org/
 show_on_overview: true
+chatroom: fedora
 ---

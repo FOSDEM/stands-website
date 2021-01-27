@@ -80,4 +80,5 @@ themes:
 title: Matrix
 website: https://matrix.org
 show_on_overview: true
+chatroom: matrix
 ---

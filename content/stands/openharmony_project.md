@@ -28,4 +28,5 @@ themes:
 title: OpenHarmony Project
 website: https://www.ostc-eu.org
 show_on_overview: true
+chatroom: openharmony
 ---

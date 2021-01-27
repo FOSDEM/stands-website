@@ -121,4 +121,5 @@ themes:
 title: Kiwi TCMS
 website: https://kiwitcms.org
 show_on_overview: true
+chatroom: kiwi
 ---

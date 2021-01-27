@@ -24,4 +24,5 @@ new_this_year: |
     <li>We released some important features as the RAM backup, the support for Epyc CPU range, the introduction of ext4 filesystem as default storage file, the CPU scheduling support and many other important features</li>
     <li>We released the first Long Term Support edition of our project (8.2 LTS)</li>
   </ul>
+chatroom: xcpng
 ---

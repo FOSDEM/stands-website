@@ -58,4 +58,5 @@ themes:
 title: OpenTAP
 website: http://www.opentap.io
 show_on_overview: true
+chatroom: opentap
 ---

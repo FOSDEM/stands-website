@@ -39,4 +39,5 @@ themes:
 title: Jenkins
 website: https://www.jenkins.io
 show_on_overview: true
+chatroom: jenkins
 ---

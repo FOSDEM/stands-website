@@ -20,4 +20,5 @@ themes:
 - Gaming
 title: Box86
 website: https://ptitseb.github.io/box86/
+chatroom: box86
 ---

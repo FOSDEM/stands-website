@@ -39,4 +39,5 @@ themes:
 title: Haiku
 website: https://www.haiku-os.org/
 show_on_overview: true
+chatroom: haiku
 ---

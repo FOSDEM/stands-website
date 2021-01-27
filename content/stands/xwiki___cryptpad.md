@@ -74,4 +74,5 @@ themes:
 title: XWiki & CryptPad
 show_on_overview: true
 website: https://xwiki.com
+chatroom: xwiki
 ---

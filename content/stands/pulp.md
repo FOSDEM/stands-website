@@ -33,4 +33,5 @@ themes:
 title: Pulp
 website: https://pulpproject.org/
 show_on_overview: true
+chatroom: pulp
 ---
