@@ -43,7 +43,8 @@ def create_skeleton(path_name, stand_o):
         'description': stand_o['submission']['project']['description'],
         'showcase': stand_o['submission']['digital_edition']['showcase'],
         'new_this_year': stand_o['submission']['digital_edition']['new_this_year'],
-        'layout': 'stand'
+        'layout': 'stand',
+        'chatroom': stand_o['submission']['project']['chatroom']
     }
     _index = """---
 {0}---""".format(yaml.dump(_index_contents, default_flow_style=False))
