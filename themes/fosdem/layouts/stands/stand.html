@@ -48,8 +48,12 @@
                 <div class="card-body">
                     <h5 class="card-title">The {{ .Params.Title }} stand</h5>
                     <ul class="list-group list-group-flush">
-                        <li class="list-group-item"><a href="https://chat.fosdem.org/stands/{{ .Params.Title }}">Chatroom</a></li>
-                        <li class="list-group-item"><a href="https://video.fosdem.org/stands/{{ .Params.Title }}">Video's</a></li>
+                        {{ if .Params.Chatroom }}
+                        <li class="list-group-item"><a href="https://chat.fosdem.org/#/room/#{{ .Params.Chatroom }}-stand:fosdem.org">Chatroom</a></li>
+                        {{ else }}
+                        <li class="list-group-item"><a href="https://chat.fosdem.org/#/room/#{{ .File.TranslationBaseName }}-stand:fosdem.org">Chatroom</a></li>
+                        {{ end }}
+                        <li class="list-group-item"><a href="https://video.fosdem.org/2021/stands/{{ .Params.Title }}">Video's</a></li>
                         {{ range .Pages }}
                         {{ if .Params.title }}
                         <li class="list-group-item"><a href="{{ .Permalink }}">{{ .Params.title }}</a></li>

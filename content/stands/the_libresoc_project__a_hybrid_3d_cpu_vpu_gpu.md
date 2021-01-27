@@ -27,4 +27,5 @@ themes:
 title: 'The LibreSOC Project'
 website: http://libre-soc.org
 show_on_overview: true
+chatroom: libresoc
 ---

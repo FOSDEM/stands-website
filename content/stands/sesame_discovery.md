@@ -46,4 +46,5 @@ themes:
 title: Sesame Discovery
 website: https://github.com/opencomputeproject/discovery
 show_on_overview: true
+chatroom: sesame
 ---

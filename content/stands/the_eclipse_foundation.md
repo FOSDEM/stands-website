@@ -45,4 +45,5 @@ themes:
 title: The Eclipse Foundation
 website: https://www.eclipse.org
 show_on_overview: true
+chatroom: eclipse
 ---

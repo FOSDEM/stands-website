@@ -18,4 +18,5 @@ themes:
 - System administration
 title: Checkmk
 website: https://checkmk.com
+chatroom: checkmk
 ---

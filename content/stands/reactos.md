@@ -43,4 +43,5 @@ themes:
 title: ReactOS
 website: https://reactos.org/
 show_on_overview: true
+chatroom: reactos
 ---

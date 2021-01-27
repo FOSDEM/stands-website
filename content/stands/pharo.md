@@ -43,4 +43,5 @@ themes:
 title: Pharo
 website: https://www.pharo.org
 show_on_overview: true
+chatroom: pharo
 ---

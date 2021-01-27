@@ -30,4 +30,5 @@ themes:
 - Database engines
 title: PostgreSQL
 website: https://www.postgresql.org/
+chatroom: postgresql
 ---

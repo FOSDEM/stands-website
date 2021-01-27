@@ -31,4 +31,5 @@ themes:
 title: FreeBSD Project
 website: https://www.freebsd.org/
 show_on_overview: true
+chatroom: freebsd
 ---

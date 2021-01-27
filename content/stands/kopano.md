@@ -68,4 +68,5 @@ themes:
 title: Kopano
 show_on_overview: true
 website: https://kopano.io/
+chatroom: kopano
 ---

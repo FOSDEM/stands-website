@@ -73,4 +73,5 @@ themes:
 title: ONLYOFFICE
 website: https://www.onlyoffice.com/
 show_on_overview: true
+chatroom: onlyoffice
 ---

@@ -12,4 +12,5 @@ themes:
 title: Debian
 show_on_overview: true
 website: https://www.debian.org
+chatroom: debian
 ---

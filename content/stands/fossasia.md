@@ -25,4 +25,5 @@ themes:
 title: FOSSASIA
 show_on_overview: true
 website: https://fossasia.org/
+chatroom: fossasia
 ---

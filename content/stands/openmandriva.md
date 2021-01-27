@@ -61,4 +61,5 @@ new_this_year: |
   <li><a target="_blank" rel="noopener noreferrer" href="https://github.com/OpenMandrivaAssociation">Our github repositories</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://openmandriva.org">OpenMandriva main site and forums</a></li>
   </ul>
+chatroom: openmandriva
 ---

@@ -81,6 +81,15 @@ All other files can by any content Hugo accepts (HTML, MD).
 
 You must provide a _title_ parameter in the front matter of your other pages; otherwise the links will not work.
 
+## Chatroom functionality
+
+## Video
+No youtube
+
+video.fosdem.org
+
+upload via penta
+
 
 ## Technical details
 
