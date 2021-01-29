@@ -60,4 +60,5 @@ themes:
 title: ntop
 website: https://www.ntop.org/
 show_on_overview: true
+chatroom: ntop
 ---

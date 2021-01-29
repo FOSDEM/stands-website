@@ -214,4 +214,5 @@ themes:
 title: MariaDB Foundation
 website: https://mariadb.org/
 show_on_overview: true
+chatroom: mariadb
 ---

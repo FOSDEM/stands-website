@@ -19,4 +19,5 @@ themes:
 - Office suites and productivity
 title: CiviCRM
 website: https://civicrm.org/
+chatroom: civicrm
 ---

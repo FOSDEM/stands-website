@@ -26,4 +26,5 @@ themes:
 - System administration
 title: Foreman
 website: https://theforeman.org
+chatroom: foreman
 ---

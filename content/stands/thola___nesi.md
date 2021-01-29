@@ -49,4 +49,5 @@ themes:
 title: Thola / NESi
 website: https://thola.io
 show_on_overview: true
+chatroom: thola
 ---

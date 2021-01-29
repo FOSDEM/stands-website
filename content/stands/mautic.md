@@ -64,4 +64,5 @@ themes:
 title: Mautic
 website: https://www.mautic.org
 show_on_overview: true
+chatroom: mautic
 ---
