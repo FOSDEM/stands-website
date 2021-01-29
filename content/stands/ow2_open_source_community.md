@@ -60,4 +60,5 @@ title: OW2 Open Source Community
 website: https://www.ow2.org/
 show_on_overview: true
 chatroom: ow2
+draft: true
 ---
