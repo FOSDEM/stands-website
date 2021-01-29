@@ -67,6 +67,7 @@
             </div>
         </div>
     </div>
+    {{ if isset .Params "new_this_year" }}
     <div class="row mt-4">
         <div class="col">
             <h2>{{ .Params.Title }} in 2020</h2>
@@ -77,5 +78,6 @@
             {{ .Params.New_this_year | safeHTML }}
         </div>
     </div>
+    {{ end }}
 </div>
 {{ end }}
