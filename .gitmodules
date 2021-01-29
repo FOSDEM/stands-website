@@ -108,3 +108,9 @@
 [submodule "static/stands/coderdojo_belgium"]
 	path = static/stands/coderdojo_belgium
 	url = https://github.com/valeriecdj/FosdemStatic.git
+[submodule "static/stands/eclipse-foundation"]
+	path = static/stands/eclipse-foundation
+	url = https://github.com/EclipseFdn/fosdem2021-static.git
+[submodule "content/stands/eclipse-foundation"]
+	path = content/stands/eclipse-foundation
+	url = https://github.com/EclipseFdn/fosdem2021-content.git
