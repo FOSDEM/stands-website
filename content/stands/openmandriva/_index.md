@@ -1,4 +1,11 @@
 ---
+title: OpenMandriva
+themes:
+ - Operating systems
+website: https://openmandriva.org/
+layout: stand
+show_on_overview: true
+logo: stands/openmandriva/logo.png
 description: |
   OpenMandriva is a 100% community controlled Linux distribution.
 
@@ -41,13 +48,7 @@ new_this_year: |
     the core system, such as making crosscompiling and targeting multiple architectures
     easier than ever.
   <br></br>
-
-  <p>Support us to keep up the pace!</p>
-  <ul>
-  <li><a target="_blank" rel="noopener noreferrer" href="https://www.hellotux.com/openmandriva">Buy some cool apparel</a></li>
-  <li><a target="_blank" rel="noopener noreferrer" href="https://www.openmandriva.org/en/Donate">Send some donation</a></li>
-  </ul>
-  <p>Please follow below links for more information:</p>
+    <p>Please follow below links for more information:</p>
   <ul>
   <li><a target="_blank" rel="noopener noreferrer" href="https://sourceforge.net/projects/openmandriva/files/release/4.2/RC/">OpenMandriva Lx 4.2 RC</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://gallery.openmandriva.org/index.php?/category/37">4.2 Release Gallery</a></li>
@@ -55,6 +56,10 @@ new_this_year: |
   <li><a target="_blank" rel="noopener noreferrer" href="https://github.com/OpenMandrivaAssociation">Our github repositories</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://openmandriva.org">OpenMandriva main site and forums</a></li>
   </ul>
-chatroom: openmandriva
+  <p>Support us to keep up the pace!</p>
+  <ul>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://www.openmandriva.org/en/Donate">Send some donation</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://www.hellotux.com/openmandriva">Buy some cool apparel</a></li>
+  </ul>
 
 ---
