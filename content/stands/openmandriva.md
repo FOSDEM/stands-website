@@ -1,4 +1,11 @@
 ---
+title: OpenMandriva
+themes:
+ - Operating systems
+website: https://openmandriva.org/
+layout: stand
+show_on_overview: true
+logo: stands/openmandriva/logo.png
 description: |
   OpenMandriva is a 100% community controlled Linux distribution.
 
