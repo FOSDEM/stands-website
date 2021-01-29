@@ -1,8 +1,8 @@
 ---
 description: |
-	Founded in 2009, FOSSASIA has developed a wide-range open source projects from software to hardware, organized developer events and run coding programs. We want to provide access to open technologies and knowledge that enable people to build solutions according to their own ideas and needs. It is our mission to foster the free and open source movement in Asia and sustain the FOSS ecosystem. 
-	### FOSSASIA Summit 2021, March 13-21 
-	The [FOSSASIA Summit](https://eventyay.com/e/fa96ae2c/cfs) takes place every year in March right after FOSDEM as a platform for continued collaboration. We want to build bridges between communities around the world, introduce new FOSS solutions, and connect projects with potential users and contributors in Asia. This year's summit will be virtual and spread out over the week of 13-21 March. We are inviting open source projects, contributors, and user groups to join us at [summit.fossasia.org](https://eventyay.com/e/fa96ae2c).
+  Founded in 2009, FOSSASIA has developed a wide-range open source projects from software to hardware, organized developer events and run coding programs. We want to provide access to open technologies and knowledge that enable people to build solutions according to their own ideas and needs. It is our mission to foster the free and open source movement in Asia and sustain the FOSS ecosystem. 
+  ### FOSSASIA Summit 2021, March 13-21 
+  The [FOSSASIA Summit](https://eventyay.com/e/fa96ae2c/cfs) takes place every year in March right after FOSDEM as a platform for continued collaboration. We want to build bridges between communities around the world, introduce new FOSS solutions, and connect projects with potential users and contributors in Asia. This year's summit will be virtual and spread out over the week of 13-21 March. We are inviting open source projects, contributors, and user groups to join us at [summit.fossasia.org](https://eventyay.com/e/fa96ae2c).
 
 layout: stand
 logo: stands/fossasia/pslab_main.jpg
