@@ -108,3 +108,6 @@
 [submodule "static/stands/coderdojo_belgium"]
 	path = static/stands/coderdojo_belgium
 	url = https://github.com/valeriecdj/FosdemStatic.git
+[submodule "content/stands/haiku"]
+	path = content/stands/haiku
+	url = https://github.com/pulkomandy/fosdem-stands-haiku.git
