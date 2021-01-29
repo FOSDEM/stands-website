@@ -126,3 +126,9 @@
 	path = static/stands/mariadb_foundation
 	url = https://github.com/MariaDB-FOSDEM/stand-static.git
 
+[submodule "content/stands/opentap"]
+	path = content/stands/opentap
+	url = https://github.com/kaushiksanthanam/opentap-fosdem21-content.git
+[submodule "static/stands/opentap"]
+	path = static/stands/opentap
+	url = https://github.com/kaushiksanthanam/opentap-fosdem21-static.git
