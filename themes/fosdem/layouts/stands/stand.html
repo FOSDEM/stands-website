@@ -20,7 +20,7 @@
     </div>
     <div class="row">
         <div class="col">
-            <h1>Welcome to the {{ .Params.Title }} stand!</h1>
+            <h1>Welcome to the {{ .Params.Title }} Stand!</h1>
         </div>
     </div>
     <div class="row mt-2">
@@ -46,14 +46,14 @@
         <div class="col-sm-4">
             <div class="card">
                 <div class="card-body">
-                    <h5 class="card-title">The {{ .Params.Title }} stand</h5>
+                    <h5 class="card-title">The {{ .Params.Title }} Stand</h5>
                     <ul class="list-group list-group-flush">
                         {{ if .Params.Chatroom }}
                         <li class="list-group-item"><a href="https://chat.fosdem.org/#/room/#{{ .Params.Chatroom }}-stand:fosdem.org">Chatroom</a></li>
-                        <li class="list-group-item"><a href="https://video.fosdem.org/2021/stands/{{ .Params.Chatroom }}">Video's</a></li>
+                        <li class="list-group-item"><a href="https://video.fosdem.org/2021/stands/{{ .Params.Chatroom }}">Videos</a></li>
                         {{ else }}
                         <li class="list-group-item"><a href="https://chat.fosdem.org/#/room/#{{ .File.TranslationBaseName }}-stand:fosdem.org">Chatroom</a></li>
-                        <li class="list-group-item"><a href="https://video.fosdem.org/2021/stands/{{ .File.TranslationBaseName }}">Video's</a></li>
+                        <li class="list-group-item"><a href="https://video.fosdem.org/2021/stands/{{ .File.TranslationBaseName }}">Videos</a></li>
                         {{ end }}
                         {{ range .Pages }}
                         {{ if .Params.title }}
@@ -67,6 +67,7 @@
             </div>
         </div>
     </div>
+    {{ if isset .Params "new_this_year" }}
     <div class="row mt-4">
         <div class="col">
             <h2>{{ .Params.Title }} in 2020</h2>
@@ -77,5 +78,6 @@
             {{ .Params.New_this_year | safeHTML }}
         </div>
     </div>
+    {{ end }}
 </div>
 {{ end }}
