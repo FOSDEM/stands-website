@@ -17,4 +17,5 @@ themes:
 title: CoderDojo Belgium
 website: https://www.coderdojobelgium.be/en
 show_on_overview: true
+chatroom: coderdojo
 ---

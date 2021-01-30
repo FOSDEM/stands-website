@@ -5,6 +5,7 @@ themes:
 website: https://openmandriva.org/
 layout: stand
 show_on_overview: true
+draft: true
 logo: stands/openmandriva/logo.png
 description: |
   OpenMandriva is a 100% community controlled Linux distribution.
