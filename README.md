@@ -72,6 +72,7 @@ new_this_year: |
     _What has happened in 2020 to your project? You can use HTML (p, ul, etc.)_
 
 layout: stand
+chatroom: _Room name in pentabarf_
 ---
 ```
 
@@ -82,6 +83,14 @@ All other files can by any content Hugo accepts (HTML, MD).
 You must provide a _title_ parameter in the front matter of your other pages; otherwise the links will not work.
 
 ## Chatroom functionality
+
+Each stand will have a dedicated chatroom, created based on the information in *pentabarf*. Your chat room name is the same name as the _room_ you are
+scheduled in in pentabarf.
+
+We have put the name of the chatroom as *chatroom* on all stands pages. _However, if you provided your own \_index.md file, you *must add this parameter*, otherwise your chatroom link will not be functional._ You cannot change this yourself.
+
+Each chatroom will have the two contacts listed in your submission (and who created an account in Pentabarf) as _moderator_. Additionally, all FOSDEM staff
+will be given the same role. Moderators can invite other moderators, but note that you require a Matrix account for this.
 
 ## Video
 No youtube
