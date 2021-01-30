@@ -59,4 +59,5 @@ themes:
 title: schul-frei
 website: https://schul-frei.org
 show_on_overview: true
+chatroom: schulfrei
 ---

@@ -7,12 +7,12 @@
 	url = https://github.com/tribe29/checkmk-fosdem-static.git
 
 [submodule "content/stands/free_software_foundation_europe"]
-path = content/stands/free_software_foundation_europe
-url = https://git.fsfe.org/FSFE/fosdem21-content.git
+	path = content/stands/free_software_foundation_europe
+	url = https://git.fsfe.org/FSFE/fosdem21-content.git
 
 [submodule "static/stands/free_software_foundation_europe"]
-path = static/stands/free_software_foundation_europe
-url = https://git.fsfe.org/FSFE/fosdem21-static.git
+	path = static/stands/free_software_foundation_europe
+	url = https://git.fsfe.org/FSFE/fosdem21-static.git
 
 [submodule "content/stands/kiwi_tcms"]
 	path = content/stands/kiwi_tcms
@@ -35,9 +35,8 @@ url = https://git.fsfe.org/FSFE/fosdem21-static.git
 	url = https://git.postgresql.org/git/fosdem2021-static.git
 
 [submodule "content/stands/postgresql"]
-path = content/stands/postgresql
-url = https://git.postgresql.org/git/fosdem2021-content.git
-
+	path = content/stands/postgresql
+	url = https://git.postgresql.org/git/fosdem2021-content.git
 
 [submodule "static/stands/box86"]
 	path = static/stands/box86
@@ -75,3 +74,61 @@ url = https://git.postgresql.org/git/fosdem2021-content.git
 [submodule "static/stands/xwiki___cryptpad"]
 	path = static/stands/xwiki___cryptpad
 	url = https://github.com/xwikisas/fosdem-stand-static.git
+[submodule "content/stands/openwifi"]
+	path = content/stands/openwifi
+	url = https://github.com/JiaoXianjun/openwifi-fosdem21-content.git
+[submodule "static/stands/openwifi"]
+	path = static/stands/openwifi
+	url = https://github.com/JiaoXianjun/openwifi-fosdem21-static.git
+[submodule "content/stands/ow2_open_source_community"]
+	path = content/stands/ow2_open_source_community
+	url = https://gitlab.ow2.org/ow2/fosdem/ow2-fosdem-stand-content.git
+[submodule "static/stands/ow2_open_source_community"]
+	path = static/stands/ow2_open_source_community
+	url = https://gitlab.ow2.org/ow2/fosdem/ow2-fosdem-stand-static.git
+[submodule "content/stands/openembedded"]
+	path = content/stands/openembedded
+	url = https://gitlab.com/openembedded/community/fosdem-stand-content.git
+[submodule "static/stands/openembedded"]
+	path = static/stands/openembedded
+	url = https://gitlab.com/openembedded/community/fosdem-stand-static.git
+[submodule "content/stands/mautic"]
+	path = content/stands/mautic
+	url = https://github.com/mautic/fosdem-2021-stand-content.git
+[submodule "static/stands/mautic"]
+	path = static/stands/mautic
+	url = https://github.com/mautic/fosdem-2021-stand-static.git
+[submodule "content/stands/thola___nesi"]
+	path = content/stands/thola___nesi
+	url = https://github.com/inexio/fosdem21-stand-content.git
+[submodule "static/stands/thola___nesi"]
+	path = static/stands/thola___nesi
+	url = https://github.com/inexio/fosdem21-stand-static.git
+
+[submodule "static/stands/coderdojo_belgium"]
+	path = static/stands/coderdojo_belgium
+	url = https://github.com/valeriecdj/FosdemStatic.git
+
+[submodule "content/stands/haiku"]
+	path = content/stands/haiku
+	url = https://github.com/pulkomandy/fosdem-stands-haiku.git
+
+[submodule "static/stands/eclipse-foundation"]
+	path = static/stands/eclipse-foundation
+	url = https://github.com/EclipseFdn/fosdem2021-static.git
+[submodule "content/stands/eclipse-foundation"]
+	path = content/stands/eclipse-foundation
+	url = https://github.com/EclipseFdn/fosdem2021-content.git
+[submodule "content/stands/mariadb_foundation"]
+	path = content/stands/mariadb_foundation
+	url = https://github.com/MariaDB-FOSDEM/stand-content.git
+[submodule "static/stands/mariadb_foundation"]
+	path = static/stands/mariadb_foundation
+	url = https://github.com/MariaDB-FOSDEM/stand-static.git
+
+[submodule "content/stands/opentap"]
+	path = content/stands/opentap
+	url = https://github.com/kaushiksanthanam/opentap-fosdem21-content.git
+[submodule "static/stands/opentap"]
+	path = static/stands/opentap
+	url = https://github.com/kaushiksanthanam/opentap-fosdem21-static.git

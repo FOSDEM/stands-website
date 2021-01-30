@@ -21,4 +21,5 @@ themes:
 title: School of AI, Port Haarcourt
 website: https://phcschoolofai.org/
 show_on_overview: true
+chatroom: haarcourt
 ---

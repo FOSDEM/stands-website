@@ -27,4 +27,5 @@ themes:
 title: Tracim
 website: https://www.tracim.fr
 show_on_overview: true
+chatroom: tracim
 ---
