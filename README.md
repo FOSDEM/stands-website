@@ -93,12 +93,14 @@ Each chatroom will have the two contacts listed in your submission (and who crea
 will be given the same role. Moderators can invite other moderators, but note that you require a Matrix account for this.
 
 ## Video
-No youtube
 
-video.fosdem.org
+Because of our strict security settings, you cannot embed video's from Youtube (or any other video hosting site) - only from video.fosdem.org.
 
-upload via penta
+You can upload video's via [penta.fosdem.org](https://penta.fosdem.org), where everybody should have an account (if not, contact _stands\_at\_fosdem.org_). The exact process is not automated yet, so you will have to send an e-mail to _stands\_at\_fosdem.org_ and we will provide you with the upload link.
 
+Upload the video, it will be converted by our system. Afterwards, you review and approve the video, which will then be live.
+
+You can embed the video; the links will be of the form _https://video.fosdem.org/2021/stands/\_chatroom\_name\_\_video1.mp4_.
 
 ## Technical details
 
