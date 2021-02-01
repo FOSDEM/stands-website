@@ -29,7 +29,7 @@ showcase: |
     platforms), and can run as a desktop, workstation, server, or - since the advent
     of OpenMandriva on PinePhone - smartphone.</p>
   <p>You may want to pay us a visit if
-    you're interested in getting into Linux or you're looking for a project that can
+    you are interested in getting into Linux or you are looking for a project that can
     use your help as a volunteer.</p>
   <p>OpenMandriva is not based on any other distribution.
     Contributors who are so inclined can do more than just submit a new theme or add
@@ -48,7 +48,12 @@ new_this_year: |
     the core system, such as making crosscompiling and targeting multiple architectures
     easier than ever.
   <br></br>
-    <p>Please follow below links for more information:</p>
+    <p><h4>Get in touch with developers at</h4></p>
+  <ul>
+  <li>#openmandriva-cooker@freenode</li>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://matrix.to/#/#openmandriva-cooker:matrix.org">#openmandiva-cooker:matrix.org</a></li>
+  </ul>
+    <p><h5>Please follow below links for more information:</h5></p>
   <ul>
   <li><a target="_blank" rel="noopener noreferrer" href="https://sourceforge.net/projects/openmandriva/files/release/4.2/RC/">OpenMandriva Lx 4.2 RC</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://gallery.openmandriva.org/index.php?/category/37">4.2 Release Gallery</a></li>
@@ -56,7 +61,7 @@ new_this_year: |
   <li><a target="_blank" rel="noopener noreferrer" href="https://github.com/OpenMandrivaAssociation">Our github repositories</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://openmandriva.org">OpenMandriva main site and forums</a></li>
   </ul>
-  <p>Support us to keep up the pace!</p>
+  <p><h5>Support us to keep up the pace!</h5></p>
   <ul>
   <li><a target="_blank" rel="noopener noreferrer" href="https://www.openmandriva.org/en/Donate">Send some donation</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://www.hellotux.com/openmandriva">Buy some cool apparel</a></li>
