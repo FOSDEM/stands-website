@@ -137,3 +137,6 @@
 [submodule "static/stands/opentap"]
 	path = static/stands/opentap
 	url = https://github.com/kaushiksanthanam/opentap-fosdem21-static.git
+[submodule "static/stands/openuk"]
+	path = static/stands/openuk
+	url = https://github.com/OpenUK/fosdem-stand.git
