@@ -1,6 +1,7 @@
 ---
 description: |
-  <p>openwifi: opensource WiFi chip!</p>
+  The openwifi project was announced in FOSDEM’20. It is the 1st opensource WiFi chip design which includes Verilog source code for the chip and C source code for the Linux driver. Currently the design runs on FPGA verification platform via SDR (Software Defined Radio) methodology. With the design running, the FPGA board could become WiFi AP, WiFi client, ad-hoc node or sniffer. Besides the standard WiFi functionality, it also has some special features, such as non-standard frequencies (<6GHz); CSI; IQ sample; configurable low MAC behavior; time slicing; etc.
+
   <ul>
     <li>802.11a/g/n</li>
     <li>20MHz bandwidth; 70 MHz to 6 GHz frequency range</li>
@@ -14,6 +15,7 @@ description: |
     <li>Easy to change bandwidth and frequency: 2MHz for 802.11ah (sub-GHz); 10MHz for 802.11p/vehicle (5.9GHz)</li>
     <li>On roadmap: 802.11ax</li>
   </ul>
+  
 layout: stand
 logo: stands/openwifi/logo.png
 new_this_year: |
