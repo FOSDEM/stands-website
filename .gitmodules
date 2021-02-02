@@ -140,3 +140,11 @@
 [submodule "static/stands/openuk"]
 	path = static/stands/openuk
 	url = https://github.com/OpenUK/fosdem-stand.git
+[submodule "content/stands/jenkins"]
+	path = content/stands/jenkins
+	url = git@github.com:jenkins-infra/fosdem-stands-website-jenkins.git
+	branch = 2021
+[submodule "static/stands/jenkins"]
+	path = static/stands/jenkins
+	url = git@github.com:jenkins-infra/fosdem-stands-website-jenkins-static.git
+	branch = 2021
