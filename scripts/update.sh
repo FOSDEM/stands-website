@@ -17,6 +17,7 @@ for d in $(find content/stands -maxdepth 1 -type d); do
 	basename=$(basename "$d")
 	if [ "$basename" != "stands" ]; then
 		cd "$d"
+                git stash
 		git branch > /dev/null
 		echo "$d"
 		if [ "$?" == "0" ]; then
@@ -33,6 +34,7 @@ for d in $(find static/stands -maxdepth 1 -type d); do
         basename=$(basename "$d")
         if [ "$basename" != "stands" ]; then
                 cd "$d"
+                git stash
                 git branch > /dev/null
                 echo "$d"
                 if [ "$?" == "0" ]; then
