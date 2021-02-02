@@ -1,15 +1,16 @@
 ---
 description: |
-  Matrix (https://matrix.org) is an open protocol for secure, decentralised
+  <div style="float:left; padding: 10px"><img src="logo.png" style="max-width: 400px" /></div>
+  <p><a href="https://matrix.org">Matrix</a> is an open protocol for secure, decentralised
    communication - defining an end-to-end-encrypted real-time communication layer
    for the open Web suitable for instant messaging, VoIP, microblogging, forums and
-   more.  We publish Matrix as an open standard (https://matrix.org/docs/spec) under
-   the open governance of the non-profit Matrix.org Foundation (https://matrix.org/foundation),
+   more.  We publish Matrix as an <a href="https://matrix.org/docs/spec">open standard</a> under
+   the open governance of the non-profit <a href="https://matrix.org/foundation">Matrix.org Foundation</a>,
    and release Apache-licensed reference implementations of the protocol for server,
    client SDKs, bots, bridges & more.  Some users may recognise Matrix via client
-   apps such as Element (https://element.io, formerly Riot).
+   apps such as Element (https://element.io, formerly Riot).</p>
 
-  Matrix works
+  <p>Matrix works
    by replicating conversation history across servers which participate in a given
    conversation, ensuring that ownership of the conversation is fully decentralised:
    no single server owns or controls the conversation, just as git repositories are
@@ -17,13 +18,13 @@ description: |
    more like a global decentralised object database with realtime pubsub semantics,
    rather than a traditional message-passing protocol.  The protocol defines HTTPS+JSON
    APIs as a baseline, but more efficient transports and encodings are supported
-   and encouraged.
+   and encouraged.</p>
 
-  The public Matrix network on the internet has over 26M
+  <p>The public Matrix network on the internet has over 26M
    addressable users spread over ~60K servers, ranging in size from personal RPis
    through to massive deployments for organisations including Mozilla, the Wikimedia
    Foundation, German schools in Schleswig-Holstein & Hamburg, and the entirety of
-   the French Government.
+   the French Government.</p>
 layout: stand
 logo: stands/matrix/logo.png
 new_this_year: |
