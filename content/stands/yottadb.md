@@ -26,4 +26,5 @@ title: YottaDB
 website: https://yottadb.com
 show_on_overview: true
 chatroom: yottadb
+draft: true
 ---
