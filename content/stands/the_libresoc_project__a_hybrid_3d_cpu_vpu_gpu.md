@@ -24,7 +24,7 @@ showcase: To learn that there exists an alternative to proprietary processors fr
   Intel, ARM and AMD, and that yes, they can actually be part of making that happen.
 themes:
 - Multimedia and graphics
-title: 'The LibreSOC Project'
+title: 'LibreSOC Project'
 website: http://libre-soc.org
 show_on_overview: true
 chatroom: libresoc
