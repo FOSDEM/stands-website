@@ -116,7 +116,9 @@ Go back to Pentabarf and the schedule tab, check the field _Final Video URL_. Th
 
 Upload the video, it will be converted by our system. Afterwards, you review and approve the video, which will then be live.
 
-You can embed the video; the links will be of the form _https://video.fosdem.org/2021/stands/\_chatroom\_name\_\_video1.mp4_.
+You can embed the video; the links will be of the form _https://video.fosdem.org/2021/stands/\_chatroom\_name\_\_video1.mp4_. Embedding is done using standard HTML. You can only embed video's in HTML content, not in Markdown. Note that all fields (description, new_this_year and showcase) will accept HTML and that any pages you add can be HTML as well.
+
+## Welcome events on the schedule
 
 You can also edit the "welcome event" on the FOSDEM schedule (fosdem.org) in Pentabarf; search for the _Welcome to the stand <your project>_ event and edit the short and full abstract on the _Abstract_ tab.
 
