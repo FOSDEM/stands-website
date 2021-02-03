@@ -1,4 +1,20 @@
-<link type=text/css rel="stylesheet" href="/stands/openharmony_project/main.css">
+---
+title: OpenHarmony Project
+themes:
+- Operating systems
+website: https://www.ostc-eu.org
+logo: stands/openharmony_project/logo.png
+chatroom: openharmony
+description: |
+  The OpenHarmony project aims at a new way of conceiving consumer devices
+  and their use, starting from a great assumption: transcending the physical and conceptual
+  perimeters historically linked to what an operating system can do. In fact, relegating
+  OpenHarmony to a mere OS is an understatement, and the storytelling behind it clearly
+  defines the horizon of IoT, Artificial Intelligence and connectivity that makes
+  it an essential technological trait-d'union.
+
+showcase: |
+ <link type=text/css rel="stylesheet" href="/stands/openharmony_project/main.css">
     <header class="bg-white" id="header">
       <picture title="Huawei Open Source">
         <source
@@ -491,3 +507,9 @@
         console.log("Dom loaded");
       });
     </script>
+
+new_this_year: |
+  New this year openharmory_project
+layout: stand
+---
+Welcome to openharmory_project
