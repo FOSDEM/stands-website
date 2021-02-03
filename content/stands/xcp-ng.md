@@ -90,7 +90,7 @@ new_this_year: "
   <center><img style=\"width: 60%; height: auto;\" src=\"/stands/xcp-ng/lts.png\"></center>
 
   <h3>Innovation contest</h3>
-  <p> In 2020, Vates won a French innovation competition, enabling the XCP-ng project to receive €1.2 million in funding from the French government. This funding is intended in particular to improve the cybersecurity of the XCP-ng project components, without compromising the performance and accessibility of the platform in order to provide a European solution for open and sovereign virtualization.</p>
+  <p> In 2020, Vates won a French innovation competition, enabling the XCP-ng project to receive <strong>€1.2 million in funding</strong> from the French government. This funding is intended in particular to improve the cybersecurity of the XCP-ng project components, without compromising the performance and accessibility of the platform in order to provide a European solution for open and sovereign virtualization.</p>
 
 
   "
