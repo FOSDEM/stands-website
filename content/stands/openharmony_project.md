@@ -17,13 +17,13 @@ showcase: |
       <picture title="Huawei Open Source">
         <source
           type="image/webp"
-          data-srcset="./Hueawei-logo.webp"
-          srcset="./Hueawei-logo.webp"
+          data-srcset="stands/openharmony_project/Hueawei-logo.webp"
+          srcset="stands/openharmony_project/Hueawei-logo.webp"
         />
         <img
           class="lazy loaded"
-          data-srcset="./Hueawei-logo.png"
-          srcset="./Hueawei-logo.png"
+          data-srcset="stands/openharmony_project/Hueawei-logo.png"
+          srcset="stands/openharmony_project/Hueawei-logo.png"
           width="162"
           height="69"
           alt="Huawei"
@@ -39,13 +39,13 @@ showcase: |
             <picture title="Hauwei Open Source">
               <source
                 type="image/webp"
-                data-srcset="./fosdem1.webp"
-                srcset="./fosdem1.webp"
+                data-srcset="stands/openharmony_project/fosdem1.webp"
+                srcset="stands/openharmony_project/fosdem1.webp"
               />
               <img
                 class="lazy loaded"
-                data-srcset="./fosdem1.png"
-                srcset="./fosdem1.png"
+                data-srcset="stands/openharmony_project/fosdem1.png"
+                srcset="stands/openharmony_project/fosdem1.png"
                 alt="Huawei"
                 data-was-processed="true"
               />
@@ -96,13 +96,13 @@ showcase: |
               <picture title="Hauwei Open Source" class="d-block mt-4">
                 <source
                   type="image/webp"
-                  data-srcset="./ostc_logo.webp"
-                  srcset="./ostc_logo.webp"
+                  data-srcset="stands/openharmony_project/ostc_logo.webp"
+                  srcset="stands/openharmony_project/ostc_logo.webp"
                 />
                 <img
                   class="lazy loaded"
-                  data-srcset="./ostc_logo.png"
-                  srcset="./ostc_logo.png"
+                  data-srcset="stands/openharmony_project/ostc_logo.png"
+                  srcset="stands/openharmony_project/ostc_logo.png"
                   alt="Huawei"
                   data-was-processed="true"
                 />
@@ -113,7 +113,7 @@ showcase: |
                 <span class="text-secondary">new webportal</span>
               </h3>
               <div class="circle-cta-wrap">
-                <a href="javascript:;" rel="" target="">
+                <a href="https://www.ostc-eu.org/?utm_source=Landing%20page&utm_medium=CTA&utm_campaign=FOSDEM21" rel="noopener noreferrer" target="_blank">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     id="Componente_41_8"
@@ -160,13 +160,13 @@ showcase: |
                 <picture title="Hauwei Open Source">
                   <source
                     type="image/webp"
-                    data-srcset="./mockup.webp"
-                    srcset="./mockup.webp"
+                    data-srcset="stands/openharmony_project/mockup.webp"
+                    srcset="stands/openharmony_project/mockup.webp"
                   />
                   <img
                     class="lazy loaded"
-                    data-srcset="./mockup.png"
-                    srcset="./mockup.png"
+                    data-srcset="stands/openharmony_project/mockup.png"
+                    srcset="stands/openharmony_project/mockup.png"
                     alt="Huawei"
                     data-was-processed="true"
                   />
@@ -177,7 +177,7 @@ showcase: |
                 <span class="text-secondary">OPENHARMONY CODE</span>
               </h3>
               <div class="gitlab-cta">
-                <a href="javascript:;" rel="" target="">
+                <a href="https://git.ostc-eu.org/OSTC/OHOS?utm_source=Landing%20page&utm_medium=CTA&utm_campaign=FOSDEM21" rel="noopener noreferrer" target="_blank">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     id="Componente_41_8"
@@ -221,8 +221,8 @@ showcase: |
                 </a>
                 <img
                   class="lazy loaded"
-                  data-srcset="./gitlab.png"
-                  srcset="./gitlab.png"
+                  data-srcset="stands/openharmony_project/gitlab.png"
+                  srcset="stands/openharmony_project/gitlab.png"
                   alt="Huawei"
                   data-was-processed="true"
                 />
@@ -436,7 +436,7 @@ showcase: |
                 <span>with <label class="text-secondary">our team</label></span>
               </h3>
               <div class="circle-cta-wrap">
-                <a href="javascript:;" rel="" target="">
+                <a href="https://chat.ostc-eu.org/ostc/channels/town-square?utm_source=Landing%20page&utm_medium=CTA&utm_campaign=FOSDEM21" rel="noopener noreferrer" target="_blank">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     id="Componente_41_8"
@@ -483,13 +483,13 @@ showcase: |
                 <picture title="Hauwei Open Source">
                   <source
                     type="image/webp"
-                    data-srcset="./laptop-mockup.webp"
-                    srcset="./laptop-mockup.webp"
+                    data-srcset="stands/openharmony_project/laptop-mockup.webp"
+                    srcset="stands/openharmony_project/laptop-mockup.webp"
                   />
                   <img
                     class="lazy loaded"
-                    data-srcset="./laptop-mockup.png"
-                    srcset="./laptop-mockup.png"
+                    data-srcset="stands/openharmony_project/laptop-mockup.png"
+                    srcset="stands/openharmony_project/laptop-mockup.png"
                     alt="Huawei"
                     data-was-processed="true"
                   />
@@ -500,6 +500,11 @@ showcase: |
         </div>
       </div>
     </section>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        console.log("Dom loaded");
+      });
+    </script>
 themes:
 - Operating systems
 title: OpenHarmony Project
