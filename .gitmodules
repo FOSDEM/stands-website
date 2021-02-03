@@ -143,3 +143,6 @@
 [submodule "content/stands/kde_community"]
 	path = content/stands/kde_community
 	url = https://invent.kde.org/websites/fosdem-2021-website-content.git
+[submodule "static/stands/kde_community"]
+	path = static/stands/kde_community
+	url = https://invent.kde.org/websites/fosdem-2021-website-static.git
