@@ -142,4 +142,4 @@
 	url = https://github.com/OpenUK/fosdem-stand.git
 [submodule "content/stands/kde_community"]
 	path = content/stands/kde_community
-	url = git@invent.kde.org:websites/fosdem-2021-website-content.git
+	url = https://invent.kde.org/websites/fosdem-2021-website-content.git
