@@ -140,3 +140,12 @@
 [submodule "static/stands/openuk"]
 	path = static/stands/openuk
 	url = https://github.com/OpenUK/fosdem-stand.git
+[submodule "content/stands/openuk"]
+	path = content/stands/openuk
+	url = https://github.com/OpenUK/fosdem-stand.git
+[submodule "static/stands/schul-frei"]
+	path = static/stands/schul-frei
+	url = https://edugit.org/schul-frei/conferences/2021/FOSDEM/fosdem-2021-stand-static.git
+[submodule "content/stands/schul-frei"]
+	path = content/stands/schul-frei
+	url = https://edugit.org/schul-frei/conferences/2021/FOSDEM/fosdem-2021-stand-content.git
