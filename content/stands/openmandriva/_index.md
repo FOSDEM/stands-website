@@ -2,6 +2,8 @@
 title: OpenMandriva
 themes:
  - Operating systems
+ 
+chatroom: openmandriva
 website: https://openmandriva.org/
 layout: stand
 show_on_overview: true

@@ -1,0 +1,1101 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+
+    <style>
+      @font-face {
+        font-family: "Huawei Sans";
+        font-display: swap;
+        font-weight: 100;
+        src: url("./HuaweiSans-Thin.ttf") format("truetype");
+      }
+      @font-face {
+        font-family: "Huawei Sans";
+        font-display: swap;
+        font-weight: 300;
+        src: url("./HuaweiSans-Light.ttf") format("truetype");
+      }
+      @font-face {
+        font-family: "Huawei Sans";
+        font-display: swap;
+        font-weight: 400;
+        src: url("./HuaweiSans-Regular.ttf") format("truetype");
+      }
+      @font-face {
+        font-family: "Huawei Sans";
+        font-display: swap;
+        font-weight: 500;
+        src: url("./HuaweiSans-Medium.ttf") format("truetype");
+      }
+      @font-face {
+        font-family: "Huawei Sans";
+        font-display: swap;
+        font-weight: 800;
+        src: url("./HuaweiSans-Bold.ttf") format("truetype");
+      }
+      *,
+      body *,
+      html * {
+        font-family: "Huawei Sans", sans-serif;
+      }
+      header#header {
+        height: 85px;
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        -moz-align-items: center;
+        align-items: center;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        -moz-justify-content: center;
+        justify-content: center;
+      }
+      header#header picture {
+        height: auto;
+        width: 162px;
+      }
+      #sectionOne {
+        height: 670px;
+        background: -moz-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
+        background: -webkit-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
+        background: -o-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
+        background: -ms-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
+        background: linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5C7AF5', endColorstr='#071B6E',GradientType=1 );
+      }
+      #sectionTwo,
+      #sixSection {
+        padding: 120px 0px 0px 0px;
+      }
+      #sectionTwo .section-title,
+      #sixSection .section-title {
+        margin-bottom: 30px;
+      }
+      #sectionTwo .cta-wrapper,
+      #sixSection .cta-wrapper {
+        margin-top: 120px;
+      }
+      #sectionTwo h3,
+      #sixSection h3 {
+        color: #4d4d4d;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 40px;
+        text-transform: uppercase;
+      }
+      #sectionTwo h3 span,
+      #sixSection h3 span {
+        display: block;
+      }
+      #sectionTwo h3 span a,
+      #sixSection h3 span a {
+        color: #547bfd;
+      }
+      #sectionTwo p.text-dark,
+      #sixSection p.text-dark {
+        margin-bottom: 40px;
+        line-height: 40px;
+      }
+      #sectionTwo p.text-dark:last-child,
+      #sixSection p.text-dark:last-child {
+        margin-bottom: 0px;
+      }
+      #sectionTwo .outline-bg,
+      #sixSection .outline-bg {
+        position: relative;
+      }
+      #sectionTwo .outline-bg::before,
+      #sixSection .outline-bg::before {
+        content: " ";
+        width: 50vw;
+        height: 100%;
+        background: #eee;
+        position: absolute;
+        z-index: -1;
+        border-top-left-radius: 70px;
+        border-bottom-left-radius: 70px;
+      }
+      #sectionTwo .outline-bg .col-content,
+      #sixSection .outline-bg .col-content {
+        z-index: 2;
+        padding-left: 30px;
+      }
+      #sectionTwo .outline-bg .col-content h3,
+      #sixSection .outline-bg .col-content h3 {
+        margin-top: 15px;
+        font-size: 47px;
+        font-weight: bold;
+        text-transform: uppercase;
+        line-height: 55px;
+      }
+      #sectionTwo .outline-bg .col-content .col-left-img,
+      #sixSection .outline-bg .col-content .col-left-img {
+        margin-top: -40px;
+        margin-left: -30px;
+        margin-bottom: 20px;
+        position: relative;
+      }
+      #sectionTwo .outline-bg .col-content .col-left-img::after,
+      #sixSection .outline-bg .col-content .col-left-img::after {
+        content: " ";
+        width: 50vw;
+        height: 60%;
+        bottom: 0px;
+        left: 0px;
+        display: block;
+        position: absolute;
+        z-index: -1;
+        background: -moz-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
+        background: -webkit-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
+        background: -o-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
+        background: -ms-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
+        background: linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5C7AF5', endColorstr='#071B6E',GradientType=1 );
+      }
+      #sectionTwo .outline-bg .col-content .peek,
+      #sixSection .outline-bg .col-content .peek {
+        font-size: 44px;
+      }
+      #sectionTwo .outline-bg .col-content .gitlab-cta,
+      #sixSection .outline-bg .col-content .gitlab-cta {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flexbox;
+        display: flex;
+      }
+      #sectionTwo .outline-bg .col-content .gitlab-cta img,
+      #sixSection .outline-bg .col-content .gitlab-cta img {
+        max-width: 205px;
+        height: auto;
+      }
+      #thirdSection {
+        margin-top: 120px;
+      }
+      #fourthSection {
+        padding: 50px 0;
+        background: #ebebeb;
+      }
+      #fourthSection .frow {
+        margin-bottom: 100px;
+      }
+      #fourthSection .frow .device {
+        color: #547bfd;
+      }
+      #fourthSection .srow .device {
+        color: #943ffa;
+      }
+      #fourthSection .srow .decord-divider.left::before {
+        background: #943ffa;
+      }
+      #fourthSection .round .title {
+        display: block;
+        font-size: 30px;
+        font-weight: bold;
+        color: #071b6e;
+        margin-bottom: 20px;
+      }
+      #fourthSection .round .decord-divider.left {
+        margin: 20px 0;
+        width: 110%;
+      }
+      #fourthSection .round .device {
+        display: block;
+        font-size: 30px;
+        font-weight: bold;
+        text-transform: uppercase;
+        border-bottom: 2px solid #b1b1b1;
+        margin-bottom: 10px;
+        padding-bottom: 10px;
+        width: 85%;
+      }
+      #fourthSection .round .device.no-b {
+        border-bottom: none;
+      }
+      #fourthSection .round .desc {
+        display: block;
+        color: #4d4d4d;
+        font-size: 18px;
+      }
+      #fifthSection {
+        padding: 80px 0;
+        min-height: 400px;
+        background: -moz-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
+        background: -webkit-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
+        background: -o-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
+        background: -ms-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
+        background: linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5C7AF5', endColorstr='#071B6E',GradientType=1 );
+      }
+      #fifthSection span.h3 {
+        font-size: 47px;
+        font-weight: bold;
+      }
+      #fifthSection span.h3 > span {
+        color: #547bfd;
+      }
+      #fifthSection > .container > .row:not(:first-child) {
+        border-top: 1px solid #fff;
+        height: 80px;
+      }
+      #fifthSection > .container > .row:not(:first-child) > .col-12 > span {
+        color: #fff;
+      }
+      #fifthSection
+        > .container
+        > .row:not(:first-child)
+        > .col-12
+        > span:first-child
+        > label {
+        margin-bottom: 0px;
+        color: #547bfd;
+        font-weight: bold;
+      }
+      #fifthSection
+        > .container
+        > .row:not(:first-child)
+        > .col-12
+        > span:nth-child(1) {
+        position: relative;
+        width: 30%;
+      }
+      #fifthSection
+        > .container
+        > .row:not(:first-child)
+        > .col-12
+        > span:nth-child(1)::after {
+        content: " ";
+        right: 0px;
+        top: -15px;
+        width: 9px;
+        height: 50px;
+        background: #547bfd;
+        position: absolute;
+        border-radius: 20px;
+      }
+      #fifthSection
+        > .container
+        > .row:not(:first-child)
+        > .col-12
+        > span:nth-child(2) {
+        position: relative;
+        width: 30%;
+        text-align: center;
+        font-weight: bold;
+        color: #ebebeb;
+        font-size: 20px;
+      }
+      #fifthSection
+        > .container
+        > .row:not(:first-child)
+        > .col-12
+        > span:nth-child(2)::after {
+        content: " ";
+        right: 0px;
+        top: -15px;
+        width: 9px;
+        height: 50px;
+        background: #547bfd;
+        position: absolute;
+        border-radius: 20px;
+      }
+      #fifthSection
+        > .container
+        > .row:not(:first-child)
+        > .col-12
+        > span:nth-child(3) {
+        width: 39%;
+        text-align: center;
+        font-weight: 400;
+        color: #ebebeb;
+        font-size: 20px;
+      }
+      #sixSection {
+        padding: 90px 0 90px 0px;
+      }
+      #sixSection span.h2 {
+        color: #4d4d4d;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 40px;
+        text-transform: uppercase;
+      }
+      #sixSection span.h2 span {
+        display: block;
+      }
+      #sixSection span.h2 span a {
+        color: #547bfd;
+      }
+      #sixSection .btn {
+        font-size: 22px;
+        font-weight: bold;
+        color: #4d4d4d;
+        opacity: 1;
+        transition: 0.3s linear opacity;
+        border: 5px solid #5c7af5;
+        padding: 10px 20px;
+        border-radius: 50px;
+      }
+      #sixSection .btn:hover {
+        text-decoration: none;
+        opacity: 0.8;
+        transition: 0.3s linear opacity;
+      }
+      #sixSection .cta-wrapper {
+        margin-top: 0;
+      }
+      #sixSection .outline-bg .col-content h3 {
+        margin-top: 25px;
+      }
+      #sixSection .outline-bg .col-content .col-left-img {
+        margin-top: 0px;
+        margin-bottom: 0px;
+      }
+      #sixSection .outline-bg .col-content .col-left-img picture {
+        display: block;
+        margin-left: -160px;
+      }
+      #sixSection .outline-bg .col-content .col-left-img::after {
+        height: 450px;
+        bottom: -110px;
+        border-bottom-left-radius: 70px;
+      }
+      body,
+      html {
+        overflow-x: hidden;
+      }
+      .section-title {
+        font-weight: bold;
+        font-size: 30;
+        position: relative;
+      }
+      .section-title.decor-top {
+        padding-left: 10px;
+      }
+      .section-title.decor-top::before {
+        content: " ";
+        width: 60px;
+        height: 9px;
+        background: #547bfd;
+        position: absolute;
+        top: -25px;
+        left: 0;
+        border-radius: 20px;
+      }
+      p {
+        font-size: 20px;
+      }
+      p strong {
+        font-size: 20px;
+        font-weight: bold;
+        color: #547bfd;
+      }
+      .decord-divider {
+        height: 2px;
+        width: 100%;
+        background: #b1b1b1;
+        position: relative;
+      }
+      .decord-divider.left {
+        margin-bottom: 25px;
+      }
+      .decord-divider.left::before {
+        content: " ";
+        width: 60px;
+        height: 9px;
+        background: #547bfd;
+        position: absolute;
+        top: -3px;
+        left: 0;
+        border-radius: 20px;
+      }
+      .decord-divider.right {
+        margin-top: 25px;
+      }
+      .decord-divider.right::before {
+        content: " ";
+        width: 60px;
+        height: 9px;
+        background: #547bfd;
+        position: absolute;
+        top: -3px;
+        right: 0;
+        border-radius: 20px;
+      }
+      a:hover {
+        text-decoration: none !important;
+      }
+      .circle-cta-wrap a {
+        display: inline-block;
+      }
+      @media (max-width: 767px) {
+        #sectionOne {
+          height: auto !important;
+        }
+        #sectionOne .h-100 {
+          height: auto !important;
+        }
+        #sectionOne img,
+        #sectionOne source {
+          width: 100%;
+        }
+        #sectionTwo .cta-wrapper,
+        #sixSection .cta-wrapper {
+          margin-top: 60px;
+          margin-bottom: 60px;
+        }
+        #sectionTwo h3,
+        #sixSection h3 {
+          font-size: 20px;
+        }
+        #sectionTwo .outline-bg::before,
+        #sixSection .outline-bg::before {
+          width: 100%;
+        }
+        #sectionTwo .outline-bg .col-content h3,
+        #sixSection .outline-bg .col-content h3 {
+          margin-top: 15px;
+          font-size: 27px;
+          font-weight: bold;
+          text-transform: uppercase;
+          line-height: 45px;
+        }
+        #sectionTwo .outline-bg .col-content,
+        #sixSection .outline-bg .col-content {
+          z-index: 2;
+          padding-left: 30px;
+          padding-right: 30px;
+        }
+        #sectionTwo img,
+        #sectionTwo source {
+          width: 100%;
+        }
+        #sectionTwo .col-content .peek {
+          font-size: 30px !important;
+        }
+        #sectionTwo .outline-bg {
+          text-align: center;
+        }
+        #sectionTwo .outline-bg::before {
+          left: 0;
+        }
+        #sectionTwo .outline-bg .col-content .col-left-img,
+        #sixSection .outline-bg .col-content .col-left-img {
+          margin-top: 20px !important;
+          margin-left: 0 !important;
+          margin-bottom: 0 !important;
+          position: relative;
+        }
+        #sectionTwo .outline-bg .col-content .col-left-img img,
+        #sixSection .outline-bg .col-content .col-left-img img {
+          margin-top: 40px !important;
+        }
+        #sectionTwo .outline-bg .col-content .col-left-img::after,
+        #sixSection .outline-bg .col-content .col-left-img::after {
+          content: " ";
+          width: 160%;
+          height: 100%;
+          bottom: 0px;
+          left: -50px;
+          display: block;
+        }
+        #fourthSection .frow {
+          margin-bottom: 0px;
+        }
+        #fourthSection .srow > .col-sm-12,
+        #fourthSection .frow > .col-sm-12 {
+          margin-bottom: 30px;
+        }
+        #fifthSection
+          > .container
+          > .row:not(:first-child)
+          > .col-12
+          > span:nth-child(1)::after {
+          display: none;
+        }
+        #fifthSection
+          > .container
+          > .row:not(:first-child)
+          > .col-12
+          > span:nth-child(2)::after {
+          display: none;
+        }
+        #fifthSection > .container .h3 {
+          text-align: center;
+          display: block;
+          margin-bottom: 30px;
+        }
+        #fifthSection > .container > .row:not(:first-child) {
+          height: auto !important;
+        }
+        #fifthSection > .container > .row:not(:first-child) > .col-12 {
+          flex-wrap: wrap;
+          padding-top: 10px;
+          padding-bottom: 10px;
+        }
+        #fifthSection > .container > .row:not(:first-child) > .col-12 span {
+          width: 100% !important;
+          text-align: center;
+          margin-bottom: 5px;
+        }
+        #fifthSection
+          > .container
+          > .row:not(:first-child)
+          > .col-12
+          span:first-child {
+          margin-top: 5px;
+        }
+        #sixSection .btn {
+          margin: auto;
+          font-size: 17px !important;
+          display: block;
+        }
+        #sixSection {
+          padding: 90px 0 0px 0px;
+        }
+        #sixSection .outline-bg::before {
+          left: 0px !important;
+        }
+        #sixSection .outline-bg .col-content .col-left-img::after {
+          border-bottom-left-radius: 0px !important;
+        }
+      }
+      @media (min-width: 768px) and (max-width: 1024px) {
+        #sectionOne {
+          height: auto;
+        }
+        #sectionOne img {
+          width: 100%;
+        }
+        #sectionOne .h-100 {
+          height: auto !important;
+        }
+        #fifthSection
+          > .container
+          > .row:not(:first-child)
+          > .col-12
+          > span:nth-child(1)::after {
+          top: 5px !important;
+        }
+        #fifthSection
+          > .container
+          > .row:not(:first-child)
+          > .col-12
+          > span:nth-child(2)::after {
+          top: 5px !important;
+        }
+      }
+      @media (min-width: 768px) {
+        #sixSection .outline-bg::before {
+          height: 80% !important;
+        }
+      }
+      .text-primary {
+        color: #071b6e !important;
+      }
+      .text-secondary {
+        color: #547bfd !important;
+      }
+    </style>
+
+    <!-- <link href="./main.css" rel="stylesheet"> -->
+
+    <title>Fosdem</title>
+  </head>
+  <body>
+    <header class="bg-white" id="header">
+      <picture title="Huawei Open Source">
+        <source
+          type="image/webp"
+          data-srcset="./Hueawei-logo.webp"
+          srcset="./Hueawei-logo.webp"
+        />
+        <img
+          class="lazy loaded"
+          data-srcset="./Hueawei-logo.png"
+          srcset="./Hueawei-logo.png"
+          width="162"
+          height="69"
+          alt="Huawei"
+          data-was-processed="true"
+        />
+      </picture>
+    </header>
+
+    <section class="section" id="sectionOne">
+      <div class="container h-100">
+        <div class="row h-100">
+          <div class="col-12">
+            <picture title="Hauwei Open Source">
+              <source
+                type="image/webp"
+                data-srcset="./fosdem1.webp"
+                srcset="./fosdem1.webp"
+              />
+              <img
+                class="lazy loaded"
+                data-srcset="./fosdem1.png"
+                srcset="./fosdem1.png"
+                alt="Huawei"
+                data-was-processed="true"
+              />
+            </picture>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="sectionTwo">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-6">
+            <h2 class="section-title decor-top text-primary">
+              WHO WE ARE and OUR MISSION
+            </h2>
+            <p class="text-dark">
+              OSTC acronym for <strong>Open Source Technology</strong> Center is
+              the <strong>Huawei technology hub</strong> that is developing and
+              spreading the OpenHarmony project among European market.
+            </p>
+
+            <p class="text-dark">
+              Our aim is to become a trusted contact for
+              <strong>communities, innovation hubs, companies, start-up</strong>
+              and <strong>public administration.</strong>
+            </p>
+
+            <p class="text-dark">
+              <strong>OpenHarmony</strong> is a very ambitious project that
+              makes open source, open governance and community sharing its
+              <strong
+                >real innovative nature, it is a new way of conceiving consumer
+                devices and their use</strong
+              >, starting from a great assumption: transcending physical
+              perimeters and concepts historically related to what an operating
+              system can do.
+            </p>
+            <div class="cta-wrapper">
+              <div class="decord-divider left"></div>
+              <h3 class="cta-text">
+                <span>This is our goal and mission.</span>
+                <span>would you like to know more?</span>
+                <span><a href="#" rel="" target="">Click here</a></span>
+              </h3>
+              <div class="decord-divider right"></div>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-6 outline-bg">
+            <div class="col-content">
+              <h3>
+                <span>JOIN OUR JOURNEY,</span>
+                <span>visit our</span>
+                <span class="text-secondary">new webportal</span>
+              </h3>
+              <div class="circle-cta-wrap">
+                <a href="javascript:;" rel="" target="">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    id="Componente_41_8"
+                    data-name="Componente 41 – 8"
+                    width="73"
+                    height="73"
+                    viewBox="0 0 73 73"
+                  >
+                    <g
+                      id="Raggruppa_1410"
+                      data-name="Raggruppa 1410"
+                      transform="translate(-389 -3398)"
+                    >
+                      <g
+                        id="Rettangolo_5145"
+                        data-name="Rettangolo 5145"
+                        transform="translate(389 3398)"
+                        fill="none"
+                        stroke="#5c7af5"
+                        stroke-width="5"
+                      >
+                        <rect width="73" height="73" rx="36" stroke="none" />
+                        <rect
+                          x="2.5"
+                          y="2.5"
+                          width="68"
+                          height="68"
+                          rx="33.5"
+                          fill="none"
+                        />
+                      </g>
+                    </g>
+                    <path
+                      id="Icon_awesome-arrow-right"
+                      data-name="Icon awesome-arrow-right"
+                      d="M13.395,4.7l1.561-1.561a1.681,1.681,0,0,1,2.384,0L31.008,16.8a1.681,1.681,0,0,1,0,2.384L17.339,32.857a1.681,1.681,0,0,1-2.384,0L13.395,31.3a1.689,1.689,0,0,1,.028-2.412L21.9,20.813H1.688A1.683,1.683,0,0,1,0,19.125v-2.25a1.683,1.683,0,0,1,1.688-1.687H21.9L13.423,7.116A1.677,1.677,0,0,1,13.395,4.7Z"
+                      transform="translate(21 18.5)"
+                      fill="#4d4d4d"
+                    />
+                  </svg>
+                </a>
+              </div>
+              <div class="col-left-img">
+                <picture title="Hauwei Open Source">
+                  <source
+                    type="image/webp"
+                    data-srcset="./mockup.webp"
+                    srcset="./mockup.webp"
+                  />
+                  <img
+                    class="lazy loaded"
+                    data-srcset="./mockup.png"
+                    srcset="./mockup.png"
+                    alt="Huawei"
+                    data-was-processed="true"
+                  />
+                </picture>
+              </div>
+              <h3 class="peek">
+                <span>peek in the</span>
+                <span class="text-secondary">OPENHARMONY CODE</span>
+              </h3>
+              <div class="gitlab-cta">
+                <a href="javascript:;" rel="" target="">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    id="Componente_41_8"
+                    data-name="Componente 41 – 8"
+                    width="73"
+                    height="73"
+                    viewBox="0 0 73 73"
+                  >
+                    <g
+                      id="Raggruppa_1410"
+                      data-name="Raggruppa 1410"
+                      transform="translate(-389 -3398)"
+                    >
+                      <g
+                        id="Rettangolo_5145"
+                        data-name="Rettangolo 5145"
+                        transform="translate(389 3398)"
+                        fill="none"
+                        stroke="#5c7af5"
+                        stroke-width="5"
+                      >
+                        <rect width="73" height="73" rx="36" stroke="none" />
+                        <rect
+                          x="2.5"
+                          y="2.5"
+                          width="68"
+                          height="68"
+                          rx="33.5"
+                          fill="none"
+                        />
+                      </g>
+                    </g>
+                    <path
+                      id="Icon_awesome-arrow-right"
+                      data-name="Icon awesome-arrow-right"
+                      d="M13.395,4.7l1.561-1.561a1.681,1.681,0,0,1,2.384,0L31.008,16.8a1.681,1.681,0,0,1,0,2.384L17.339,32.857a1.681,1.681,0,0,1-2.384,0L13.395,31.3a1.689,1.689,0,0,1,.028-2.412L21.9,20.813H1.688A1.683,1.683,0,0,1,0,19.125v-2.25a1.683,1.683,0,0,1,1.688-1.687H21.9L13.423,7.116A1.677,1.677,0,0,1,13.395,4.7Z"
+                      transform="translate(21 18.5)"
+                      fill="#4d4d4d"
+                    />
+                  </svg>
+                </a>
+                <img
+                  class="lazy loaded"
+                  data-srcset="./gitlab.png"
+                  srcset="./gitlab.png"
+                  alt="Huawei"
+                  data-was-processed="true"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mb-3" id="thirdSection">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <span class="h2 section-title decor-top text-primary"
+              >Our roadmap</span
+            >
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="fourthSection">
+      <div class="container">
+        <div class="row frow">
+          <div class="col-sm-12 col-md-4">
+            <div class="round">
+              <span class="title">Sep - 2020</span>
+              <div class="decord-divider left"></div>
+              <span class="device">128KB - 128 MB</span>
+              <span class="desc">For devices with 128KB - 128MB RAM</span>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-4">
+            <div class="round">
+              <span class="title">Spring 2021</span>
+              <div class="decord-divider left"></div>
+              <span class="device">128 MB - 1 GB</span>
+              <span class="desc">For devices with 128KB - 1 GB RAM</span>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-4">
+            <div class="round">
+              <span class="title">Fall 2020</span>
+              <div class="decord-divider left"></div>
+              <span class="device">Over 4GB</span>
+              <span class="desc">For devices with 128KB - 1 GB RAM</span>
+            </div>
+          </div>
+        </div>
+        <div class="row srow">
+          <div class="col-sm-12 col-md-4">
+            <div class="round">
+              <span class="title">Sep - 2020</span>
+              <div class="decord-divider left"></div>
+              <span class="device">Fist code upstream</span>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-4">
+            <div class="round">
+              <span class="title">Spring 2021</span>
+              <div class="decord-divider left"></div>
+              <span class="device no-b"
+                >Hosted open<br />
+                Governance</span
+              >
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-4">
+            <div class="round">
+              <span class="title">Fall 2020</span>
+              <div class="decord-divider left"></div>
+              <span class="device no-b"
+                >Scale community<br />
+                effort</span
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="fifthSection">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <span class="h3 text-white">
+              DON'T MISS <span>OUR TALKS</span>
+            </span>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 d-flex align-items-center">
+            <span>
+              <strong>6th Feb, SAT</strong> <label class="ligt2">/</label> H -
+              13:15 – 14:00
+            </span>
+            <span> Carlo Piana Davide Ricci </span>
+            <span> OpenChain Devroom </span>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 d-flex align-items-center">
+            <span>
+              <strong>6th Feb, SAT</strong> <label class="ligt2">/</label> H -
+              13:30 – 14:00
+            </span>
+            <span> Bernhard Rosenkränzer </span>
+            <span> Distributions Devroom </span>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 d-flex align-items-center">
+            <span>
+              <strong>6th Feb, SAT</strong> <label class="ligt2">/</label> H -
+              13:35 – 14:35
+            </span>
+            <span> Zygmunt Krynicki </span>
+            <span> Testing and Automation Devroom </span>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 d-flex align-items-center">
+            <span>
+              <strong>6th Feb, SAT</strong> <label class="ligt2">/</label> H -
+              17:00 – 18:00
+            </span>
+            <span> Davide Ricci </span>
+            <span> Legal and Policy Issues Devroom </span>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 d-flex align-items-center">
+            <span>
+              <strong>6th Feb, SAT</strong> <label class="ligt2">/</label> H -
+              17:30 – 18:00
+            </span>
+            <span> Stefan Schmidt </span>
+            <span> Embedded, Mobile and Automtive Devroom </span>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 d-flex align-items-center">
+            <span>
+              <strong>7th Feb, SUN</strong> <label class="ligt2">/</label> H -
+              11:00 – 12:00
+            </span>
+            <span> Bernhard Rosenkränzer </span>
+            <span> Main tracks - Performance </span>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 d-flex align-items-center">
+            <span>
+              <strong>7th Feb, SUN</strong> <label class="ligt2">/</label> H -
+              117:30 – 18:00
+            </span>
+            <span> Adrian OSullivan </span>
+            <span> Community Devroom </span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="sixSection">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 col-md-6">
+            <span class="h2 section-title decor-top text-primary">
+              OUR PARTNER SECO
+            </span>
+            <p class="text-dark">
+              Seco is an Italian group with a
+              <strong
+                >leading global position in the sector of high
+                technology</strong
+              >, thanks to its expertise in the Internet of Things (IoT) field,
+              operating on a global scale with offices in Italy, Germany, USA,
+              India and Taiwan.
+            </p>
+
+            <p class="text-dark">
+              Since 1979, SECO has been designing and manufacturing from single
+              microcomputers to integrated and
+              <strong>“ready to use”</strong> systems serving a wide range of
+              industrial sectors, from biomedicine to wellness, industrial
+              automation to transportation, and with customers that are market
+              leaders.
+            </p>
+
+            <p class="text-dark">
+              SECO collaborated with a broad network of strategic partner in the
+              international high-tech panorama as well as with universities,
+              research centers and innovative start-ups. The partnership with
+              Huawei and OSTC has started in 2020 resulting in a collaboration
+              to further <strong>OpenHarmony technology</strong> and ecosystem
+              developments, as SECO is looking at leveraging OpenHarmony
+              technology to provide a unified experience and software stack
+              across its product portfolio.
+            </p>
+            <div class="cta-wrapper">
+              <a href="#" class="btn" target="" rel="">
+                HUAWEI AND SECO VALUE MODEL
+              </a>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-6 outline-bg">
+            <div class="col-content">
+              <h3>
+                <span>start talking</span>
+                <span>with <label class="text-secondary">our team</label></span>
+              </h3>
+              <div class="circle-cta-wrap">
+                <a href="javascript:;" rel="" target="">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    id="Componente_41_8"
+                    data-name="Componente 41 – 8"
+                    width="73"
+                    height="73"
+                    viewBox="0 0 73 73"
+                  >
+                    <g
+                      id="Raggruppa_1410"
+                      data-name="Raggruppa 1410"
+                      transform="translate(-389 -3398)"
+                    >
+                      <g
+                        id="Rettangolo_5145"
+                        data-name="Rettangolo 5145"
+                        transform="translate(389 3398)"
+                        fill="none"
+                        stroke="#5c7af5"
+                        stroke-width="5"
+                      >
+                        <rect width="73" height="73" rx="36" stroke="none" />
+                        <rect
+                          x="2.5"
+                          y="2.5"
+                          width="68"
+                          height="68"
+                          rx="33.5"
+                          fill="none"
+                        />
+                      </g>
+                    </g>
+                    <path
+                      id="Icon_awesome-arrow-right"
+                      data-name="Icon awesome-arrow-right"
+                      d="M13.395,4.7l1.561-1.561a1.681,1.681,0,0,1,2.384,0L31.008,16.8a1.681,1.681,0,0,1,0,2.384L17.339,32.857a1.681,1.681,0,0,1-2.384,0L13.395,31.3a1.689,1.689,0,0,1,.028-2.412L21.9,20.813H1.688A1.683,1.683,0,0,1,0,19.125v-2.25a1.683,1.683,0,0,1,1.688-1.687H21.9L13.423,7.116A1.677,1.677,0,0,1,13.395,4.7Z"
+                      transform="translate(21 18.5)"
+                      fill="#4d4d4d"
+                    />
+                  </svg>
+                </a>
+              </div>
+              <div class="col-left-img">
+                <picture title="Hauwei Open Source">
+                  <source
+                    type="image/webp"
+                    data-srcset="./laptop-mockup.webp"
+                    srcset="./laptop-mockup.webp"
+                  />
+                  <img
+                    class="lazy loaded"
+                    data-srcset="./laptop-mockup.png"
+                    srcset="./laptop-mockup.png"
+                    alt="Huawei"
+                    data-was-processed="true"
+                  />
+                </picture>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        console.log("Dom loaded");
+      });
+    </script>
+    <script type="text/javascript" src="./index.js"></script>
+  </body>
+</html>
