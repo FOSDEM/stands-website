@@ -140,14 +140,6 @@
 [submodule "static/stands/kde_community"]
 	path = static/stands/kde_community
 	url = https://invent.kde.org/websites/fosdem-2021-website-static.git
-[submodule "content/stands/jenkins"]
-	path = content/stands/jenkins
-	url = git@github.com:jenkins-infra/fosdem-stands-website-jenkins.git
-	branch = 2021
-[submodule "static/stands/jenkins"]
-	path = static/stands/jenkins
-	url = git@github.com:jenkins-infra/fosdem-stands-website-jenkins-static.git
-	branch = 2021
 [submodule "static/stands/the_apache_software_foundation"]
 	path = static/stands/the_apache_software_foundation
 	url = https://github.com/apache/comdev-fosdem-static.git
@@ -169,3 +161,6 @@
 [submodule "stands/content/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu"]
 	path = stands/content/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu
 	url = https://git.libre-soc.org/git/fosdem-stand.git
+[submodule "static/stands/openuk"]
+	path = static/stands/openuk
+	url = https://github.com/OpenUK/fosdem-static.git
