@@ -14,15 +14,13 @@
   font-family: "Huawei Sans";
   font-display: swap;
   font-weight: 400;
-  src: url("HuaweiSans-Regular.ttf")
-    format("truetype");
+  src: url("HuaweiSans-Regular.ttf") format("truetype");
 }
 @font-face {
   font-family: "Huawei Sans";
   font-display: swap;
   font-weight: 500;
-  src: url("HuaweiSans-Medium.ttf")
-    format("truetype");
+  src: url("HuaweiSans-Medium.ttf") format("truetype");
 }
 @font-face {
   font-family: "Huawei Sans";
@@ -137,6 +135,10 @@ header#header picture {
   margin-left: -30px;
   margin-bottom: 20px;
   position: relative;
+  z-index: -1;
+}
+#sectionTwo .outline-bg .col-content .circle-cta-wrap {
+  z-index: 999;
 }
 #sectionTwo .outline-bg .col-content .col-left-img::after,
 #sixSection .outline-bg .col-content .col-left-img::after {
@@ -432,6 +434,7 @@ a:hover {
 .circle-cta-wrap a {
   display: inline-block;
 }
+
 @media (max-width: 767px) {
   #sectionOne {
     height: auto !important;
@@ -494,7 +497,14 @@ a:hover {
   #sixSection .outline-bg .col-content .col-left-img img {
     margin-top: 40px !important;
   }
-  #sectionTwo .outline-bg .col-content .col-left-img::after,
+  #sectionTwo .outline-bg .col-content .col-left-img::after {
+    content: " ";
+    width: 170%;
+    height: 100%;
+    bottom: 0px;
+    left: -90px;
+    display: block;
+  }
   #sixSection .outline-bg .col-content .col-left-img::after {
     content: " ";
     width: 160%;
@@ -603,4 +613,38 @@ a:hover {
 
 #sectionOne img {
   max-width: 100% !important;
+}
+
+@media (max-width: 991px) {
+  #sectionTwo h3 span,
+  #sixSection h3 span {
+    display: inline;
+  }
+
+  .gitlab-cta {
+    flex-wrap: wrap;
+  }
+  #fourthSection .round {
+    margin-bottom: 30px;
+  }
+  #fourthSection .round .decord-divider.left {
+    width: 100% !important;
+  }
+  .gitlab-cta a {
+    display: block;
+    width: 100%;
+  }
+
+  #fifthSection > .container > .row:not(:first-child) > .col-12 {
+    padding: 20px 0px !important;
+  }
+
+
+  #fifthSection > .container > .row:not(:first-child) > .col-12 span {
+    line-height: 25px;
+  }
+
+  #sixSection {
+    margin-bottom: 40px;
+  }
 }
