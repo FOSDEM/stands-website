@@ -1,6 +1,8 @@
 ---
 description: |
-  <div style="font-size: 16px; line-height: 19px; padding-bottom: 16px;">ONLYOFFICE is an open-source project with the focus on advanced and secure document processing trusted by over 7 million users worldwide.</div>
+  <div style="font-size: 16px; line-height: 19px; padding-bottom: 30px;">
+  ONLYOFFICE is an open-source project with the focus on advanced and secure document processing trusted by over 7 million users worldwide.
+  </div>
   <h2 style="color: #FF6F3D; font-size: 32px; line-height: 39px; margin: 0;">Designed to make collaboration easy</h2>
   <div style="display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex;">
     <div style="font-size: 14px; line-height: 18px; padding-top: 36px; width: 700px;">
@@ -153,7 +155,7 @@ description: |
   </div>
   
 layout: stand
-logo: stands/onlyoffice/logo.png
+logo: stands/onlyoffice/onlyoffice_logo.png
 new_this_year: |
   <div style="max-width: 700px;">
     <div style="font-size: 16px; line-height: 19px; padding-bottom: 20px;">
@@ -354,6 +356,5 @@ themes:
 - Office suites and productivity
 title: ONLYOFFICE
 website: https://www.onlyoffice.com/
-show_on_overview: true
 chatroom: onlyoffice
 ---
