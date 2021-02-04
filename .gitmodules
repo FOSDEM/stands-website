@@ -170,3 +170,6 @@
 [submodule "content/stands/jenkins"]
 	path = content/stands/jenkins
 	url = https://github.com/jenkins-infra/fosdem-stands-website-jenkins.git
+[submodule "content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu"]
+	path = content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu
+	url = https://git.libre-soc.org/git/fosdem-stand.git
