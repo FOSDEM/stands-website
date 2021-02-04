@@ -28,7 +28,7 @@ new_this_year: |
   <h4>Host Your Own Ansible Galaxy</h4>
   <p style=\"margin-top: 20px;\"><a href="https://github.com/ansible/galaxy_ng">Ansible Galaxy_NG </a> is Pulp plugin to support hosting your very own Ansible Galaxy server.</p>
   <h4>Host Your Own PyPI</h4>
-  <p style=\"margin-top: 20px;\">With the release of <a href="https://pulp-python.readthedocs.io/en/latest/">Pulp Python 3.0.0 </a>, you can mirror the whole of PyPI in just under one hour. </p>
+  <p style=\"margin-top: 20px;\">With the release of <a href="https://pulp-python.readthedocs.io/en/latest/">Pulp Python 3.0.0</a>, you can mirror the whole of PyPI in just under one hour. </p>
   <h4>Pulp Squeezer</h4>
   <p style=\"margin-top: 20px;\"><a href="https://pulpproject.org/pulp-squeezer/">Pulp Squeezer</a> is an Ansible collection you can use to fetch, upload, organize, and distribute File, Ansible, and Python content.</p>
   <h4>Pulp Container</h4>
@@ -66,7 +66,7 @@ showcase: |
   <h4>Control dependencies & Create Reproducible Environments</h4>
   <p style=\"margin-top: 20px;\">With Pulp, you have full control over dependencies and can curate your content to optimise for your environmental needs.</p>
   <h4>Multiple Content Types</h4>
-  <p style=\"margin-top: 20px;\">Pulp has a wide range of available content plugins. Add a plugin for the content types that you want to add. You can also <a href="https://docs.pulpproject.org/pulpcore/plugins/plugin-writer/index.html">write your very own plugin!</a>.</p>
+  <p style=\"margin-top: 20px;\">Pulp has a wide range of available content plugins. Add a plugin for the content types that you want to add. You can also <a href="https://docs.pulpproject.org/pulpcore/plugins/plugin-writer/index.html">write your very own plugin!</a></p>
   <h4>Upload and Manage Your Own Content</h4>
   <p style=\"margin-top: 20px;\">You can upload, manage, and distribute your own content.</p>
   <h4>Content Promotion; Lifecycle Management</h4>

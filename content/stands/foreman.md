@@ -56,7 +56,7 @@ showcase: "
         <p>Foreman has a flexible parameters engine for hosts and associated objects (subnets, domains, host groups) with dynamically generated hierarchical Key/Value maps called Smart Variables/Class Parameters.</p>
         <p>Ability to import and parse Puppet source code base and recognize class parameters for deep mapping integration through the application.</p>
         <p> Marek Hulan recently authored <a href=\"https://theforeman.org/2020/12/how-to-start-with-foreman.html\">  a getting started with Foreman </a> blog and followed it up with <a href=\"https://theforeman.org/2021/01/updating-foreman-inventory-with-system-facts.html\">  Updating Foreman inventory with system facts </a> post that focuses on configuration management. Take a look.</p>
-        <p> Check out our <a href=\"https://docs.theforeman.org/nightly/Configuring_Ansible/index-foreman.html\">Configuring Foreman with Ansible docs</a></p> and our <a href=\"https://theforeman.org/plugins/\">plugin docs </a></p>               
+        <p> Check out our <a href=\"https://docs.theforeman.org/nightly/Configuring_Ansible/index-foreman.html\">Configuring Foreman with Ansible docs</a></p> and our <a href=\"https://theforeman.org/plugins/\">plugin docs</a>.</p>               
     </div>
     <div class=\"col-md-4\">
         <img style=\"width: 100%; height: auto;\" src=\"/stands/foreman/configuration.png\">
