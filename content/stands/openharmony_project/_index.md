@@ -6,12 +6,6 @@ website: https://www.ostc-eu.org
 logo: stands/openharmony_project/logo.png
 chatroom: openharmony
 description: |
-  The OpenHarmony project aims at a new way of conceiving consumer devices
-  and their use, starting from a great assumption: transcending the physical and conceptual
-  perimeters historically linked to what an operating system can do. In fact, relegating
-  OpenHarmony to a mere OS is an understatement, and the storytelling behind it clearly
-  defines the horizon of IoT, Artificial Intelligence and connectivity that makes
-  it an essential technological trait-d'union.
 
 showcase: |
  <link type=text/css rel="stylesheet" href="/stands/openharmony_project/main.css">
@@ -505,6 +499,7 @@ showcase: |
     <script>
       document.addEventListener("DOMContentLoaded", function () {
         console.log("Dom loaded");
+        $('.col-sm-8').addClass("col-12").removeClass("col-sm-8");
       });
     </script>
 

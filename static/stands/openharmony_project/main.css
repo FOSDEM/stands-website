@@ -2,33 +2,33 @@
   font-family: "Huawei Sans";
   font-display: swap;
   font-weight: 100;
-  src: url("stands/openharmony_project/HuaweiSans-Thin.ttf") format("truetype");
+  src: url("HuaweiSans-Thin.ttf") format("truetype");
 }
 @font-face {
   font-family: "Huawei Sans";
   font-display: swap;
   font-weight: 300;
-  src: url("stands/openharmony_project/HuaweiSans-Light.ttf") format("truetype");
+  src: url("HuaweiSans-Light.ttf") format("truetype");
 }
 @font-face {
   font-family: "Huawei Sans";
   font-display: swap;
   font-weight: 400;
-  src: url("stands/openharmony_project/HuaweiSans-Regular.ttf")
+  src: url("HuaweiSans-Regular.ttf")
     format("truetype");
 }
 @font-face {
   font-family: "Huawei Sans";
   font-display: swap;
   font-weight: 500;
-  src: url("stands/openharmony_project/HuaweiSans-Medium.ttf")
+  src: url("HuaweiSans-Medium.ttf")
     format("truetype");
 }
 @font-face {
   font-family: "Huawei Sans";
   font-display: swap;
   font-weight: 800;
-  src: url("stands/openharmony_project/HuaweiSans-Bold.ttf") format("truetype");
+  src: url("HuaweiSans-Bold.ttf") format("truetype");
 }
 *,
 body *,
@@ -58,7 +58,7 @@ header#header picture {
   width: 162px;
 }
 #sectionOne {
-  height: 670px;
+  height: auto;
   background: -moz-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
   background: -webkit-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
   background: -o-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
@@ -211,6 +211,7 @@ header#header picture {
   margin-bottom: 10px;
   padding-bottom: 10px;
   width: 100%;
+  line-height: 35px;
 }
 #fourthSection .round .device.no-b {
   border-bottom: none;
@@ -598,4 +599,8 @@ a:hover {
 }
 .text-secondary {
   color: #547bfd !important;
+}
+
+#sectionOne img {
+  max-width: 100% !important;
 }
