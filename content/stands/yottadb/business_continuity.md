@@ -22,4 +22,4 @@ With n instances, it is possible to provide business continuity in the face of a
 
 ---
 
-As YottaDB replication replicates only logical update information, network bandwidth use is parsimonious compared to techniques such as storage-mirroring. Furthermore, YottaDB can optionally use the standard zlib compression library to further reduce bandwidth used.
+As YottaDB replication replicates only logical update information, network bandwidth use is parsimonious compared to techniques such as storage-mirroring. Furthermore, YottaDB can optionally use the standard [zlib](https://zlib.net/) compression library to further reduce bandwidth used.

@@ -34,7 +34,7 @@ For example:
 ["Population","USA",325737000]
 ```
 
-As YottaDB assigns no inherent meaning to the keys or values, its key value structure lends itself to implementing Variety.
+As YottaDB assigns no inherent meaning to the keys or values, its key value structure lends itself to implementing [Variety](https://www.zdnet.com/article/volume-velocity-and-variety-understanding-the-three-vs-of-big-data/).
 
 For example, if an application wishes to add historical census results under “Population”, the following is a perfectly valid set of tuples:
 

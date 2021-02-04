@@ -3,7 +3,7 @@ title: "Hello World Examples"
 draft: false
 ---
 
-The following sections discuss YottaDB's Multi-Language support via a simple `sayHello` example. Each language uses its own sample program to add a node in the same database. Then the MUPIP EXTRACT command is used to display the contents of that database, successfully showing YottaDB being accessed by different APIs/ wrappers.
+The following sections discuss YottaDB's Multi-Language support via a simple `sayHello` example. Each language uses its own sample program to add a node in the same database. Then the MUPIP EXTRACT command is used to display the contents of that database, successfully showing YottaDB being accessed by different languages.
 
 ## Access from C
 
