@@ -2,33 +2,31 @@
   font-family: "Huawei Sans";
   font-display: swap;
   font-weight: 100;
-  src: url("stands/openharmony_project/HuaweiSans-Thin.ttf") format("truetype");
+  src: url("HuaweiSans-Thin.ttf") format("truetype");
 }
 @font-face {
   font-family: "Huawei Sans";
   font-display: swap;
   font-weight: 300;
-  src: url("stands/openharmony_project/HuaweiSans-Light.ttf") format("truetype");
+  src: url("HuaweiSans-Light.ttf") format("truetype");
 }
 @font-face {
   font-family: "Huawei Sans";
   font-display: swap;
   font-weight: 400;
-  src: url("stands/openharmony_project/HuaweiSans-Regular.ttf")
-    format("truetype");
+  src: url("HuaweiSans-Regular.ttf") format("truetype");
 }
 @font-face {
   font-family: "Huawei Sans";
   font-display: swap;
   font-weight: 500;
-  src: url("stands/openharmony_project/HuaweiSans-Medium.ttf")
-    format("truetype");
+  src: url("HuaweiSans-Medium.ttf") format("truetype");
 }
 @font-face {
   font-family: "Huawei Sans";
   font-display: swap;
   font-weight: 800;
-  src: url("stands/openharmony_project/HuaweiSans-Bold.ttf") format("truetype");
+  src: url("HuaweiSans-Bold.ttf") format("truetype");
 }
 *,
 body *,
@@ -58,7 +56,7 @@ header#header picture {
   width: 162px;
 }
 #sectionOne {
-  height: 670px;
+  height: auto;
   background: -moz-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
   background: -webkit-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
   background: -o-linear-gradient(135deg, #5c7af5 0%, #071b6e 100%);
@@ -137,6 +135,10 @@ header#header picture {
   margin-left: -30px;
   margin-bottom: 20px;
   position: relative;
+  z-index: -1;
+}
+#sectionTwo .outline-bg .col-content .circle-cta-wrap {
+  z-index: 999;
 }
 #sectionTwo .outline-bg .col-content .col-left-img::after,
 #sixSection .outline-bg .col-content .col-left-img::after {
@@ -211,6 +213,7 @@ header#header picture {
   margin-bottom: 10px;
   padding-bottom: 10px;
   width: 100%;
+  line-height: 35px;
 }
 #fourthSection .round .device.no-b {
   border-bottom: none;
@@ -431,6 +434,7 @@ a:hover {
 .circle-cta-wrap a {
   display: inline-block;
 }
+
 @media (max-width: 767px) {
   #sectionOne {
     height: auto !important;
@@ -493,7 +497,14 @@ a:hover {
   #sixSection .outline-bg .col-content .col-left-img img {
     margin-top: 40px !important;
   }
-  #sectionTwo .outline-bg .col-content .col-left-img::after,
+  #sectionTwo .outline-bg .col-content .col-left-img::after {
+    content: " ";
+    width: 170%;
+    height: 100%;
+    bottom: 0px;
+    left: -90px;
+    display: block;
+  }
   #sixSection .outline-bg .col-content .col-left-img::after {
     content: " ";
     width: 160%;
@@ -598,4 +609,42 @@ a:hover {
 }
 .text-secondary {
   color: #547bfd !important;
+}
+
+#sectionOne img {
+  max-width: 100% !important;
+}
+
+@media (max-width: 991px) {
+  #sectionTwo h3 span,
+  #sixSection h3 span {
+    display: inline;
+  }
+
+  .gitlab-cta {
+    flex-wrap: wrap;
+  }
+  #fourthSection .round {
+    margin-bottom: 30px;
+  }
+  #fourthSection .round .decord-divider.left {
+    width: 100% !important;
+  }
+  .gitlab-cta a {
+    display: block;
+    width: 100%;
+  }
+
+  #fifthSection > .container > .row:not(:first-child) > .col-12 {
+    padding: 20px 0px !important;
+  }
+
+
+  #fifthSection > .container > .row:not(:first-child) > .col-12 span {
+    line-height: 25px;
+  }
+
+  #sixSection {
+    margin-bottom: 40px;
+  }
 }
