@@ -169,3 +169,6 @@
 [submodule "content/stands/thola___nesi"]
 	path = content/stands/thola___nesi
 	url = https://github.com/inexio/fosdem21-stand-content.git
+[submodule "stands/content/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu"]
+	path = stands/content/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu
+	url = https://git.libre-soc.org/git/fosdem-stand.git
