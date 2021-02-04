@@ -173,3 +173,9 @@
 [submodule "content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu"]
 	path = content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu
 	url = https://git.libre-soc.org/git/fosdem-stand.git
+[submodule "content/stands/civicrm"]
+	path = content/stands/civicrm
+	url = https://lab.civicrm.org/marketing/events/fosdem-2021-content.git
+[submodule "static/stands/civicrm"]
+	path = static/stands/civicrm
+	url = https://lab.civicrm.org/marketing/events/fosdem-2021-static.git
