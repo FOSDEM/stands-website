@@ -1,9 +1,9 @@
 ---
 description: |
-  Pulp is a platform for managing repositories of software packages and making them available to a large number of consumers.
-  With Pulp, you can locally mirror all or part of a repository, host your own software packages in repositories, and manage many types of content from multiple sources in one place.
-  If you have dozens, hundreds, or thousands of software packages and need a better way to manage them, Pulp can help.
-  
+  <div style="float:left; padding: 10px"><img src="logo.png" style="max-width: 400px" /></div>
+  <p style=\"margin-top: 20px;\" ><a href="https://pulpproject.org/">Pulp</a> is a platform for managing repositories of software packages and making them available to a large number of consumers.</p>
+  <p> With Pulp, you can locally mirror all or part of a repository, host your own software packages in repositories, and manage many types of content from multiple sources in one place.
+  If you have dozens, hundreds, or thousands of software packages and need a better way to manage them, Pulp can help.</p>
   <h3>FOSDEM Schedule</h3>
   <p style=\"margin-top: 20px;\" >Pulp has three talks in the Infra Management room on Saturday February 6th:</p>
   <p>
@@ -73,8 +73,7 @@ showcase: |
   <p style=\"margin-top: 20px;\">You can manage separate sets of content for different lifecycle environments, for example <i>Dev</i>, <i>Staging</i>, <i>Production</i>, and promote content from one environment to another. </p>
 themes:
 - System administration
-title: 'Pulp'
+title: Pulp
 website: https://www.pulpproject.org/
-show_on_overview: true
 chatroom: pulp
 ---

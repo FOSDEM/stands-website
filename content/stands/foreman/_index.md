@@ -1,7 +1,8 @@
 ---
 description: "
-Foreman is an open source project that helps system administrators manage servers throughout their lifecycle, from provisioning and configuration to orchestration and monitoring. Using Puppet, Chef, Salt, Ansible and Foreman's smart proxy architecture, you can easily automate repetitive tasks, quickly deploy applications, and proactively manage change, both on-premise with VMs and bare-metal or in the cloud.
-Foreman provides comprehensive, interaction facilities including a web frontend, CLI and RESTful API which enables you to build higher level business logic on top of a solid foundation. Foreman is a mature project, deployed in many organizations, managing from 10s to 10,000s of servers.
+<div style=\"float:left; padding: 10px\"><img src=\"logo.png\" style=\"max-width: 400px\" /></div>
+<a href=\"https://www.theforeman.org\">Foreman</a> is an open source project that helps system administrators manage servers throughout their lifecycle, from provisioning and configuration to orchestration and monitoring. Using Puppet, Chef, Salt, Ansible and Foreman's smart proxy architecture, you can easily automate repetitive tasks, quickly deploy applications, and proactively manage change, both on-premise with VMs and bare-metal or in the cloud. </p>
+<p>Foreman provides comprehensive, interaction facilities including a web frontend, CLI and RESTful API which enables you to build higher level business logic on top of a solid foundation. Foreman is a mature project, deployed in many organizations, managing from 10s to 10,000s of servers.</p>
 "
 layout: stand
 logo: /stands/foreman/logo.png
@@ -107,5 +108,4 @@ themes:
 title: Foreman
 website: https://theforeman.org
 chatroom: foreman
-show_on_overview: true
 ---
