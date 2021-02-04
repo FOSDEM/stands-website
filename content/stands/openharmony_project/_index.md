@@ -13,13 +13,13 @@ showcase: |
       <picture title="Huawei Open Source">
         <source
           type="image/webp"
-          data-srcset="/stands/openharmony_project/Hueawei-logo.webp"
-          srcset="/stands/openharmony_project/Hueawei-logo.webp"
+          data-srcset="/stands/openharmony_project/huawei_logo.webp"
+          srcset="/stands/openharmony_project/huawei_logo.webp"
         />
         <img
           class="lazy loaded"
-          data-srcset="/stands/openharmony_project/Hueawei-logo.png"
-          srcset="/stands/openharmony_project/Hueawei-logo.png"
+          data-srcset="/stands/openharmony_project/huawei_logo.png"
+          srcset="/stands/openharmony_project/huawei_logo.png"
           width="162"
           height="69"
           alt="Huawei"
@@ -31,21 +31,12 @@ showcase: |
     <section class="section" id="sectionOne">
       <div class="container h-100">
         <div class="row h-100">
-          <div class="col-12">
-            <picture title="Hauwei Open Source">
-              <source
-                type="image/webp"
-                data-srcset="/stands/openharmony_project/fosdem1.webp"
-                srcset="/stands/openharmony_project/fosdem1.webp"
-              />
+          <div class="col-12 px-0">
               <img
-                class="lazy loaded"
-                data-srcset="/stands/openharmony_project/fosdem1.png"
-                srcset="/stands/openharmony_project/fosdem1.png"
+                class=""
+                src="/stands/openharmony_project/fosdem_main.jpeg"
                 alt="Huawei"
-                data-was-processed="true"
               />
-            </picture>
           </div>
         </div>
       </div>
@@ -82,7 +73,7 @@ showcase: |
               <h3 class="cta-text">
                 <span>This is our goal and mission.</span>
                 <span>would you like to know more?</span>
-                <span><a href="#" rel="" target="">Click here</a></span>
+                <span><a href="/stands/openharmony_project/OSTC_and_OpenHarmo_y_what_you_need_to_know.pdf" rel="noopener noreferrer" target="_blank">Click here</a></span>
               </h3>
               <div class="decord-divider right"></div>
             </div>
@@ -420,7 +411,7 @@ showcase: |
               across its product portfolio.
             </p>
             <div class="cta-wrapper">
-              <a href="#" class="btn" target="" rel="">
+              <a href="/stands/openharmony_project/Huawei_and_SECO_value_model.pdf" class="btn" target="_blank" rel="noopener noreferrer">
                 HUAWEI AND SECO VALUE MODEL
               </a>
             </div>
