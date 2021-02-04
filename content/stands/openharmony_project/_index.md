@@ -501,6 +501,10 @@ showcase: |
         console.log("Dom loaded");
         $('.col-sm-8').addClass("col-12").removeClass("col-sm-8");
       });
+
+      jQuery(function($) {
+        $('.col-sm-8').addClass("col-12").removeClass("col-sm-8");
+      });
     </script>
 
 new_this_year: |
