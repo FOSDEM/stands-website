@@ -39,7 +39,39 @@ showcase: "
     </div>
 </div>
 
-<h4>To go deeper</h4>
+<h3>Xen Project</h3>
+<br>
+<br>
+<div class=\"row\">
+  <div class=\"col-md-6\">
+    <img style=\"width: 100%; height: auto;\" src=\"/stands/xcp-ng/xencore.svg\">
+  </div>
+  <div class=\"col-md-6\">
+    <br>
+    <img style=\"width: 100%; height: auto;\" src=\"/stands/xcp-ng/linuxfoundationlogo.png\">
+  </div>
+</div>
+
+<p>XCP-ng is part of the Linux foundation, under the banner of the Xen project. Xen is the kernel used by XCP-ng and the first essential brick for the proper functioning of our platform. It is therefore important that our teams collaborate and contribute to the Xen project as often as possible.</p>
+
+<p>The Xen Project is focused on advancing virtualization in a number of different commercial and open source applications, including server virtualization, Infrastructure as a Services (IaaS), desktop virtualization, security applications, embedded and hardware appliances, and automotive/aviation.</p>
+
+<p>Today, the Xen project is an important part of a large number of projects ranging from gigantic datacenter infrastructures to the most modern embedded solutions.</p>
+
+<p><strong>We are also very happy to share our virtual booth and especially our chatroom, with the members of the Xen project, during the whole FOSDEM.</strong></p>
+
+<h4>More about the Xen project</h4>
+<ul>
+<li><a href=\"https://xenproject.org\">Official project website</a></li>
+<li><a href=\"https://xenproject.org/users/why-xen/\">Why the Xen Project?</a></li>
+<li><a href=\"https://xenproject.org/developers/teams/\">Xen project sub projects</a></li>
+<li><a href=\"https://xenproject.org/developers/teams/xcp-ng/\">XCP-ng at Xen Project</a></li>
+<li><a href=\"https://xenproject.org/help/mailing-list/\">Mailing list of Xen</a></li>
+</ul>
+
+
+
+<h3>To go deeper</h3>
 
 <p style=\"margin-top: 20px;\">Of course, there's a lot more to learn about XCP-ng, and we've collected some links for you to our website and blog:</p>
 <h4>XCP-ng</h4>
