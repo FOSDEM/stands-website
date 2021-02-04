@@ -1,7 +1,7 @@
 ---
 description: |
-  <div style="font-size: 16px; line-height: 19px; padding-bottom: 16px;">
-  ONLYOFFICE is an open-source project with the focus on advanced and secure document processing trusted by over 7 million users worldwide. Built on a cutting-edge technology, ONLYOFFICE is a proven innovator in the online office business.
+  <div style="font-size: 16px; line-height: 19px; padding-bottom: 30px;">
+  ONLYOFFICE is an open-source project with the focus on advanced and secure document processing trusted by over 7 million users worldwide.
   </div>
   <h2 style="color: #FF6F3D; font-size: 32px; line-height: 39px; margin: 0;">Designed to make collaboration easy</h2>
   <div style="display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex;">
