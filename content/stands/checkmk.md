@@ -19,4 +19,5 @@ themes:
 title: Checkmk
 website: https://checkmk.com
 chatroom: checkmk
+draft: true
 ---
