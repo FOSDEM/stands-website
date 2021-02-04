@@ -96,7 +96,7 @@ showcase: "
 <h5>Managing CentOS Stream Servers with Foreman</h5>
 <p>
 <video width=\"70%\" controls>
-  <source src=\"http://bofh.nikhef.nl/events/FOSDEM/2021/stands/foreman/foreman_video3.mp4\" type=\"video/mp4\">
+  <source src=\"https://ftp.fau.de/fosdem/2021/stands/foreman/foreman_video1.webm\" type=\"video/mp4\">
 </video>
 </p>
 

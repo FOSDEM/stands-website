@@ -18,7 +18,7 @@ new_this_year: "
     </ul>
     <p>
     <video width=\"40%\" controls>
-      <source src=\"https://mirror.as35701.net/video.fosdem.org/2021/stands/foreman/foreman_video1.mp4\" type=\"video/mp4\">
+      <source src=\"https://ftp.fau.de/fosdem/2021/stands/foreman/foreman_video1.webm\" type=\"video/mp4\">
     </video>
     </p>
 
