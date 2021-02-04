@@ -49,10 +49,10 @@
                     <h5 class="card-title">The {{ .Params.Title }} Stand</h5>
                     <ul class="list-group list-group-flush">
                         {{ if .Params.Chatroom }}
-                        <li class="list-group-item"><a href="https://chat.fosdem.org/#/room/#{{ .Params.Chatroom }}-stand:fosdem.org">Chatroom</a></li>
+                        <li class="list-group-item"><a href="https://matrix.to/#/#{{ .Params.Chatroom }}-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">Chatroom</a></li>
                         <li class="list-group-item"><a href="https://video.fosdem.org/2021/stands/{{ .Params.Chatroom }}">Videos</a></li>
                         {{ else }}
-                        <li class="list-group-item"><a href="https://chat.fosdem.org/#/room/#{{ .File.TranslationBaseName }}-stand:fosdem.org">Chatroom</a></li>
+                        <li class="list-group-item"><a href="https://matrix.to/#/#{{ .File.TranslationBaseName }}-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">Chatroom</a></li>
                         <li class="list-group-item"><a href="https://video.fosdem.org/2021/stands/{{ .File.TranslationBaseName }}">Videos</a></li>
                         {{ end }}
                         {{ range .Pages }}
