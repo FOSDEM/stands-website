@@ -29,8 +29,8 @@ showcase: |
     </header>
 
     <section class="section" id="sectionOne">
-      <div class="container h-100">
-        <div class="row h-100">
+      <div class="container">
+        <div class="row">
           <div class="col-12 px-0">
               <img
                 class=""
