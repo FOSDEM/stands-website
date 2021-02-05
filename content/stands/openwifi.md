@@ -15,7 +15,12 @@ description: |
     <li>Easy to change bandwidth and frequency: 2MHz for 802.11ah (sub-GHz); 10MHz for 802.11p/vehicle (5.9GHz)</li>
     <li>On roadmap: 802.11ax</li>
   </ul>
-  
+  <p>
+  <video width=\"100%\" controls>
+    <source src=\"https://video.fosdem.org/2021/stands/openwifi/openwifi_video1.webm\" type=\"video/webm\">
+  </video>
+  <p>
+
 layout: stand
 logo: stands/openwifi/logo.png
 new_this_year: |
