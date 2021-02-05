@@ -20,4 +20,5 @@ themes:
 title: CiviCRM
 website: https://civicrm.org/
 chatroom: civicrm
+draft: true
 ---

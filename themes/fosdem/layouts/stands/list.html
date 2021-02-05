@@ -1,7 +1,11 @@
 {{ define "main" }}
 <div class="container">
     <div class="row">
-        <div class="col fosdem-jumbotron"><h4>Welcome to our stands page!</h4></div>
+        <div class="col-sm-12">
+            <div class="jumbotron text-center" style="padding: 1rem;">
+                <h2>Welcome to FOSDEM 2021!</h2>
+            </div>
+        </div>
     </div>
     <div class="row mt-3 fosdem-description">
         <div class="col">
@@ -22,14 +26,25 @@
                 {{- end }}
                 <div class="card-body">
                     <h5 class="card-title"><a href="{{ .Permalink }}">{{ .Params.title }}</a></h5>
+                    <ul class="list-unstyled">
+                    {{ range (.GetTerms "themes") }}
+                        <li><span class="material-icons md-18 mr-1">category</span> <a href="{{ .Permalink }}">{{ .LinkTitle }} theme</a></li>
+                    {{ end }}
+                    </ul>
                     {{ if .Params.overview }}
                     <p class="card-text">{{ .Params.overview | truncate 200 "..." | plainify }}</p>
                     {{ else }}
                     <p class="card-text">{{ .Params.description | truncate 200 "..." | plainify }}</p>
                     {{ end }}
-                    {{ range (.GetTerms "themes") }}
-                    <p class="card-text"><small class="text-muted"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></small></p>
+                    <ul class="list-unstyled">
+                    {{ if .Params.Chatroom }}
+                        <li><span class="material-icons md-18 mr-1">comment</span> <a href="https://matrix.to/#/#{{ .Params.Chatroom }}-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">Join the conversation!</a></li>
+                        <li><span class="material-icons md-18 mr-1">event</span> <a href="https://fosdem.org/2021/schedule/room/s{{ .Params.Chatroom }}/">{{ .Params.title }} stand events @ FOSDEM</a></li>
+                    {{ else }}
+                        <li><span class="material-icons md-18 mr-1">comment</span> <a href="https://matrix.to/#/#{{ .File.TranslationBaseName }}-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">Join the conversation!</a></li>
+                        <li><span class="material-icons md-18 mr-1">event</span> <a href="https://fosdem.org/2021/schedule/room/s{{ .File.TranslationBaseName }}/">{{ .Params.title }} stand events @ FOSDEM</a></li>
                     {{ end }}
+                    </ul>
                 </div>
             </div>
         </div>

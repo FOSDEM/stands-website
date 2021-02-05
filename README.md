@@ -65,7 +65,7 @@ themes:
 website: _Your website_
 logo: stands/_Project_/_Logo filename_
 description: |
-    _Short description of your project (5 lines)_
+    _Short description of your project (5 lines). You can use HTML_
 
 showcase: |
     _Showcase: explain why people should come to your stand. You can use HTML (p, ul, etc.)_

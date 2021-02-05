@@ -32,4 +32,5 @@ title: OpenUK
 website: https://openuk.uk
 show_on_overview: true
 chatroom: openuk
+draft: true
 ---

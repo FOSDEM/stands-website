@@ -19,8 +19,10 @@
         </div>
     </div>
     <div class="row">
-        <div class="col">
-            <h1>Welcome to the {{ .Params.Title }} Stand!</h1>
+        <div class="col-sm-12">
+            <div class="jumbotron text-center" style="padding: 1rem;">
+                <h2>Welcome to the {{ .Params.Title }} stand!</h2>
+            </div>
         </div>
     </div>
     <div class="row mt-2">
@@ -44,16 +46,18 @@
             </div>
         </div>
         <div class="col-sm-4">
-            <div class="card">
+            <div class="card" id="stand-at-fosdem">
                 <div class="card-body">
-                    <h5 class="card-title">The {{ .Params.Title }} Stand</h5>
+                    <h5 class="card-title">Welcome to the {{ .Params.Title }} stand</h5>
                     <ul class="list-group list-group-flush">
                         {{ if .Params.Chatroom }}
-                        <li class="list-group-item"><a href="https://matrix.to/#/#{{ .Params.Chatroom }}-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">Chatroom</a></li>
-                        <li class="list-group-item"><a href="https://video.fosdem.org/2021/stands/{{ .Params.Chatroom }}">Videos</a></li>
+                        <li class="list-group-item"><span class="material-icons md-18 mr-1">comment</span> <a href="https://matrix.to/#/#{{ .Params.Chatroom }}-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">Join the conversation!</a></li>
+                        <li class="list-group-item"><span class="material-icons md-18 mr-1">theaters</span> <a href="https://video.fosdem.org/2021/stands/{{ .Params.Chatroom }}">Videos from {{.Params.Title}}</a></li>
+                        <li class="list-group-item"><span class="material-icons md-18 mr-1">event</span> <a href="https://fosdem.org/2021/schedule/room/s{{ .Params.Chatroom }}/">{{ .Params.title }} stand events @ FOSDEM</a></li>
                         {{ else }}
-                        <li class="list-group-item"><a href="https://matrix.to/#/#{{ .File.TranslationBaseName }}-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">Chatroom</a></li>
-                        <li class="list-group-item"><a href="https://video.fosdem.org/2021/stands/{{ .File.TranslationBaseName }}">Videos</a></li>
+                        <li class="list-group-item"><span class="material-icons md-18 mr-1">comment</span> <a href="https://matrix.to/#/#{{ .File.TranslationBaseName }}-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">Join the conversation!</a></li>
+                        <li class="list-group-item"><span class="material-icons md-18 mr-1">theaters</span> <a href="https://video.fosdem.org/2021/stands/{{ .File.TranslationBaseName }}">Videos from {{.Params.Title}}</a></li>
+                        <li class="list-group-item"><span class="material-icons md-18 mr-1">event</span> <a href="https://fosdem.org/2021/schedule/room/s{{ .File.TranslationBaseName }}/">{{ .Params.title }} stand events @ FOSDEM</a></li>
                         {{ end }}
                         {{ range .Pages }}
                         {{ if .Params.title }}
@@ -70,7 +74,7 @@
     {{ if isset .Params "new_this_year" }}
     <div class="row mt-4">
         <div class="col">
-            <h2>{{ .Params.Title }} in 2020</h2>
+            <h2>{{ .Params.Title }} in 2021</h2>
         </div>
     </div>
     <div class="row mt-2">

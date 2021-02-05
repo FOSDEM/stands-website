@@ -498,8 +498,7 @@ showcase: |
       });
     </script>
 
-new_this_year: |
-  New this year openharmory_project
+new_this_year: 
 layout: stand
 aliases:
   - /stands/openharmony/
