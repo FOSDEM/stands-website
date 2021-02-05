@@ -501,5 +501,7 @@ showcase: |
 new_this_year: |
   New this year openharmory_project
 layout: stand
+aliases:
+  - /stands/openharmony/
 ---
 Welcome to openharmory_project
