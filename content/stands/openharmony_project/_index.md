@@ -94,71 +94,6 @@ showcase: |
                   data-was-processed="true"
                 />
               </picture>
-              <h3>
-                <span>JOIN OUR JOURNEY,</span>
-                <span>visit our</span>
-                <span class="text-secondary">new webportal</span>
-              </h3>
-              <div class="circle-cta-wrap">
-                <a href="https://www.ostc-eu.org/?utm_source=Landing%20page&utm_medium=CTA&utm_campaign=FOSDEM21" rel="noopener noreferrer" target="_blank">
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    id="Componente_41_8"
-                    data-name="Componente 41 – 8"
-                    width="73"
-                    height="73"
-                    viewBox="0 0 73 73"
-                  >
-                    <g
-                      id="Raggruppa_1410"
-                      data-name="Raggruppa 1410"
-                      transform="translate(-389 -3398)"
-                    >
-                      <g
-                        id="Rettangolo_5145"
-                        data-name="Rettangolo 5145"
-                        transform="translate(389 3398)"
-                        fill="none"
-                        stroke="#5c7af5"
-                        stroke-width="5"
-                      >
-                        <rect width="73" height="73" rx="36" stroke="none" />
-                        <rect
-                          x="2.5"
-                          y="2.5"
-                          width="68"
-                          height="68"
-                          rx="33.5"
-                          fill="none"
-                        />
-                      </g>
-                    </g>
-                    <path
-                      id="Icon_awesome-arrow-right"
-                      data-name="Icon awesome-arrow-right"
-                      d="M13.395,4.7l1.561-1.561a1.681,1.681,0,0,1,2.384,0L31.008,16.8a1.681,1.681,0,0,1,0,2.384L17.339,32.857a1.681,1.681,0,0,1-2.384,0L13.395,31.3a1.689,1.689,0,0,1,.028-2.412L21.9,20.813H1.688A1.683,1.683,0,0,1,0,19.125v-2.25a1.683,1.683,0,0,1,1.688-1.687H21.9L13.423,7.116A1.677,1.677,0,0,1,13.395,4.7Z"
-                      transform="translate(21 18.5)"
-                      fill="#4d4d4d"
-                    />
-                  </svg>
-                </a>
-              </div>
-              <div class="col-left-img">
-                <picture title="Hauwei Open Source">
-                  <source
-                    type="image/webp"
-                    data-srcset="/stands/openharmony_project/mockup.webp"
-                    srcset="/stands/openharmony_project/mockup.webp"
-                  />
-                  <img
-                    class="lazy loaded"
-                    data-srcset="/stands/openharmony_project/mockup.png"
-                    srcset="/stands/openharmony_project/mockup.png"
-                    alt="Huawei"
-                    data-was-processed="true"
-                  />
-                </picture>
-              </div>
               <h3 class="peek">
                <span>We are taking OpenHarmony to Europe.</span>
                <span class="text-secondary">Come take a peek.</span>
@@ -214,6 +149,23 @@ showcase: |
                   data-was-processed="true"
                 />
               </div>
+              <div class="col-left-img">
+                <picture title="Hauwei Open Source">
+                  <source
+                    type="image/webp"
+                    data-srcset="/stands/openharmony_project/mockup.webp"
+                    srcset="/stands/openharmony_project/mockup.webp"
+                  />
+                  <img
+                    class="lazy loaded"
+                    data-srcset="/stands/openharmony_project/mockup.png"
+                    srcset="/stands/openharmony_project/mockup.png"
+                    alt="Huawei"
+                    data-was-processed="true"
+                  />
+                </picture>
+              </div>
+              
             </div>
           </div>
         </div>
@@ -302,74 +254,74 @@ showcase: |
           </div>
         </div>
         <div class="row">
-          <div class="col-12 d-flex align-items-center">
+          <a href="https://fosdem.org/2021/schedule/event/open_harmony/" rel="noopener" target="_blank" class="col-12 d-flex align-items-center">
             <span>
               <strong>6th Feb, SAT</strong> <label class="ligt2">/</label> H -
               13:15 – 14:00
             </span>
             <span> Carlo Piana Davide Ricci </span>
             <span> OpenChain Devroom </span>
-          </div>
+          </a>
         </div>
         <div class="row">
-          <div class="col-12 d-flex align-items-center">
+          <a href="https://fosdem.org/2021/schedule/event/openharmony_and_openmandriva/" rel="noopener" target="_blank" class="col-12 d-flex align-items-center">
             <span>
               <strong>6th Feb, SAT</strong> <label class="ligt2">/</label> H -
               13:30 – 14:00
             </span>
             <span> Bernhard Rosenkränzer </span>
             <span> Distributions Devroom </span>
-          </div>
+          </a>
         </div>
         <div class="row">
-          <div class="col-12 d-flex align-items-center">
+          <a href="https://fosdem.org/2021/schedule/event/debugging_inside_ci/" rel="noopener" target="_blank" class="col-12 d-flex align-items-center">
             <span>
               <strong>6th Feb, SAT</strong> <label class="ligt2">/</label> H -
               13:35 – 14:35
             </span>
             <span> Zygmunt Krynicki </span>
             <span> Testing and Automation Devroom </span>
-          </div>
+          </a>
         </div>
         <div class="row">
-          <div class="col-12 d-flex align-items-center">
+          <a href="https://fosdem.org/2021/schedule/event/compliancepanel/" rel="noopener" target="_blank" class="col-12 d-flex align-items-center">
             <span>
               <strong>6th Feb, SAT</strong> <label class="ligt2">/</label> H -
               17:00 – 18:00
             </span>
             <span> Davide Ricci </span>
             <span> Legal and Policy Issues Devroom </span>
-          </div>
+          </a>
         </div>
         <div class="row">
-          <div class="col-12 d-flex align-items-center">
+          <a href="https://fosdem.org/2021/schedule/event/open_harmony_os/" rel="noopener" target="_blank" class="col-12 d-flex align-items-center">
             <span>
               <strong>6th Feb, SAT</strong> <label class="ligt2">/</label> H -
               17:30 – 18:00
             </span>
             <span> Stefan Schmidt </span>
             <span> Embedded, Mobile and Automotive Devroom </span>
-          </div>
+          </a>
         </div>
         <div class="row">
-          <div class="col-12 d-flex align-items-center">
+          <a href="https://fosdem.org/2021/schedule/event/toolchains_choice/" rel="noopener" target="_blank" class="col-12 d-flex align-items-center">
             <span>
               <strong>7th Feb, SUN</strong> <label class="ligt2">/</label> H -
               11:00 – 12:00
             </span>
             <span> Bernhard Rosenkränzer </span>
             <span> Main tracks - Performance </span>
-          </div>
+          </a>
         </div>
         <div class="row">
-          <div class="col-12 d-flex align-items-center">
+          <a href="https://fosdem.org/2021/schedule/event/community_devroom_zoomout_zoomin/" rel="noopener" target="_blank" class="col-12 d-flex align-items-center">
             <span>
               <strong>7th Feb, SUN</strong> <label class="ligt2">/</label> H -
               17:30 – 18:00
             </span>
             <span> Adrian OSullivan </span>
             <span> Community Devroom </span>
-          </div>
+          </a>
         </div>
       </div>
     </section>
