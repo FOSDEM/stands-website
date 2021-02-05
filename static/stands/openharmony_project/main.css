@@ -648,3 +648,7 @@ a:hover {
     margin-bottom: 40px;
   }
 }
+
+#fourthSection .round .decord-divider.left {
+  width: 100% !important;
+}

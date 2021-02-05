@@ -21,7 +21,7 @@ showcase: |
           data-srcset="/stands/openharmony_project/huawei_logo.png"
           srcset="/stands/openharmony_project/huawei_logo.png"
           width="162"
-          height="69"
+          height="35"
           alt="Huawei"
           data-was-processed="true"
         />
@@ -160,9 +160,9 @@ showcase: |
                 </picture>
               </div>
               <h3 class="peek">
-                <span>peek in the</span>
-                <span class="text-secondary">OPENHARMONY CODE</span>
-              </h3>
+               <span>We are taking OpenHarmony to Europe.</span>
+               <span class="text-secondary">Come take a peek.</span>
+             </h3>
               <div class="gitlab-cta">
                 <a href="https://git.ostc-eu.org/OSTC/OHOS?utm_source=Landing%20page&utm_medium=CTA&utm_campaign=FOSDEM21" rel="noopener noreferrer" target="_blank">
                   <svg
@@ -348,7 +348,7 @@ showcase: |
               17:30 – 18:00
             </span>
             <span> Stefan Schmidt </span>
-            <span> Embedded, Mobile and Automtive Devroom </span>
+            <span> Embedded, Mobile and Automotive Devroom </span>
           </div>
         </div>
         <div class="row">
@@ -382,7 +382,7 @@ showcase: |
               With us at FOSDEM'21:SECO
             </span>
             <p class="text-dark">
-              Seco is an Italian group with a
+              SECO is an Italian group with a
               <strong
                 >leading global position in the sector of high
                 technology</strong
