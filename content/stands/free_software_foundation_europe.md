@@ -15,6 +15,34 @@ showcase: |
   <p>
     Free Software Foundation Europe is a charity that empowers users to control technology.
   </p>
+
+  <section id="gallery">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-6 col-sm-12 col-xs-12 gallery">
+          <div class="embed-responsive embed-responsive-16by9">
+            <video controls>
+              <source src="https://video.fosdem.org/2021/stands/fsfe/fsfe_video2.mp4" type="video/mp4">
+                Your browser does not support this video.
+              </source>
+            </video>
+          </div>
+          <p class="text-center"><em>A look inside the FSFE, what we do, how we work, and our awesome community</em></p>
+        </div>
+        <div class="col-md-6 col-sm-12 col-xs-12 gallery">
+          <div class="embed-responsive embed-responsive-16by9">
+            <video controls>
+              <source src="https://video.fosdem.org/2021/stands/fsfe/fsfe_video1.mp4" type="video/mp4">
+                Your browser does not support this video.
+              </source>
+            </video>
+          </div>
+          <p class="text-center"><em>Learn about "Public Money? Public Code!"</em></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <p>
     Software is deeply involved in all aspects of our lives. It is important that this technology empowers rather than restricts us. Free Software gives everybody the rights to use, understand, adapt and share software. These rights help support other fundamental rights like freedom of speech, freedom of press and privacy.
   </p>
