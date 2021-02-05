@@ -20,7 +20,7 @@ new_this_year: |
   <p>More details can be found at our <a href="https://about.gitlab.com/releases/categories/releases/">releases page</a>. <br\><a href="https://gitlab.com/gitlab-com/marketing/community-relations/contributor-program/general/-/issues/54">GitLab planning issue</a> for FOSDEM.
   </p>
 showcase: |
-  <p>People visiting our stand will have the opportunity to meet GitLab members and fellow Community members, discuss new features, address questions, issues, or hang out. Below you can find the times when GitLab members will be available through our Matrix channel and Jitsi meeting room to talk to you.</p>
+  <p>People visiting our stand will have the opportunity to meet GitLab members and fellow Community members, discuss new features, address questions, issues, or hang out. Below you can find the times when GitLab members will be available through our Matrix room to talk to you.</p>
   <b>Visiting times:</b>
   <ul>
     <li>Saturday morning <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=FOSDEM+GitLab+booth&iso=20210206T09&p1=%3A&ah=2">10 am EST - 12pm EST</a></li>
@@ -28,7 +28,7 @@ showcase: |
     <li>Sunday morning <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=FOSDEM+GitLab+booth&iso=20210207T09&p1=%3A&ah=2">10 am EST - 12pm EST</a></li>
     <li>Sunday afternoon <a href="https://www.timeanddate.com/worldclock/fixedtime.html?msg=FOSDEM+GitLab+booth&iso=20210207T1#&p1=%3A&ah=2">2pm EST - 4 pm EST</a></li>
   </ul>
-  <b>Chat with us at our <a href="https://matrix.to/#/#gitlab-stand:fosdem.org?via=fosdem.org&via=matrix.org&via=raim.ist">Matrix room</a>, or have a audio/video call through our <a href="https://meet.jit.si/gitlabFOSDEM2021">Jitsi Room</a></b>
+  <b>Chat with us at our <a href="https://matrix.to/#/#gitlab-stand:fosdem.org?via=fosdem.org&via=matrix.org&via=raim.ist">Matrix room</a></b>
   <br/>
   <br/>
   <h3>Contributing to GitLab</h3>
