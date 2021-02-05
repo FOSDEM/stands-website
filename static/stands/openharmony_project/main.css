@@ -131,7 +131,7 @@ header#header picture {
 }
 #sectionTwo .outline-bg .col-content .col-left-img,
 #sixSection .outline-bg .col-content .col-left-img {
-  margin-top: -100px;
+  margin-top: 80px;
   margin-left: -30px;
   margin-bottom: 20px;
   position: relative;
@@ -372,7 +372,7 @@ html {
 }
 .section-title {
   font-weight: bold;
-  font-size: 30;
+  font-size: 30px;
   position: relative;
 }
 .section-title.decor-top {
