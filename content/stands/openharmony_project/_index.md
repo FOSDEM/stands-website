@@ -365,7 +365,7 @@ showcase: |
           <div class="col-12 d-flex align-items-center">
             <span>
               <strong>7th Feb, SUN</strong> <label class="ligt2">/</label> H -
-              117:30 – 18:00
+              17:30 – 18:00
             </span>
             <span> Adrian OSullivan </span>
             <span> Community Devroom </span>
