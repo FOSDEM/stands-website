@@ -27,7 +27,7 @@ new_this_year: |
 showcase: |
   <p>Visit the FreeBSD Stand to chat with FreeBSD Developers and other community members. The stand is a great place to learn more about the latest developments within the Project, find out how to get started with FreeBSD and get your most challenging questions answered. If you or your organization are looking to connect with other FreeBSD fans, folks in the stand can help. There\u2019s a reason why companies like Netflix use FreeBSD. Take a minute to find out more about the stability and security of FreeBSD.</p>
 themes:
-- Community advocacy
+- Operating systems
 title: FreeBSD Project
 website: https://www.freebsd.org/
 show_on_overview: true

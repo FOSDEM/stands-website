@@ -100,9 +100,27 @@ Because of our strict security settings, you cannot embed video's from Youtube (
 
 You can upload video's via [penta.fosdem.org](https://penta.fosdem.org), where everybody should have an account (if not, contact _stands\_at\_fosdem.org_). The exact process is not automated yet, so you will have to send an e-mail to _stands\_at\_fosdem.org_ and we will provide you with the upload link.
 
+We've created four video events you can upload to (1 video per event). If you need more, let us know.
+
+The links are of the form _https://penta.fosdem.org/submission/FOSDEM21/event/\_event\_id\__.
+
+On the _Schedule_ tab in Pentabarf, you'll find a field called _Pre-recorded Video Upload URL_. Go to that link (you'll have to copy & paste) to upload the video.
+
+You'll have to wait a few minutes while the script transcodes the video. You can check the progress at [upload.video.fosdem.org/overview](https://upload.video.fosdem.org/overview) (select _Stand recordings_ and search for your project - you'll find 4 video's - check the one you uploaded).
+
+As soon as it says _preview_ on the overview, go back to Pentabarf, go to the schedule tab and check the field called _Video Review URL_. Go to that link to check your video, and if it is OK, confirm it (if it is not, you can upload a new version).
+
+Wait a few more minutes (30 or so) while it is pushed to our CDN.
+
+Go back to Pentabarf and the schedule tab, check the field _Final Video URL_. This is the URL of your video you can embed on your stand.
+
 Upload the video, it will be converted by our system. Afterwards, you review and approve the video, which will then be live.
 
-You can embed the video; the links will be of the form _https://video.fosdem.org/2021/stands/\_chatroom\_name\_\_video1.mp4_.
+You can embed the video; the links will be of the form _https://video.fosdem.org/2021/stands/\_chatroom\_name\_\_video1.mp4_. Embedding is done using standard HTML. You can only embed video's in HTML content, not in Markdown. Note that all fields (description, new_this_year and showcase) will accept HTML and that any pages you add can be HTML as well.
+
+## Welcome events on the schedule
+
+You can also edit the "welcome event" on the FOSDEM schedule (fosdem.org) in Pentabarf; search for the _Welcome to the stand <your project>_ event and edit the short and full abstract on the _Abstract_ tab.
 
 ## Technical details
 

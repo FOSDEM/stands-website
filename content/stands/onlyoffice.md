@@ -1,23 +1,8 @@
 ---
 description: |
-  ONLYOFFICE is an open-source project with the focus on advanced and
-   secure document processing. It offers a powerful office suite that comprises online
-   editors for text documents, spreadsheets and presentations compatible with OOXML,
-   ODF and other popular file formats.
-  
-  With over 7 million users worldwide, ONLYOFFICE
-   is a proven innovator in the online office business. Built on a cutting-edge technology,
-   it provides users with a vast range of editing tools and collaborative features
-   ensuring greater team workflow and seamless work with complex formatting and objects.
-
-  ONLYOFFICE Docs can be integrated with other open-source services and platforms,
-   as well as developers can extend the functionality of their own solutions.</p>
-
-  Besides, ONLYOFFICE provides a collaboration platform with multiple productivity
-   tools such as document and project management, mail, CRM, calendars, chat, etc.
-   released under the Apache 2.0 license.
+  ONLYOFFICE is an open-source project with the focus on advanced and secure document processing trusted by over 7 million users worldwide. 
 layout: stand
-logo: stands/onlyoffice/logo.png
+logo: stands/onlyoffice/onlyoffice_logo.png
 new_this_year: |
   <p>In 2020, we made lots of useful enhancements in all ONLYOFFICE solutions.
    </p>

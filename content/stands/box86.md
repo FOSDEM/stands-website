@@ -9,7 +9,7 @@ description: |
   Box86 combine a fast Dynarec that converts on the fly x86 code to ARM code, with native library wrapping to avoid emulating frequently used functions and to be able to use box86 super easily: no need for a full x86 chroot system, most used libraries are the native versions.
 layout: stand
 show_on_overview: true
-logo: stands/box86_-_linux_userspace_x86_emulator/logo.png
+logo: stands/box86/logo.png
 new_this_year: |
   <p>Box86 is targeted towards 32bits. While compatibility and speed can be improved, the support of 16bits code (for Wine) is probably the last missing feature for box86.</p>
   <p>After that, Box64 will be targeted toward 64bits apps. It will be a different application, and will allow similar principles with native use of ARM64 native libs directly on x86_64 linux apps.</p>
