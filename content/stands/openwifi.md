@@ -17,7 +17,7 @@ description: |
   </ul>
   <p>
   <video width=\"100%\" controls>
-    <source src=\"https://video.fosdem.org/2021/stands/openwifi/openwifi_video1.webm\" type=\"video/webm\">
+    <source src=\"https://video.fosdem.org/2021/stands/openwifi/openwifi_video1.mp4\" type=\"video/mp4\">
   </video>
   <p>
 
