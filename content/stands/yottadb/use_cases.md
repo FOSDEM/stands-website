@@ -14,7 +14,7 @@ YottaDB excels as a platform for real-time transaction processing as a consequen
 
 [M](https://en.wikipedia.org/wiki/MUMPS) is a de facto standard for implementing electronic health record applications, and the largest electronic health record systems in the world are written in M, dominating the segment as effectively as SQL dominates accounting and business applications.
 
-The YottaDB code base has its roots in healthcare as an implementation of M, with its first deployment at the Elvis Presley Trauma Center in Memphis in 1986. YottaDB includes an M language subsystem that is mostly compliant with, and extends the ISO/IEC 11756:1999 and ISO/IEC 15851:1999 standards. The YottaDB code base is one of the standard platforms for implementing VistA, ranging from small primary care practices and community clinics, to hospitals such as Oroville Hospital to Hakeem, an electronic health record system for an entire country.
+The YottaDB code base has its roots in healthcare as an implementation of M, with its first deployment at the Elvis Presley Trauma Center in Memphis in 1986. YottaDB includes an M language subsystem that is mostly compliant with, and extends the ISO/IEC 11756:1999 and ISO/IEC 15851:1999 standards. The YottaDB code base is one of the standard platforms for implementing VistA, ranging from small primary care practices and community clinics, to hospitals such as Oroville Hospital, to Hakeem, an electronic health record system for an entire country.
 
 ## Internet of Things
 

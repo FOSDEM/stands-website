@@ -1,12 +1,14 @@
 ---
 description: |
-  YottaDB is a language-agnostic hierarchical key-value database that
+ <p>
+  <a href="https://gitlab.com/YottaDB/DB/YDB">YottaDB</a> is a language-agnostic hierarchical key-value database that
   scales from small system-on-chip designs to large servers. Languages are supported
-  through \u201Cwrappers\u201D with support currently available for C, Go, M, Perl,
-  and Rust, with support for node.js and Python expected soon. Other wrappers from
-  the community allow YottaDB to be a JSON data store. Octo provides JDBC / SQL-92
+  through "wrappers" with support currently available for <a href="https://docs.yottadb.com/MultiLangProgGuide/cprogram.html">C</a>, <a href="https://pkg.go.dev/lang.yottadb.com/go/yottadb">Go</a>, <a href="https://docs.yottadb.com/ProgrammersGuide/">M</a>, <a href="https://metacpan.org/pod/YottaDB">Perl</a>,
+  and <a href="https://yottadb.gitlab.io/Lang/YDBRust/yottadb/index.html">Rust</a>, with support for <a href="https://github.com/dlwicksell/nodem">node.js</a> and Python expected soon. Other wrappers from
+  the community allow YottaDB to be a JSON data store. <a href="https://docs.yottadb.com/Octo/">Octo</a> provides JDBC / SQL-92
   based access for reporting and analytics with read-write access support coming
-  in 2021. All our work is 100% free / open source.
+  in 2021. <a href="https://gitlab.com/YottaDB">All our work</a> is 100% free / open source.
+ </p>
 layout: stand
 logo: stands/yottadb/logo.png
 new_this_year: |
