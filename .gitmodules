@@ -170,3 +170,6 @@
 [submodule "content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu"]
 	path = content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu
 	url = https://git.libre-soc.org/git/fosdem-stand.git
+[submodule "content/stands/openuk"]
+	path = content/stands/openuk
+	url = https://github.com/OpenUK/fosdem-stand.git
