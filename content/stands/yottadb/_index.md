@@ -5,7 +5,7 @@ description: |
   scales from small system-on-chip designs to large servers. Languages are supported
   through "wrappers" with support currently available for <a href="https://docs.yottadb.com/MultiLangProgGuide/cprogram.html">C</a>, <a href="https://pkg.go.dev/lang.yottadb.com/go/yottadb">Go</a>, <a href="https://docs.yottadb.com/ProgrammersGuide/">M</a>, <a href="https://metacpan.org/pod/YottaDB">Perl</a>,
   and <a href="https://yottadb.gitlab.io/Lang/YDBRust/yottadb/index.html">Rust</a>, with support for <a href="https://github.com/dlwicksell/nodem">node.js</a> and Python expected soon. Other wrappers from
-  the community allow YottaDB to be a JSON data store. <a href="https://docs.yottadb.com/Octo/">Octo</a> provides JDBC / SQL-92
+  the community allow YottaDB to be a <a href="https://github.com/robtweed/qewd-starter-kit-yottadb">JSON data store</a>. <a href="https://docs.yottadb.com/Octo/">Octo</a> provides JDBC / SQL-92
   based access for reporting and analytics with read-write access support coming
   in 2021. <a href="https://gitlab.com/YottaDB">All our work</a> is 100% free / open source.
  </p>
