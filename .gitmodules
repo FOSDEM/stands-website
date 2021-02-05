@@ -14,6 +14,10 @@
 	path = static/stands/free_software_foundation_europe
 	url = https://git.fsfe.org/FSFE/fosdem21-static.git
 
+[submodule "content/stands/freebsd_project"]
+	path = content/stands/freebsd_project
+	url = https://github.com/emaste/freebsd_project
+
 [submodule "content/stands/kiwi_tcms"]
 	path = content/stands/kiwi_tcms
 	url = https://github.com/kiwitcms/fosdem-2021-stand-content.git
