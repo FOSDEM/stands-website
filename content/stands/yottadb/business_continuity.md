@@ -22,4 +22,15 @@ With n instances, it is possible to provide business continuity in the face of a
 
 ---
 
-As YottaDB replication replicates only logical update information, network bandwidth use is parsimonious compared to techniques such as storage-mirroring. Furthermore, YottaDB can optionally use the standard zlib compression library to further reduce bandwidth used.
+YottaDB replication provides logical equivalence between multiple databases. One type of replication is Business Continuity (BC) replication.
+
+BC replication provides business continuity for systems of record. Updates applied at an originating instance replicate in near real-time to a replicating instance.To help ensure this consistency, BC replication prohibits locally generated database updates on a replicating secondary instance. For example, with instances named A and B, business logic processed on instance A can be streamed to instance B so that should A ever go down, B can immediately take over and provide continuity. In order to ensure that B produces results consistent with A, B can contain only material state information that is also in A.
+
+In the following illustration, A is the originating primary instance and B and C are its replicating instances. C is also a propagating primary instance because it further replicates to D. This BC replication configuration can also be described as a B←A→C→D configuration.
+
+{{< figure src="/stands/yottadb/bc_repl.gif" alt="Business Continuity Replication">}}
+
+BC replication is intended for mission-critical applications that must be available 24 hours a day, 365 days a year, in the face of both unplanned events (such as system crashes) as well as planned events (such as system and software upgrades).
+
+As YottaDB replication replicates only logical update information, network bandwidth use is parsimonious compared to techniques such as storage-mirroring. Furthermore, YottaDB can optionally use the standard [zlib](https://zlib.net/) compression library to further reduce bandwidth used.
+

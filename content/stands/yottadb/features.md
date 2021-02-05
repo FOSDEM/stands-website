@@ -5,11 +5,23 @@ draft: false
 
 # Features
 
-## Business Continuity
+## Multi-Language Database Access
 
-YottaDB’s business continuity and real-time replication features keep even Internet-scale applications continuously available not just in the face of unplanned events, but also planned events, such as application upgrades and even schema changes.
+{{< figure src="/stands/yottadb/multi-lang-db-access.svg" width="50%" height="50%">}}
 
-[Learn More](/stands/yottadb/business_continuity)
+While the historic roots of YottaDB are in the M language, YottaDB extends the tight integration of the language with the database to other languages. As C is the lingua franca of programming languages (in that all programming languages have the ability to call a C API), YottaDB’s C language API extends the database engine to all programming languages. Through the C API, bindings (called "wrappers") exist to natively access YottaDB concurrently also from Go, Perl, and Rust. Community developed wrappers from C++, node.js, and Python are under development and at various levels of usability and maturity, with all expected soon.
+
+[Learn More](/stands/yottadb/hello_world)
+
+## Strongly ACID Transactions
+
+ACID transactions are YottaDB's strong suit, and give applications a data source they can rely on.
+
+[Learn More](/stands/yottadb/acid)
+
+## Security
+
+With a philosophy that complexity is the enemy of security, the simply-explained YottaDB security model is based on the mature and easily understood [user-group-world](https://en.wikipedia.org/wiki/File-system_permissions) permissions for processes to access database files. Security can be further enhanced with layered controls like [SELinux](https://en.wikipedia.org/wiki/Security-Enhanced_Linux).
 
 ## Daemon-less
 
@@ -22,17 +34,11 @@ YottaDB operates using a daemon-less engine. Why?
 
 [Learn More](/stands/yottadb/in_memory_engine)
 
-## Security
+## Business Continuity
 
-With a philosophy that complexity is the enemy of security, the simply-explained YottaDB security model is based on the mature and easily understood [user-group-world](https://en.wikipedia.org/wiki/File-system_permissions) permissions for processes to access database files. Security can be further enhanced with layered controls like [SELinux](https://en.wikipedia.org/wiki/Security-Enhanced_Linux).
+YottaDB’s business continuity and real-time replication features keep even Internet-scale applications continuously available not just in the face of unplanned events, but also planned events, such as application upgrades and even schema changes.
 
-## Multi-Language Database Access
-
-{{< figure src="/stands/yottadb/multi-lang-db-access.svg" width="50%" height="50%">}}
-
-While the historic roots of YottaDB are in the M language, YottaDB extends the tight integration of the language with the database to other languages. As C is the lingua franca of programming languages (in that all programming languages have the ability to call a C API), YottaDB’s C language API extends the database engine to all programming languages. Through the C API, bindings (called "wrappers") exist to natively access YottaDB concurrently also from Go, Perl, and Rust. Community developed wrappers from C++, node.js, and Python are under development and at various levels of usability and maturity, with all expected soon.
-
-[Learn More](/stands/yottadb/hello_world)
+[Learn More](/stands/yottadb/business_continuity)
 
 ## Optimistic Concurrency Control
 
@@ -40,8 +46,3 @@ Unlike most high-end transactional database engines, YottaDB uses Optimistic Con
 
 [Learn More](/stands/yottadb/occ)
 
-## Strongly ACID transactions
-
-ACID transactions are YottaDB's strong suit, and give applications a data source they can rely on.
-
-[Learn More](/stands/yottadb/acid)
