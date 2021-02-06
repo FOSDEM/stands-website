@@ -69,4 +69,5 @@ new_this_year: |
     together with Teckids e.V. and other developers.
 show_on_overview: true
 chatroom: schul-frei
+draft: true
 ---
