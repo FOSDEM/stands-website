@@ -17,36 +17,36 @@ You can find them on YouTube (click image for redirect), we're currently working
 
 <div class=\"row\">
     <div class=\"col-md-6\">
-        <a href=\"https://www.youtube.com/watch?v=I8GtygCoNcY\"><img class=\"img-fluid\" src=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/hub-video.png\" /></a><br /> Nextcloud Hub overview
-        <!--<stream src=\"eb1384b4fa48d8f47abdec5051bc922d\" controls poster=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/hub-video.png\"></stream>
+        <a href=\"https://www.youtube.com/watch?v=I8GtygCoNcY\"><img class=\"img-fluid\" src=\"/stands/nextcloud/hub-video.png\" /></a><br /> Nextcloud Hub overview
+        <!--<stream src=\"eb1384b4fa48d8f47abdec5051bc922d\" controls poster=\"/stands/nextcloud/hub-video.png\"></stream>
         <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=eb1384b4fa48d8f47abdec5051bc922d\"></script>-->
     </div>
     <div class=\"col-md-6\">
-        <a href=\"https://www.youtube.com/watch?v=FMgBD3Jr33Y\"><img class=\"img-fluid\" src=\"https://nextcloud.com/wp-content/themes/next//assets/img/features/homeoffice-video.png\" /></a><br /> Nextcloud in working-from-home
+        <a href=\"https://www.youtube.com/watch?v=FMgBD3Jr33Y\"><img class=\"img-fluid\" src=\"/stands/nextcloud/homeoffice-video.png\" /></a><br /> Nextcloud in working-from-home
         <!--<stream src=\"4b66104c586170a4dc5b6ebbed80b193\" controls preload poster=\"https://nextcloud.com/wp-content/themes/next//assets/img/features/homeoffice-video.png\">
         </stream> <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=4b66104c586170a4dc5b6ebbed80b193\"></script>-->
     </div>
 </div>
 <div style=\"margin-top:20px;\" class=\"row\">
     <div class=\"col-md-6\">
-        <a href=\"https://www.youtube.com/watch?v=W1-W5KTWNdM\"><img class=\"img-fluid\" src=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/files-video.png\" /></a><br /> Nextcloud Files
-        <!--<stream src=\"fa1b52828b602f72cf1bcfab61f74fb4\" controls poster=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/files-video.png\"></stream>
+        <a href=\"https://www.youtube.com/watch?v=W1-W5KTWNdM\"><img class=\"img-fluid\" src=\"/stands/nextcloud/files-video.png\" /></a><br /> Nextcloud Files
+        <!--<stream src=\"fa1b52828b602f72cf1bcfab61f74fb4\" controls poster=\"/stands/nextcloud/files-video.png\"></stream>
         <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=fa1b52828b602f72cf1bcfab61f74fb4\"></script>-->
     </div>
     <div class=\"col-md-6\">
-        <a href=\"https://www.youtube.com/watch?v=dDUid67CeRQ\"><img class=\"img-fluid\" src=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/talk-video.png\" /></a><br /> Nextcloud Talk
-        <!--<stream src=\"58bf7b0f3ae662ee1d6b368099c8c94f\" controls poster=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/talk-video.png\"></stream>
+        <a href=\"https://www.youtube.com/watch?v=dDUid67CeRQ\"><img class=\"img-fluid\" src=\"/stands/nextcloud/talk-video.png\" /></a><br /> Nextcloud Talk
+        <!--<stream src=\"58bf7b0f3ae662ee1d6b368099c8c94f\" controls poster=\"/stands/nextcloud/talk-video.png\"></stream>
         <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=58bf7b0f3ae662ee1d6b368099c8c94f\"></script>-->
     </div>
 </div>
 <div style=\"margin-top:20px;\" class=\"row\">
     <div class=\"col-md-6\">
-        <a href=\"https://www.youtube.com/watch?v=k5e1Ut6MytE\"><img class=\"img-fluid\" src=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/groupware-video.png\" /></a><br /> Nextcloud Groupware
-        <!--<stream src=\"3e135d59fff771d1909c4b8d588d5800\" controls poster=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/groupware-video.png\"></stream>
+        <a href=\"https://www.youtube.com/watch?v=k5e1Ut6MytE\"><img class=\"img-fluid\" src=\"/stands/nextcloud/groupware-video.png\" /></a><br /> Nextcloud Groupware
+        <!--<stream src=\"3e135d59fff771d1909c4b8d588d5800\" controls poster=\"/stands/nextcloud/groupware-video.png\"></stream>
         <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=3e135d59fff771d1909c4b8d588d5800\"></script>-->
     </div>
     <div class=\"col-md-6\">
-        <a href=\"https://www.youtube.com/watch?v=nxX_Z6BKySw\"><img class=\"img-fluid\" src=\"https://nextcloud.com/wp-content/themes/next/assets/img/features/documents-video.png\" /></a><br /> Nextcloud Document editing
+        <a href=\"https://www.youtube.com/watch?v=nxX_Z6BKySw\"><img class=\"img-fluid\" src=\"/stands/nextcloud/documents-video.png\" /></a><br /> Nextcloud Document editing
         <!--<stream src=\"6644f6c1e7c0a5e3ff5b877e07ed1dea\" controls poster=\"<?php bloginfo('template_directory'); ?>/assets/img/features/documents-video.png\"></stream>
         <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=6644f6c1e7c0a5e3ff5b877e07ed1dea\"></script>-->
     </div>
