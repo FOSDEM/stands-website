@@ -17,7 +17,7 @@ for d in $(find content/stands -maxdepth 1 -type d); do
 	basename=$(basename "$d")
 	if [ "$basename" != "stands" ]; then
                 remote=$(git remote -v | head -n 1 | awk '{ print $2 }')
-                if [ "$remote" != "https://github.com/FOSDEM/stands-website.git"]; then
+                if [ "$remote" != "https://github.com/FOSDEM/stands-website.git" ]; then
                         cd "$d"
                         git stash
                         echo "$d"
@@ -36,7 +36,7 @@ for d in $(find static/stands -maxdepth 1 -type d); do
 
         basename=$(basename "$d")
         if [ "$basename" != "stands" ]; then
-                if [ "$remote" != "https://github.com/FOSDEM/stands-website.git"]; then
+                if [ "$remote" != "https://github.com/FOSDEM/stands-website.git" ]; then
                         cd "$d"
                         git stash
                         echo "$d"
