@@ -189,3 +189,6 @@
 [submodule "static/stands/unikraft"]
 	path = static/stands/unikraft
 	url = https://github.com/unikraft/fosdem21-stand-static.git
+[submodule "static/stands/illumos"]
+	path = static/stands/illumos
+	url = https://github.com/hrosenfeld/fosdem-assets-illumos.git
