@@ -375,7 +375,7 @@ showcase: |
                 <span>with <label class="text-secondary">our team on #OSTC channel</label></span>
               </h3>
               <div class="circle-cta-wrap">
-                <a href="https://webchat.freenode.net/" rel="noopener noreferrer" target="_blank">
+                <a href="https://webchat.freenode.net/?channels=#OSTC" rel="noopener noreferrer" target="_blank">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     id="Componente_41_8"
