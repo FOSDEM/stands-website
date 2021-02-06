@@ -18,8 +18,8 @@ for d in $(find content/stands -maxdepth 1 -type d); do
 	if [ "$basename" != "stands" ]; then
 		cd "$d"
                 git stash
-		git branch > /dev/null
 		echo "$d"
+		git branch > /dev/null
 		if [ "$?" == "0" ]; then
 			git pull origin $(git branch | tail -1 | sed 's/*//' | awk '{print $1}')
 		fi
@@ -35,8 +35,8 @@ for d in $(find static/stands -maxdepth 1 -type d); do
         if [ "$basename" != "stands" ]; then
                 cd "$d"
                 git stash
-                git branch > /dev/null
                 echo "$d"
+                git branch > /dev/null
                 if [ "$?" == "0" ]; then
                         git pull origin $(git branch | tail -1 | sed 's/*//' | awk '{print $1}')
                 fi
