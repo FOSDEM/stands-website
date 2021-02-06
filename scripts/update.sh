@@ -16,14 +16,17 @@ for d in $(find content/stands -maxdepth 1 -type d); do
 
 	basename=$(basename "$d")
 	if [ "$basename" != "stands" ]; then
-		cd "$d"
-                git stash
-		echo "$d"
-		git branch > /dev/null
-		if [ "$?" == "0" ]; then
-			git pull origin $(git branch | tail -1 | sed 's/*//' | awk '{print $1}')
-		fi
-		cd "$parent"
+                remote=$(git remote -v | head -n 1 | awk '{ print $2 }')
+                if [ "$remote" != "https://github.com/FOSDEM/stands-website.git"]; then
+                        cd "$d"
+                        git stash
+                        echo "$d"
+                        git branch > /dev/null
+                        if [ "$?" == "0" ]; then
+                                git pull origin $(git branch | tail -1 | sed 's/*//' | awk '{print $1}')
+                        fi
+                        cd "$parent"
+                fi
 	fi
 
 done
@@ -33,14 +36,16 @@ for d in $(find static/stands -maxdepth 1 -type d); do
 
         basename=$(basename "$d")
         if [ "$basename" != "stands" ]; then
-                cd "$d"
-                git stash
-                echo "$d"
-                git branch > /dev/null
-                if [ "$?" == "0" ]; then
-                        git pull origin $(git branch | tail -1 | sed 's/*//' | awk '{print $1}')
+                if [ "$remote" != "https://github.com/FOSDEM/stands-website.git"]; then
+                        cd "$d"
+                        git stash
+                        echo "$d"
+                        git branch > /dev/null
+                        if [ "$?" == "0" ]; then
+                                git pull origin $(git branch | tail -1 | sed 's/*//' | awk '{print $1}')
+                        fi
+                        cd "$parent"
                 fi
-                cd "$parent"
         fi
 
 done

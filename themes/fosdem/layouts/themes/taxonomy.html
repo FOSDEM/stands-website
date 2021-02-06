@@ -26,9 +26,9 @@
                 <div class="card-body">
                     <h5 class="card-title"><a href="{{ .Permalink }}">{{ .Params.title }}</a></h5>
                     {{ if .Params.overview }}
-                    <p class="card-text">{{ .Params.overview | truncate 200 "..." | plainify }}</p>
+                    <p class="card-text">{{ .Params.overview | plainify | truncate 200 "..." }}</p>
                     {{ else }}
-                    <p class="card-text">{{ .Params.description | truncate 200 "..." | plainify }}</p>
+                    <p class="card-text">{{ .Params.description | plainify | truncate 200 "..." }}</p>
                     {{ end }}
                     <ul class="list-unstyled">
                     {{ if .Params.Chatroom }}

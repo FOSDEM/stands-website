@@ -32,9 +32,9 @@
                     {{ end }}
                     </ul>
                     {{ if .Params.overview }}
-                    <p class="card-text">{{ .Params.overview | truncate 200 "..." | plainify }}</p>
+                    <p class="card-text">{{ .Params.overview | plainify | truncate 200 "..." }}</p>
                     {{ else }}
-                    <p class="card-text">{{ .Params.description | truncate 200 "..." | plainify }}</p>
+                    <p class="card-text">{{ .Params.description | plainify | truncate 200 "..." }}</p>
                     {{ end }}
                     <ul class="list-unstyled">
                     {{ if .Params.Chatroom }}
