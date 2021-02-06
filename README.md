@@ -122,6 +122,20 @@ You can embed the video; the links will be of the form _https://video.fosdem.org
 
 You can also edit the "welcome event" on the FOSDEM schedule (fosdem.org) in Pentabarf; search for the _Welcome to the stand <your project>_ event and edit the short and full abstract on the _Abstract_ tab.
 
+You can continue to talk after the event finishes; the events are only to make sure you are on the global schedule.
+
+## Starting a video chat
+
+If you wish to start a video chat, you must go to the chatroom for your stand on <i>chat.fosdem.org</i> and click the video camera icon in the lower right corner. It is not possible to live stream prerecorded content (like for devrooms or main tracks), but you can video chat.
+
+Doing so will add a widget in your room which will display your video feed.
+
+## Adding extra events to the schedule
+
+You can add extra events to be put on the schedule via [_https://penta.fosdem.org/submission/FOSDEM21_](https://penta.fosdem.org/submission/FOSDEM21). Make
+sure the track is _<your project> stand_. Send the links to the event to the <i>#stands:fosdem.org</i> channel so we can approve them and put them
+on the schedule.
+
 ## Technical details
 
 Whatever you put as content of any file (or the contents of _\_index.md_) will appear in the resulting HTML page as follows.
