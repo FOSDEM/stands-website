@@ -9,11 +9,7 @@ new_this_year: "
   <h3>A Year in Foreman</h3>
   <p>Take a look at our video to learn about the developments across the Foreman community in the last year!</p>
     <ul>
-        <li>New simplified process of registering hosts to the Foreman.</li>
-        <li>Safe mode template preview when safe mode rendering is disabled</li>
-        <li>External IPAM.</li>
-        <li>Foreman installation is now possible on EL8 distributions.</li>
-        <li>Improved UI for managing authentication sources</li>
+        <li>A brand-new host details page for easy host management and monitoring.</li>
     </ul>
     <p>
     <video width=\"40%\" controls>
@@ -28,7 +24,6 @@ showcase: "
 <li><a href=\"https://fosdem.org/2021/schedule/event/yourmanagementlayershouldbecattletoo/\">Your Management Layer Should Be Cattle Too</a></li>
 <li><a href=\"https://fosdem.org/2021/schedule/event/applicationcentricdeploymentwithforemankatello/\">Application centric deployment with foreman / katello</a></li>
 </ul>
-<p style=\"margin-top: 20px;\">We welcome your questions after the talks in the Infra Management chatroom and at any point in the day at our stand chatroon!</p>
 
 <ul>
 <h3>Foreman Workflows</h3>
