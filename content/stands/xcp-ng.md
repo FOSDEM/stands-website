@@ -81,7 +81,6 @@ showcase: "
 <li><a href=\"https://xcp-ng.org/docs/migratetoxcpng.html\">Migrate to XCP-ng</a></li>
 <li><a href=\"https://xcp-ng.org/docs/updates.html#support-cycle\">Support cycle</a></li>
 <li><a href=\"https://xcp-ng.org/docs/management.html#xe\">Management interface</a></li>
-<li><a href=\"https://xcp-ng.org/blog/2020/12/29/xcp-ng-in-2020/\">XCP-ng in 2020</a></li>
 </ul>
 <h4>Xen Orchestra</h4>
 <ul>
@@ -90,7 +89,6 @@ showcase: "
 <li><a href=\"https://xen-orchestra.com/docs/manage.html\">Management</a></li>
 <li><a href=\"https://xen-orchestra.com/docs/backup.html\">Backup</a></li>
 <li><a href=\"https://xen-orchestra.com/docs/support.html\">Support</a></li>
-<li><a href=\"https://xen-orchestra.com/blog/2020-is-finally-over/\">Xen Orchestra in 2020</a></li>
 </ul>
 
 
@@ -101,29 +99,19 @@ showcase: "
 
 new_this_year: "
 
-  <h3>Two important releases:</h3>
-  <h4>XCP-ng 8.1</h4>
+  <h3>In a nutshell</h3>
+  <h4>RunX</h4>
   <ul>
-    <li><a href=\"https://xen-orchestra.com/blog/devblog-6-backup-ram/\">RAM backup</a></li>
-    <li><a href=\"https://xcp-ng.org/blog/2020/03/31/xcp-ng-8-1/\">Epyc CPU support</a></li>
-    <li><a href=\"https://xen-orchestra.com/blog/xo-sdn-controller/\">SDN Controller: private tunnel</a></li>
-    <li><a href=\"https://xcp-ng.org/blog/2020/03/31/xcp-ng-8-1/\">Ext4 filesystem</a></li>
+    <li><a href=\"https://xcp-ng.org/blog/2021/09/14/runx-next-generation-secured-containers/\">RunX: next generation secured containers</a></li>
+    <li><a href=\"https://xcp-ng.org/blog/2021/10/19/runx-is-available-in-tech-preview/\">RunX is available in tech preview</a></li>
   </ul>
 
-  <h4>XCP-ng 8.2</h4>
+  <h4>R&D and partners</h4>
   <ul>
-    <li><a href=\"https://xcp-ng.org/blog/2021/01/28/guest-uefi-secure-boot/\">UEFI reimplementation</a></li>
-    <li><a href=\"https://xen-orchestra.com/blog/vms-vif-network-traffic-control/\">Openflow controller access</a></li>
-    <li><a href=\"https://xcp-ng.org/docs/release-8-2.html#core-scheduling-experimental\">Core scheduling</a></li>
+    <li><a href=\"https://xcp-ng.org/blog/2021/07/12/dpus-and-the-future-of-virtualization/\">DPUs and the future of virtualization</a></li>
+    <li><a href=\"https://xcp-ng.org/blog/2021/12/20/dpu-for-storage-a-first-look/\">DPUs for storage: a first look</a></li>
+    <li><a href=\"https://vates.fr/blog/kalray-vates-and-scaleway-alliance/\">Kalray, Vates and Scaleway alliance</a></li>
   </ul>
-
-  <h3>A long term support edition</h3>
-  <p> 2020 was also the year of our first LTS edition. This is a milestone in the life of our project which means that XCP-ng 8.2 will be supported for the next 5 years (until 2025-06-25).<p>
-  <center><img style=\"width: 60%; height: auto;\" src=\"/stands/xcp-ng/lts.png\"></center>
-
-  <h3>Innovation contest</h3>
-  <p> In 2020, Vates won a French innovation competition, enabling the XCP-ng project to receive <strong>€1.2 million in funding</strong> from the French government. This funding is intended in particular to improve the cybersecurity of the XCP-ng project components, without compromising the performance and accessibility of the platform in order to provide a European solution for open and sovereign virtualization.</p>
-
 
   "
 
