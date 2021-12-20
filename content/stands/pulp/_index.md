@@ -8,12 +8,6 @@ description: |
   <p style=\"margin-top: 20px;\" >Pulp has three talks in the Infra Management room on Saturday February 6th:</p>
   <p>
   <ul style=\"padding-inline-start: 20px;\">
-  <li style=\"list-style: none; margin-top: 8px;\><a href="https://fosdem.org/2021/schedule/event/registrynativedeliverysoftwarecontentpulp3/">Registry native delivery of software content with Pulp3.</a></li>
-  <li style=\"list-style: none; margin-top: 8px;\><a href="https://fosdem.org/2021/schedule/event/dontgetstuckonpulp2/">Don't get stuck on Pulp 2!</a></li>
-  <li style=\"list-style: none; margin-top: 8px;\><a href="https://fosdem.org/2021/schedule/event/hostyourownansiblegalaxy/">Host your own on-premise Ansible Galaxy.</a></li>
-  </ul>
-  <p style=\"margin-top: 20px;\" >We look forward to your questions after the talks in the Infra room.<p>
-  <p style=\"margin-top: 20px;\" >Outside of that, feel free to join us in our stand chatroom to discuss anything related to Pulp!</p>
 layout: stand
 logo: stands/pulp/logo.png
 new_this_year: |
