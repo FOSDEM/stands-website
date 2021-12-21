@@ -1,6 +1,6 @@
 ---
 description: |
-  Openwifi(https://github.com/open-sdr/openwifi), announced in FOSDEM’20, is the 1st opensource WiFi chip design (802.11a/g/n) which includes Verilog source code for the chip and C source code for the Linux driver. Currently the design runs on FPGA verification platform via SDR (Software Defined Radio) methodology. With the design running, the FPGA board could become WiFi AP, WiFi client, ad-hoc node or sniffer. Besides the standard WiFi functionality (802.11a/g/n), it also has some special features, such as non-standard frequencies (<6GHz); CSI; IQ sample; configurable low MAC behavior; time slicing; etc.
+  Openwifi(https://github.com/open-sdr/openwifi), announced in FOSDEM’20, is the 1st opensource WiFi chip design (802.11a/g/n, ax is coming) which includes Verilog source code for the chip and C source code for the Linux driver. Currently the design runs on FPGA based COTS SDR (Software Defined Radio) platform. With the design running, the FPGA board could become WiFi AP, WiFi client, ad-hoc node or sniffer, etc. just like COTS WiFi device! Besides the standard WiFi functionality, it also has some special features, such as non-standard frequencies (<6GHz); CSI; IQ sample; configurable low MAC behavior; time slicing; etc.
 
   <ul>
     <li>802.11a/g/n</li>
