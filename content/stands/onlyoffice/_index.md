@@ -39,10 +39,10 @@ description: |
           <a href="https://www.onlyoffice.com/office-suite.aspx" target="_blank" title="Visit ONLYOFFICE website">Full description of ONLYOFFICE Docs</a>
         </div>
         <div style="padding-bottom: 5px;">
-          <a href="https://www.youtube.com/watch?v=1BdW8vj9DJI&t" target="_blank" title="Watch on TouTube">Video presentation</a>
+          <a href="https://youtu.be/JzqxSas5OpY" target="_blank" title="Watch on TouTube">Video presentation</a>
         </div>
         <div>
-          <a href="https://www.onlyoffice.com/download.aspx#docs" target="_blank" title="Visit ONLYOFFICE website">Download ONLYOFFICE Docs</a>
+          <a href="https://www.onlyoffice.com/download-docs.aspx" target="_blank" title="Visit ONLYOFFICE website">Download ONLYOFFICE Docs</a>
         </div>
       </div>
     </div>
@@ -89,10 +89,10 @@ description: |
       </ul>
       <div>
         <div style="padding-bottom: 5px;">
-          <a href="https://www.onlyoffice.com/collaboration-platform.aspx" target="_blank" title="Visit ONLYOFFICE website">Full description of ONLYOFFICE Groups</a>
+          <a href="https://www.onlyoffice.com/groups.aspx" target="_blank" title="Visit ONLYOFFICE website">Full description of ONLYOFFICE Groups</a>
         </div>
         <div style="padding-bottom: 5px;">
-          <a href="https://www.youtube.com/watch?v=Ymg_EmvuHA0&t" target="_blank" title="Watch on TouTube">Video presentation</a>
+          <a href="https://youtu.be/27M-jr89h38" target="_blank" title="Watch on TouTube">Video presentation</a>
         </div>
         <div>
           <a href="https://www.onlyoffice.com/download.aspx#groups" target="_blank" title="Visit ONLYOFFICE website">Download ONLYOFFICE Groups</a>
@@ -142,10 +142,10 @@ description: |
           <a href="https://www.onlyoffice.com/workspace.aspx" target="_blank" title="Visit ONLYOFFICE website">Full description of ONLYOFFICE Workspace</a>
         </div>
         <div style="padding-bottom: 5px;">
-          <a href="https://www.youtube.com/watch?v=gBP8Xk3JIss&t" target="_blank" title="Watch on TouTube">Video presentation</a>
+          <a href="https://youtu.be/KYL2wc47KFg" target="_blank" title="Watch on TouTube">Video presentation</a>
         </div>
         <div>
-          <a href="https://www.onlyoffice.com/download.aspx#bundles" target="_blank" title="Visit ONLYOFFICE website">Download ONLYOFFICE Workspace</a>
+          <a href="https://www.onlyoffice.com/download-workspace.aspx" target="_blank" title="Visit ONLYOFFICE website">Download ONLYOFFICE Workspace</a>
         </div>
       </div>
     </div>
@@ -155,40 +155,64 @@ description: |
   </div>
   
 layout: stand
-logo: stands/onlyoffice/onlyoffice_logo.png
+logo: stands/onlyoffice/onlyoffice_logo.svg
 new_this_year: |
   <div style="max-width: 700px;">
     <div style="font-size: 16px; line-height: 19px; padding-bottom: 20px;">
-      In 2020, we made lots of useful enhancements in all ONLYOFFICE solutions.
+       In 2021, we made lots of useful enhancements in all ONLYOFFICE solutions.
     </div>
     <div style="line-height: 18px;">
-      <h5 style="color: #FF6F3D; font-size: 16px; line-height: 20px; margin: 0; padding: 0 0 10px;">
-        More efficient collaboration:
-      </h5>
-      <ul style="color: #FF6F3D; margin-bottom: 20px; padding-left: 30px;">
-        <li style="padding-bottom: 8px;">
-          <span style="color: #333333;"><b>Custom filter</b> access permission that allows hiding the data you don’t want to show before sharing your spreadsheet.</span>
-        </li>
-        <li style="padding-bottom: 8px;">
-          <span style="color: #333333;"><b>Sheet View</b> option that allows creating a filter that only changes your view of the data, without affecting your collaborators.</span>
-        </li>
-        <li style="padding-bottom: 8px;">
-          <span style="color: #333333;"><b>Document comparison</b> that allows quickly comparing two docs and see differences between them with revision marks, accept/reject/merge the changes.</span>
-        </li>
-      </ul>
-
       <h5 style="color: #FF6F3D; font-size: 16px; line-height: 20px; margin: 0; padding: 0 0 10px;">
         New productivity features in ONLYOFFICE Docs:
       </h5>
       <ul style="color: #FF6F3D; margin-bottom: 20px; padding-left: 30px;">
         <li style="padding-bottom: 8px;">
-          <span style="color: #333333;">Pivot tables, conditional formatting for viewing, slicers for formatted tables in spreadsheets.</span>
+          <span style="color: #333333;"><b>In documents:</b> Table of figures, Text to table/Table to text conversion, support of XML, HTML, EPUB, FB2, automatic capitalization of first letters in sentences.</span>
         </li>
         <li style="padding-bottom: 8px;">
-          <span style="color: #333333;">Mirror and gutter margins, endnotes and cross-references in docs.</span>
+          <span style="color: #333333;"><b>In spreadsheets:</b> Conditional Formatting, data validation, slicers, custom number formats, data import from CSV and TXT.</span>
         </li>
         <li style="padding-bottom: 8px;">
-          <span style="color: #333333;">New plugins Zotero, Mendeley, Autocomplete, Telegram, HTML, Word Count, Typograf.</span>
+          <span style="color: #333333;"><b>In presentations:</b> transparency settings, hiding notes panel.</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;"><b>In all editors:</b> enhanced spell-checking, hints for writing macros, adding files to Favorites.</span>
+        </li>
+      </ul>
+
+      <h5 style="color: #FF6F3D; font-size: 16px; line-height: 20px; margin: 0; padding: 0 0 10px;">
+        New plugins
+      </h5>
+      <ul style="color: #FF6F3D; margin-bottom: 20px; padding-left: 30px;">
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;"><b>Grammalecte</b> and <b>LanguageTool</b> to check spelling and grammar.</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;"><b>DeepL</b> and <b>Apertium</b> to translate texts.</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;"><b>Telegram</b> to chat without leaving the editors.</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;"><b>HTML</b> to work with content for web pages.</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;"><b>Word Counter</b> o calculate characters, words, and paragraphs.s</span>
+        </li>
+      </ul>
+
+      <h5 style="color: #FF6F3D; font-size: 16px; line-height: 20px; margin: 0; padding: 0 0 10px;">
+        More efficient collaboration
+      </h5>
+      <ul style="color: #FF6F3D; margin-bottom: 20px; padding-left: 30px;">
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;"><b>Smooth comments management:</b> you can resolve and delete all comments in an abstract or the entire document.</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;"><b>Version history for presentations</b> to restore previous versions of slideshows.</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;"><b>Names for anonymous users:</b> guests can introduce themselves in a document.</span>
         </li>
       </ul>
 
@@ -197,34 +221,30 @@ new_this_year: |
       </h5>
       <ul style="color: #FF6F3D; margin-bottom: 20px; padding-left: 30px;">
         <li style="padding-bottom: 8px;">
-          <span style="color: #333333;">Storage encryption at rest.</span>
+          <span style="color: #333333;"><b>Password protection</b> for documents online and in the desktop app.</span>
         </li>
         <li style="padding-bottom: 8px;">
-          <span style="color: #333333;">The first version of <a href="https://www.onlyoffice.com/private-rooms.aspx" target="_blank" title="Visit ONLYOFFICE website">Private Rooms</a> which are protected workplaces where every symbol you type is encrypted using the unbreakable AES-256 algorithm, even if you are co-editing documents with your teammates in real-time.</span>
+          <span style="color: #333333;"><b>Digital signatures</b> to protect data integrity in transit.</span>
         </li>
       </ul>
-
-      <h5 style="color: #FF6F3D; font-size: 16px; line-height: 20px; margin: 0; padding: 0 0 10px;">
-        Product portfolio changes:
-      </h5>
-      <div style="padding: 0 0 10px;">
-        ONLYOFFICE Groups released under Apache 2.0 what allows modifying and distributing it without limitations. It can be easily deployed in a few steps and integrated into any product ecosystem. 
-      </div>
 
       <h5 style="color: #FF6F3D; font-size: 16px; line-height: 20px; margin: 0; padding: 0 0 10px;">
         Integrations
       </h5>
       <ul style="color: #FF6F3D; margin-bottom: 20px; padding-left: 30px;">
         <li style="padding-bottom: 8px;">
-          <span style="color: #333333;">Multiple enhancements for the existing integrations, especially with Nextcloud and ownCloud.</span>
+          <span style="color: #333333;">Support for WOPI protocol. </span>
         </li>
         <li style="padding-bottom: 8px;">
-          <span style="color: #333333;">New connectors for HumHub, Plone, and Nuxeo.</span>
+          <span style="color: #333333;">New connectors for Jira, Redmine, FileCloud, OpenKM, Mattermost, Moodle.</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Multiple enhancements for the existing integrations, including Nextcloud, ownCloud, Confluence, Chamilo, Alfresco, etc.</span>
         </li>
       </ul>
 
       <div style="font-size: 16px; line-height: 19px; padding-bottom: 50px;">
-        For now, we’re working on multi-functional forms that will allow quickly building any complex document template online.
+        What else, ONLYOFFICE got <b>Gold in the Cloud Computing Insider Awards 2021</b> in the category File Sharing & Collaboration.
       </div>
 
       <h4 style="color: #FF6F3D; font-size: 24px; line-height: 30px; margin: 0; padding: 0 0 10px;">
@@ -320,15 +340,10 @@ showcase: |
   <div style="border-bottom: 1px solid #DFDFDF; font-size: 16px; font-weight: 600; line-height: 19px; padding: 20px 0 10px;">
     Saturday
   </div>
+  <div style="padding: 20px 0 10px;">
+    We are planning to present a talk in the Collaboration and Content Management devroom. Further details follow later.
+  </div>
   <table>
-    <tr>
-      <td style="padding: 10px 24px 0 0; vertical-align: top; white-space: nowrap;">
-        15:00 - 15:30:
-      </td>
-      <td style="padding: 10px 20px 0 0;">
-        Our talk ‘<a href="https://fosdem.org/2021/schedule/event/onlyofficeultimatesecurity/" target="_blank">ONLYOFFICE: How to provide ultimate security for real-time document collaboration</a>’ in the D.collab devroom, presented by Alex Mikheev.
-      </td>
-    </tr>
     <tr>
       <td style="padding: 10px 24px 0 0; vertical-align: top; white-space: nowrap;">
         entire day:
