@@ -2,7 +2,7 @@
 description: |
   ONLYOFFICE is an open-source project with the focus on advanced and secure document processing trusted by over 7 million users worldwide. 
 layout: stand
-logo: stands/onlyoffice/onlyoffice_logo.png
+logo: stands/onlyoffice/onlyoffice_logo.svg
 new_this_year: |
   <p>In 2020, we made lots of useful enhancements in all ONLYOFFICE solutions.
    </p>
