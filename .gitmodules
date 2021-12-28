@@ -117,7 +117,7 @@
 
 [submodule "content/stands/haiku"]
 	path = content/stands/haiku
-	url = https://github.com/pulkomandy/fosdem-stands-haiku.git
+	url = https://github.com/haiku/fosdem-stands-haiku.git
 
 [submodule "static/stands/eclipse-foundation"]
 	path = static/stands/eclipse-foundation
