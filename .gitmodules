@@ -152,10 +152,10 @@
 	url = https://github.com/apache/comdev-fosdem-content.git
 [submodule "static/stands/schul-frei"]
 	path = static/stands/schul-frei
-	url = https://edugit.org/schul-frei/conferences/2021/FOSDEM/fosdem-2021-stand-static.git
+	url = https://edugit.org/Teckids/schul-frei/conferences/2021/FOSDEM/fosdem-2021-stand-static.git
 [submodule "content/stands/schul-frei"]
 	path = content/stands/schul-frei
-	url = https://edugit.org/schul-frei/conferences/2021/FOSDEM/fosdem-2021-stand-content.git
+	url = https://edugit.org/Teckids/schul-frei/conferences/2021/FOSDEM/fosdem-2021-stand-content.git
 [submodule "content/stands/thola___nesi"]
 	path = content/stands/thola___nesi
 	url = https://github.com/inexio/fosdem21-stand-content.git
