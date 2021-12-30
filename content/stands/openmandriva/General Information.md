@@ -1,5 +1,5 @@
 ## General Information
-FOSDEM 2021
+FOSDEM 2022
 
 Welcome to the OpenMandriva stand
 ### OpenMandriva: What is it? What started it?
