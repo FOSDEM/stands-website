@@ -16,29 +16,13 @@ description: |
   In addition, it is based on the design of the NT kernel, which makes it scalable, portable and performant.
   In addition to the well-known Win32 support, this also enables other subsystems, for example POSIX, or the DOS/Win16 VDM, which is already under development.
 new_this_year: |
-  <p>A lot of work has been done in both kernel and user mode parts of ReactOS.</p>
-
-  <p>User mode changes:
+  <p><strong>WIP, the page is not finished yet!</strong></p>
+  <p>The most notable changes are:
   <ul>
-    <li>Filesystem notifications in shell</li>
-    <li>Many small UI polishing changes, like autocomplete text fields, "size on disk" label for file properties dialog</li>
-    <li>More work towards forward compatibility with recent Windows apps</li>
-    <li>ReactOS Applications manager (Rapps) enchancement (one of our GSoC projects):<br>
-    Support for displaying screenshots, visual changes, command-line scripting improvements</li>
-  </ul>
-  </p>
-
-  <p>The most notable kernel changes are:
-  <ul>
-    <li>new storage stack, derived from open source Microsoft drivers.<br>
-    Offers compatibility with vendor-provided storage drivers, and other software,<br>
-    GPT partitions support, SSD special commands, blu-ray drives and more</li>
-    <li>Compatibility improvements in Cache Controller subsystem and Memory Manager.<br>
-    Support for filesystem drivers for Windows improved a lot,<br>
-    now "ntfs.sys" driver from Windows almost works and FAT driver works without issues</li>
-    <li>Plug and Play manager improvements, for better 3rd party driver support</li>
-    <li>amd64 support progress, now it boots to the desktop</li>
-    <li>original Xbox port improved, and NEC PC-98 port started</li>
+    <li>Deep memory manager rework</li>
+    <li>64-bit build boots and works</li>
+    <li>SMP works have been started</li>
+    <li>Many more</li>
   </ul>
   </p>
 showcase: |
