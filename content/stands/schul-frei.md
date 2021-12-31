@@ -51,10 +51,7 @@ new_this_year: |
     corona pandemic. School closures related to the pandemic have meant that we have
     received many requests to use video conferencing solutions. This was an advantage
     for us in that we probably became a bit better known during the school
-    closures. Due to the high demand for video conferencing software, BigBlueButton
-    was added to our software canon. BigBlueButton in combination with moodle could
-    inspire many schools, which could either use a public instance of our association
-    or got their own instance installed by us. Apart from social distancing, fundamental
+    closures.  Apart from social distancing, fundamental
     things in our project work have also changed. Now we are more open for external
     help and cooperation. Now all our projects were publicly visible at any time,
     but now we have a public chatroom where everyone can talk about our project. There
@@ -62,11 +59,8 @@ new_this_year: |
     work. We hope that by opening the project to external people, our project will
     become more transparent and diverse. Hopefully, this will contribute over the
     future to making the actual goal of making free software popular in schools more
-    tangible. One plan for the future is to add a new video conferencing solution
-    to our canon that combines various free software components, which is called Meet.in.One.
-    All the advantages of several conference tools should be combined in one solution.
-    This bridge between the different solutions should of course be free and developed
-    together with Teckids e.V. and other developers.
+    tangible. 
+    In 2021, the development of AlekSIS has progressed strongly, so that we will now test AlekSIS in practice with partner schools. Gathering feedback will be an important task for us in 2022 in order to be able to fulfil the goal of using AlekSIS on a large scale in schools.
 show_on_overview: true
 chatroom: schul-frei
 draft: true
