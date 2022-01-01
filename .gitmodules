@@ -16,7 +16,7 @@
 
 [submodule "content/stands/freebsd_project"]
 	path = content/stands/freebsd_project
-	url = https://github.com/emaste/freebsd_project
+	url = https://github.com/jehops/freebsd_fosdem
 
 [submodule "content/stands/kiwi_tcms"]
 	path = content/stands/kiwi_tcms
