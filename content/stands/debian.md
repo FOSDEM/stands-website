@@ -17,6 +17,17 @@ new_this_year: |
   place virtually online from 2021-August-24 to 2021-August-28.
   </p>
 
+  <h2>Debian in 2022</h2>
+  <p>The 23rd Debian Conference, <a href="https://debconf22.debconf.org/">Debconf22</a>,
+  is scheduled to be held in Prizren, Kosovo from Sunday 2022-July-17th through
+  2022-July-24th.  <a href="https://wiki.debian.org/DebCamp">DebCamp</a> will
+  be held the week before, from July 10th through the 16th.
+  </p>
+  <p>While the next stable release of Debian, codenamed "bookworm", will likely
+  not be out until 2023, there has been significant work by the community.
+<!-- FIXME: add bullet list of bookworm highlights so far? -->
+  </p>
+
 showcase: |
   <ul>
     <li>learn about Debian</li>
