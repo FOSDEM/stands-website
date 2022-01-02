@@ -10,12 +10,12 @@ logo: stands/openmandriva/logo.png
 description: |
   OpenMandriva is a 100% community controlled Linux distribution.
 
-  With (OMLx 4.2) Plasma 5.20.5, KDE Frameworks 5.78, Qt 5.12.2 and LibreOffice
-   7.1, it is one of the most current distributions available.
+  With (OMLx 4.3) Plasma 5.23.4, KDE Frameworks 5.89, Qt 5.12.2 and LibreOffice
+   7.3, it is one of the most current distributions available.
 
   OpenMandriva was
    the first Linux distribution to switch to a clang based toolchain. In the current
-   version, even the kernel is built with clang 11.
+   version, even the kernel is built with clang 13.
 
   While the primary focus of
    OpenMandriva is on the desktop, its repositories also contain a state of the art
@@ -28,7 +28,7 @@ showcase: |
   <p>OpenMandriva can work on x86_64 systems as well as aarch64
     (not sharing some other distributions' limitation to UEFI compliant aarch64 server
     platforms), and can run as a desktop, workstation, server, or - since the advent
-    of OpenMandriva on PinePhone - smartphone.</p>
+    of OpenMandriva on PinePhone - smartphone. A RISC-V port is underway.</p>
   <p>You may want to pay us a visit if
     you're interested in getting into Linux or you're looking for a project that can
     use your help as a volunteer.</p>
@@ -44,7 +44,7 @@ new_this_year: |
     on PinePhone is in the works (and ready for initial use). A RISC-V port is also
     in the works (presently running in qemu) and should be ready for daily use shortly
     after we can get our hands on Hifive Unmatched boards.</p>
-  <p>With the 4.2 release
+  <p>With the 4.3 release
     done, our main focus has moved to 5.0 - which will bring many improvements to
     the core system, such as making crosscompiling and targeting multiple architectures
     easier than ever.
@@ -57,7 +57,7 @@ new_this_year: |
   </ul>
   <p>Please follow below links for more information:</p>
   <ul>
-  <li><a target="_blank" rel="noopener noreferrer" href="https://sourceforge.net/projects/openmandriva/files/release/4.2/RC/">OpenMandriva Lx 4.2 RC</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://sourceforge.net/projects/openmandriva/files/release/4.3/">OpenMandriva Lx 4.3</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://gallery.openmandriva.org/index.php?/category/37">4.2 Release Gallery</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://abf.openmandriva.org">Automatic Build Farm</a></li>
   <li><a target="_blank" rel="noopener noreferrer" href="https://github.com/OpenMandrivaAssociation">Our github repositories</a></li>
