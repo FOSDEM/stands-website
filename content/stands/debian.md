@@ -17,6 +17,38 @@ new_this_year: |
   place virtually online from 2021-August-24 to 2021-August-28.
   </p>
 
+<!-- h3>Debian bits from 2021</h3   FIXME: populate this section -->
+  <h3>Getting Debian 11 'bullseye' and tips</h3>
+  <p>
+  Debian 11 'bullseye' is supported on nine different CPU architectures.  Visit
+  https://www.debian.org/download to get an installer and links to
+  <a href="https://www.debian.org/releases/bullseye/installmanual">documentation</a>.
+  Additionally there are <i>live</i> images available to try Debian without
+  installing it.  There are also <a href=https://cloud.debian.org/images/cloud/>Debian
+  Official Cloud Images</a> provided by the Debian Cloud Team on popular cloud
+  marketplace listings.
+  </p>
+
+  <p>
+  There are several avenues for <a href="https://www.debian.org/support">support
+  with Debian</a>, including online via <a href="https://wiki.debian.org/IRC">IRC</a>
+  and mailing lists.
+  </p>
+
+  <ul>
+  <li>the <code>open</code> command will try and open a file with the right program</li>
+  <li>there are 31,387 source packages in Debian 11</li>
+  <li>Debian 11 uses the new "yescrypt" password hashing format by default</li>
+  <li>the systemd persistent journal is active in Debian 11 by default</li>
+  <li>scanner devices can also be accessed with driverless scanning, thanks to the new "sane-airscan" package</li>
+  <li>Debian 11 is the first Debian release providing a Linux kernel which has support for the exFAT filesystem</li>
+  <li>the security suite is now named bullseye-security so users should adapt
+    their APT source-list files and configuration accordingly when upgrading.
+    More details in the <a href="https://www.debian.org/releases/bullseye/amd64/release-notes/ch-information.en.html#security-archive>Release Notes</a>.</li>
+  <li>Debian supports the previous version for at least twelve months following a new release, before it moves to the LTS and eLTS teams for further maintenance</li>
+  </ul>
+
+
   <h2>Debian in 2022</h2>
   <p>The 23rd Debian Conference, <a href="https://debconf22.debconf.org/">Debconf22</a>,
   is scheduled to be held in Prizren, Kosovo from Sunday 2022-July-17th through
