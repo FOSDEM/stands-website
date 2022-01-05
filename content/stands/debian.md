@@ -17,10 +17,10 @@ new_this_year: |
   place virtually online from 2021-August-24 to 2021-August-28.
   </p>
 
-<!-- h3>Debian bits from 2021</h3   FIXME: populate this section -->
-  <h3>Getting Debian 11 'bullseye' and tips</h3>
+  <h3>Getting Debian 11 "bullseye" and tips</h3>
   <p>
-  Debian 11 'bullseye' is supported on nine different CPU architectures.  Visit
+  <a href="https://www.debian.org/releases/bullseye/">Debian 11 "bullseye"</a>
+  is supported on nine different CPU architectures.  Visit
   https://www.debian.org/download to get an installer and links to
   <a href="https://www.debian.org/releases/bullseye/installmanual">documentation</a>.
   Additionally there are <i>live</i> images available to try Debian without
@@ -48,6 +48,45 @@ new_this_year: |
   <li>Debian supports the previous version for at least twelve months following a new release, before it moves to the LTS and eLTS teams for further maintenance</li>
   </ul>
 
+  <h3>Debian bits from 2021</h3>
+  In addition to the highlights described above, there were many <i>bits</i>
+  accomplished by the Debian community in 2021.  Some include:
+
+  <ul style="column-count:2">
+  <li/><a href="https://in2021.mini.debconf.org/schedule/">MiniDebConf India
+  2021</a> took place on 2021-January-23rd and 24th (Sat/Sun).
+
+  <li/><a href="https://bits.debian.org/2021/02/arduino-back-in-debian.html">Arduino
+  is back in Debian</a> as of 2021-Feburary-01. <br/>WANTED: Beta Testers for Arduino
+
+  <li/>The <a href="https://lists.debian.org/debian-devel-announce/2021/04/msg00010.html">First
+  virtual Bug Squashing Party in Salzburg/Austria</a> was held on 2021-April-24th and 25th.
+
+  <li/>The Debian Brazilian Portuguese (l10n-pt-BR) translation team
+  <a=href"https://debianbrasil.org.br/blog/report-from-sprint-ddtp-ddtss-by-l10n-pt-br-team/">organised a sprint</a>
+  from 2021-March-20th through the 28.  More than 100 new translations and more
+  than 650 reviews were done by 15 people.
+
+  <li/>An <a href="https://debianbrasil.org.br/blog/online-seminar-ufal/">online seminar at UFAL - Brasil</a>
+  took place on 2021-June-3rd, hosted by DD Paulo Santana (phls) and
+  contributor Thiago Pezzo (tico).
+
+  <li/>Debian hosted a virtual <a href="https://micronews.debian.org/2021/1628014510.html">booth
+  at #GitLabCommit</a> 2021-August-03.
+
+  <li/>The <a href="https://micronews.debian.org/2021/1630744899.html">Debian
+  Day 2021 Turkey online</a> event took place the 26th of August, with 57 participants!
+
+  <li/><a href="https://wiki.debian.org/DebianEvents/nl/2021/MiniDebCamp21Tilburg">Mini
+  DebCamp 21 Tilburg</a> took place during the weekend of 2021-August-28th and 29th.
+
+  <li/><a href="https://wiki.debian.org/DebianEvents/de/2021/MiniDebConfRegensburg/">MiniDebConf
+  Regensburg 2021</a> began with a MiniDebCamp on 2021-September-29th to
+  2021-October-1st, followed by the conference on 2021-October-2nd and 3rd.
+
+  </ul>
+
+
 
   <h2>Debian in 2022</h2>
   <p>The 23rd Debian Conference, <a href="https://debconf22.debconf.org/">Debconf22</a>,
@@ -55,8 +94,9 @@ new_this_year: |
   2022-July-24th.  <a href="https://wiki.debian.org/DebCamp">DebCamp</a> will
   be held the week before, from July 10th through the 16th.
   </p>
-  <p>While the next stable release of Debian, codenamed "bookworm", will likely
-  not be out until 2023, there has been significant work by the community.
+  <p>While the next stable release of Debian, codenamed "<a href="https://www.debian.org/releases/bookworm/">bookworm</a>",
+  will likely not be out until 2023, there has been significant work by the
+  community.
 <!-- FIXME: add bullet list of bookworm highlights so far? -->
   </p>
 
