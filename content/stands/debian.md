@@ -102,8 +102,12 @@ new_this_year: |
   will likely not be out until 2023, there has been significant work by the
   community.
 <!-- FIXME: add bullet list of bookworm highlights so far? -->
-  </p>
 
+  <!-- markdown table test http://mdcheatsheet.com/ -->
+  bug 1,000,000 | Debian Security Advisory 5000 | door three
+  2021-11-19    | 2021-11-02                    | 2022-01-05
+
+  </p>
 showcase: |
   <img src="/stands/debian/logo.png" alt="Debian logo" style="max-width: 50%" />
 
