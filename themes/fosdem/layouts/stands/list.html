@@ -3,14 +3,14 @@
     <div class="row">
         <div class="col-sm-12">
             <div class="jumbotron text-center" style="padding: 1rem;">
-                <h2>Welcome to FOSDEM 2021!</h2>
+                <h2>Welcome to FOSDEM 2022!</h2>
             </div>
         </div>
     </div>
     <div class="row mt-3 fosdem-description">
         <div class="col">
             <p>
-                All stands at FOSDEM 2021. If you want to see them per theme, you can go to <a href="/themes/">the themes page</a>.
+                All stands at FOSDEM 2022. If you want to see them per theme, you can go to <a href="/themes/">the themes page</a>.
             </p>
         </div>
     </div>
@@ -39,10 +39,10 @@
                     <ul class="list-unstyled">
                     {{ if .Params.Chatroom }}
                         <li><span class="material-icons md-18 mr-1">comment</span> <a href="https://matrix.to/#/#{{ .Params.Chatroom }}-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">Join the conversation!</a></li>
-                        <li><span class="material-icons md-18 mr-1">event</span> <a href="https://fosdem.org/2021/schedule/room/s{{ .Params.Chatroom }}/">{{ .Params.title }} stand events @ FOSDEM</a></li>
+                        <li><span class="material-icons md-18 mr-1">event</span> <a href="https://fosdem.org/2022/schedule/room/s{{ .Params.Chatroom }}/">{{ .Params.title }} stand events @ FOSDEM</a></li>
                     {{ else }}
                         <li><span class="material-icons md-18 mr-1">comment</span> <a href="https://matrix.to/#/#{{ .File.TranslationBaseName }}-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">Join the conversation!</a></li>
-                        <li><span class="material-icons md-18 mr-1">event</span> <a href="https://fosdem.org/2021/schedule/room/s{{ .File.TranslationBaseName }}/">{{ .Params.title }} stand events @ FOSDEM</a></li>
+                        <li><span class="material-icons md-18 mr-1">event</span> <a href="https://fosdem.org/2022/schedule/room/s{{ .File.TranslationBaseName }}/">{{ .Params.title }} stand events @ FOSDEM</a></li>
                     {{ end }}
                     </ul>
                 </div>
