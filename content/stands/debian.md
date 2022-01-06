@@ -35,18 +35,23 @@ new_this_year: |
   and mailing lists.
   </p>
 
+  <br/>
+  <br/>
+  Some facts and tips about Debian 11 "bullseye" include:
   <ul>
   <li>the <code>open</code> command will try and open a file with the right program</li>
   <li>there are 31,387 source packages in Debian 11</li>
   <li>Debian 11 uses the new "yescrypt" password hashing format by default</li>
   <li>the systemd persistent journal is active in Debian 11 by default</li>
-  <li>scanner devices can also be accessed with driverless scanning, thanks to the new "sane-airscan" package</li>
+  <li>scanner devices can be accessed with driverless scanning, thanks to the new "sane-airscan" package</li>
   <li>Debian 11 is the first Debian release providing a Linux kernel which has support for the exFAT filesystem</li>
   <li>the security suite is now named bullseye-security so users should adapt
-    their APT source-list files and configuration accordingly when upgrading.
-    More details in the <a href="https://www.debian.org/releases/bullseye/amd64/release-notes/ch-information.en.html#security-archive>Release Notes</a>.</li>
+  their APT source-list files and configuration accordingly when upgrading.
+  <br/> More details in the <a href="https://www.debian.org/releases/bullseye/amd64/release-notes/ch-information.en.html#security-archive">Release
+  Notes</a>.</li>
   <li>Debian supports the previous version for at least twelve months following a new release, before it moves to the LTS and eLTS teams for further maintenance</li>
   </ul>
+
 
   <h3>Debian bits from 2021</h3>
   In addition to the highlights described above, there were many <i>bits</i>
@@ -54,28 +59,27 @@ new_this_year: |
 
   <ul style="column-count:2">
   <li/><a href="https://in2021.mini.debconf.org/schedule/">MiniDebConf India
-  2021</a> took place on 2021-January-23rd and 24th (Sat/Sun).
+  2021</a> took place over the weekend of 2021-January-23rd and 24th.
 
   <li/><a href="https://bits.debian.org/2021/02/arduino-back-in-debian.html">Arduino
-  is back in Debian</a> as of 2021-Feburary-01. <br/>WANTED: Beta Testers for Arduino
+  is back in Debian</a> as of 2021-Feburary-01. <br/> <small>WANTED: Beta Testers for Arduino</small>
 
   <li/>The <a href="https://lists.debian.org/debian-devel-announce/2021/04/msg00010.html">First
   virtual Bug Squashing Party in Salzburg/Austria</a> was held on 2021-April-24th and 25th.
 
   <li/>The Debian Brazilian Portuguese (l10n-pt-BR) translation team
   <a=href"https://debianbrasil.org.br/blog/report-from-sprint-ddtp-ddtss-by-l10n-pt-br-team/">organised a sprint</a>
-  from 2021-March-20th through the 28.  More than 100 new translations and more
-  than 650 reviews were done by 15 people.
+  from 2021-March-20th through the 28. <small>More than 100 new translations and more
+  than 650 reviews were done by 15 people.</small>
 
   <li/>An <a href="https://debianbrasil.org.br/blog/online-seminar-ufal/">online seminar at UFAL - Brasil</a>
-  took place on 2021-June-3rd, hosted by DD Paulo Santana (phls) and
-  contributor Thiago Pezzo (tico).
+  took place on 2021-June-3rd.
 
   <li/>Debian hosted a virtual <a href="https://micronews.debian.org/2021/1628014510.html">booth
   at #GitLabCommit</a> 2021-August-03.
 
   <li/>The <a href="https://micronews.debian.org/2021/1630744899.html">Debian
-  Day 2021 Turkey online</a> event took place the 26th of August, with 57 participants!
+  Day 2021 Turkey online</a> event took place the 2021-August-26th, with 57 participants!
 
   <li/><a href="https://wiki.debian.org/DebianEvents/nl/2021/MiniDebCamp21Tilburg">Mini
   DebCamp 21 Tilburg</a> took place during the weekend of 2021-August-28th and 29th.
