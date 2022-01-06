@@ -59,30 +59,12 @@
 [submodule "static/stands/ntop"]
 	path = static/stands/ntop
 	url = https://github.com/ntop/fosdem21-static.git
-[submodule "content/stands/sesame_discovery"]
-	path = content/stands/sesame_discovery
-	url = https://github.com/SesameEngineering/fosdem21-content.git
-[submodule "static/stands/sesame_discovery"]
-	path = static/stands/sesame_discovery
-	url = https://github.com/SesameEngineering/fosdem21-static.git
-[submodule "content/stands/mit_app_inventor"]
-	path = content/stands/mit_app_inventor
-	url = https://github.com/mit-cml/fosdem-stand.git
-[submodule "static/stands/mit_app_inventor"]
-	path = static/stands/mit_app_inventor
-	url = https://github.com/mit-cml/fosdem-static.git
 [submodule "content/stands/the_gnome_foundation"]
 	path = content/stands/the_gnome_foundation
 	url = https://github.com/gnome/stands-website.git
 [submodule "static/stands/the_gnome_foundation"]
 	path = static/stands/the_gnome_foundation
 	url = https://github.com/gnome/stands-website.git
-[submodule "content/stands/xwiki___cryptpad"]
-	path = content/stands/xwiki___cryptpad
-	url = https://github.com/xwikisas/fosdem-stand-content.git
-[submodule "static/stands/xwiki___cryptpad"]
-	path = static/stands/xwiki___cryptpad
-	url = https://github.com/xwikisas/fosdem-stand-static.git
 [submodule "content/stands/openwifi"]
 	path = content/stands/openwifi
 	url = https://github.com/JiaoXianjun/openwifi-fosdem21-content.git
@@ -95,22 +77,12 @@
 [submodule "static/stands/ow2_open_source_community"]
 	path = static/stands/ow2_open_source_community
 	url = https://gitlab.ow2.org/ow2/fosdem/ow2-fosdem-stand-static.git
-[submodule "content/stands/openembedded"]
-	path = content/stands/openembedded
-	url = https://gitlab.com/openembedded/community/fosdem-stand-content.git
-[submodule "static/stands/openembedded"]
-	path = static/stands/openembedded
-	url = https://gitlab.com/openembedded/community/fosdem-stand-static.git
 [submodule "content/stands/mautic"]
 	path = content/stands/mautic
 	url = https://github.com/mautic/fosdem-2021-stand-content.git
 [submodule "static/stands/mautic"]
 	path = static/stands/mautic
 	url = https://github.com/mautic/fosdem-2021-stand-static.git
-[submodule "static/stands/thola___nesi"]
-	path = static/stands/thola___nesi
-	url = https://github.com/inexio/fosdem21-stand-static.git
-
 [submodule "static/stands/coderdojo_belgium"]
 	path = static/stands/coderdojo_belgium
 	url = https://github.com/valeriecdj/FosdemStatic.git
@@ -156,18 +128,9 @@
 [submodule "content/stands/schul-frei"]
 	path = content/stands/schul-frei
 	url = https://edugit.org/Teckids/schul-frei/conferences/2021/FOSDEM/fosdem-2021-stand-content.git
-[submodule "content/stands/thola___nesi"]
-	path = content/stands/thola___nesi
-	url = https://github.com/inexio/fosdem21-stand-content.git
 [submodule "static/stands/openuk"]
 	path = static/stands/openuk
 	url = https://github.com/OpenUK/fosdem-static.git
-[submodule "static/stands/jenkins"]
-	path = static/stands/jenkins
-	url = https://github.com/jenkins-infra/fosdem-stands-website-jenkins-static.git
-[submodule "content/stands/jenkins"]
-	path = content/stands/jenkins
-	url = https://github.com/jenkins-infra/fosdem-stands-website-jenkins.git
 [submodule "content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu"]
 	path = content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu
 	url = https://git.libre-soc.org/git/fosdem-stand.git
@@ -183,12 +146,6 @@
 [submodule "content/stands/illumos"]
 	path = content/stands/illumos
 	url = https://github.com/Toasterson/fosdem-stands-illumos.git
-[submodule "content/stands/unikraft"]
-	path = content/stands/unikraft
-	url = https://github.com/unikraft/fosdem21-stand-content.git
-[submodule "static/stands/unikraft"]
-	path = static/stands/unikraft
-	url = https://github.com/unikraft/fosdem21-stand-static.git
 [submodule "static/stands/illumos"]
 	path = static/stands/illumos
 	url = https://github.com/hrosenfeld/fosdem-assets-illumos.git
