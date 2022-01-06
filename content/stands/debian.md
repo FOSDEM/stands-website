@@ -105,6 +105,8 @@ new_this_year: |
   </p>
 
 showcase: |
+  <img src="/stands/debian/logo.png" alt="Debian logo" style="max-width: 50%" />
+
   <ul>
     <li>learn about Debian</li>
     <li>meet Debian people</li>
