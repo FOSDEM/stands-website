@@ -88,8 +88,8 @@ showcase: |
   <p>
   <a href="https://www.debian.org/releases/bullseye/">Debian 11 "bullseye"</a>
   is supported on nine different CPU architectures.  Visit
-  https://www.debian.org/download to get an installer and links to
-  <a href="https://www.debian.org/releases/bullseye/installmanual">documentation</a>.
+  <a href=https://www.debian.org/download>https://www.debian.org/download</a> to
+  get an installer and links to <a href="https://www.debian.org/releases/bullseye/installmanual">documentation</a>.
   Additionally there are <i>live</i> images available to try Debian without
   installing it.  There are also <a href=https://cloud.debian.org/images/cloud/>Debian
   Official Cloud Images</a> provided by the Debian Cloud Team on popular cloud
