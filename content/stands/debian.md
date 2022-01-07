@@ -4,6 +4,23 @@ description: Debian -- The Universal Operating System. <br/>  A community
 layout: stand
 logo: stands/debian/logo.png
 new_this_year: |
+  <p>The 23rd Debian Conference, <a href="https://debconf22.debconf.org/">Debconf22</a>,
+  is scheduled to be held in Prizren, Kosovo from Sunday 2022-July-17th through
+  2022-July-24th.  <a href="https://wiki.debian.org/DebCamp">DebCamp</a> will
+  be held the week before, from July 10th through the 16th.
+  </p>
+  <p>While the next stable release of Debian, codenamed "<a href="https://www.debian.org/releases/bookworm/">bookworm</a>",
+  will likely not be out until 2023, there has been significant work by the
+  community.
+
+  bug 1,000,000 | Debian Security Advisory 5000 | door three
+  2021-11-19    | 2021-11-02                    | 2022-01-05
+  <!-- markdown table test http://mdcheatsheet.com/ -->
+<!-- FIXME: add bullet list of bookworm highlights so far? -->
+  </p>
+
+
+  <h2>Debian in 2021</h2>
   <p>Debian 11 <i>"bullseye"</i> <a href="https://www.debian.org/News/2021/20210814">shipped
   on 2021-August-14th</a>.  Since then two point releases for Debian 11 have
   come out, most recently with <a href="https://www.debian.org/News/2021/20211218">11.2
@@ -54,24 +71,6 @@ new_this_year: |
 
   </ul>
 
-
-
-  <h2>Debian in 2022</h2>
-  <p>The 23rd Debian Conference, <a href="https://debconf22.debconf.org/">Debconf22</a>,
-  is scheduled to be held in Prizren, Kosovo from Sunday 2022-July-17th through
-  2022-July-24th.  <a href="https://wiki.debian.org/DebCamp">DebCamp</a> will
-  be held the week before, from July 10th through the 16th.
-  </p>
-  <p>While the next stable release of Debian, codenamed "<a href="https://www.debian.org/releases/bookworm/">bookworm</a>",
-  will likely not be out until 2023, there has been significant work by the
-  community.
-<!-- FIXME: add bullet list of bookworm highlights so far? -->
-
-  <!-- markdown table test http://mdcheatsheet.com/ -->
-  bug 1,000,000 | Debian Security Advisory 5000 | door three
-  2021-11-19    | 2021-11-02                    | 2022-01-05
-
-  </p>
 showcase: |
   <img src="/stands/debian/logo.png" alt="Debian logo" style="max-width: 20%" />
 
@@ -103,7 +102,6 @@ showcase: |
   and mailing lists.
   </p>
 
-  <br/>
   <br/>
   Some facts and tips about Debian 11 "bullseye" include:
   <ul>
