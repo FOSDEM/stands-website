@@ -4,6 +4,23 @@ description: Debian -- The Universal Operating System. <br/>  A community
 layout: stand
 logo: stands/debian/logo.png
 new_this_year: |
+  <p>The 23rd Debian Conference, <a href="https://debconf22.debconf.org/">Debconf22</a>,
+  is scheduled to be held in Prizren, Kosovo from Sunday 2022-July-17th through
+  2022-July-24th.  <a href="https://wiki.debian.org/DebCamp">DebCamp</a> will
+  be held the week before, from July 10th through the 16th.
+  </p>
+  <p>While the next stable release of Debian, codenamed "<a href="https://www.debian.org/releases/bookworm/">bookworm</a>",
+  will likely not be out until 2023, there has been significant work by the
+  community.
+
+  bug 1,000,000 | Debian Security Advisory 5000 | door three
+  2021-11-19    | 2021-11-02                    | 2022-01-05
+  <!-- markdown table test http://mdcheatsheet.com/ -->
+<!-- FIXME: add bullet list of bookworm highlights so far? -->
+  </p>
+
+
+  <h2>Debian in 2021</h2>
   <p>Debian 11 <i>"bullseye"</i> <a href="https://www.debian.org/News/2021/20210814">shipped
   on 2021-August-14th</a>.  Since then two point releases for Debian 11 have
   come out, most recently with <a href="https://www.debian.org/News/2021/20211218">11.2
@@ -16,42 +33,6 @@ new_this_year: |
   <p>Like FOSDEM21, <a href="https://debconf21.debconf.org/">Debconf21</a> took
   place virtually online from 2021-August-24 to 2021-August-28.
   </p>
-
-  <h3>Getting Debian 11 "bullseye" and tips</h3>
-  <p>
-  <a href="https://www.debian.org/releases/bullseye/">Debian 11 "bullseye"</a>
-  is supported on nine different CPU architectures.  Visit
-  https://www.debian.org/download to get an installer and links to
-  <a href="https://www.debian.org/releases/bullseye/installmanual">documentation</a>.
-  Additionally there are <i>live</i> images available to try Debian without
-  installing it.  There are also <a href=https://cloud.debian.org/images/cloud/>Debian
-  Official Cloud Images</a> provided by the Debian Cloud Team on popular cloud
-  marketplace listings.
-  </p>
-
-  <p>
-  There are several avenues for <a href="https://www.debian.org/support">support
-  with Debian</a>, including online via <a href="https://wiki.debian.org/IRC">IRC</a>
-  and mailing lists.
-  </p>
-
-  <br/>
-  <br/>
-  Some facts and tips about Debian 11 "bullseye" include:
-  <ul>
-  <li>the <code>open</code> command will try and open a file with the right program</li>
-  <li>there are 31,387 source packages in Debian 11</li>
-  <li>Debian 11 uses the new "yescrypt" password hashing format by default</li>
-  <li>the systemd persistent journal is active in Debian 11 by default</li>
-  <li>scanner devices can be accessed with driverless scanning, thanks to the new "sane-airscan" package</li>
-  <li>Debian 11 is the first Debian release providing a Linux kernel which has support for the exFAT filesystem</li>
-  <li>the security suite is now named bullseye-security so users should adapt
-  their APT source-list files and configuration accordingly when upgrading.
-  <br/> More details in the <a href="https://www.debian.org/releases/bullseye/amd64/release-notes/ch-information.en.html#security-archive">Release
-  Notes</a>.</li>
-  <li>Debian supports the previous version for at least twelve months following a new release, before it moves to the LTS and eLTS teams for further maintenance</li>
-  </ul>
-
 
   <h3>Debian bits from 2021</h3>
   In addition to the highlights described above, there were many <i>bits</i>
@@ -90,26 +71,10 @@ new_this_year: |
 
   </ul>
 
-
-
-  <h2>Debian in 2022</h2>
-  <p>The 23rd Debian Conference, <a href="https://debconf22.debconf.org/">Debconf22</a>,
-  is scheduled to be held in Prizren, Kosovo from Sunday 2022-July-17th through
-  2022-July-24th.  <a href="https://wiki.debian.org/DebCamp">DebCamp</a> will
-  be held the week before, from July 10th through the 16th.
-  </p>
-  <p>While the next stable release of Debian, codenamed "<a href="https://www.debian.org/releases/bookworm/">bookworm</a>",
-  will likely not be out until 2023, there has been significant work by the
-  community.
-<!-- FIXME: add bullet list of bookworm highlights so far? -->
-
-  <!-- markdown table test http://mdcheatsheet.com/ -->
-  bug 1,000,000 | Debian Security Advisory 5000 | door three
-  2021-11-19    | 2021-11-02                    | 2022-01-05
-
-  </p>
 showcase: |
-  <img src="/stands/debian/logo.png" alt="Debian logo" style="max-width: 50%" />
+  <img src="/stands/debian/logo.png" alt="Debian logo" style="max-width: 20%" />
+
+  <br/>
 
   <ul>
     <li>learn about Debian</li>
@@ -118,6 +83,41 @@ showcase: |
     <li>find out how to help and contribute to Debian</li>
     <li>have fun</li>
   </ul>
+
+  <h3>Getting Debian 11 "bullseye" and tips</h3>
+  <p>
+  <a href="https://www.debian.org/releases/bullseye/">Debian 11 "bullseye"</a>
+  is supported on nine different CPU architectures.  Visit
+  https://www.debian.org/download to get an installer and links to
+  <a href="https://www.debian.org/releases/bullseye/installmanual">documentation</a>.
+  Additionally there are <i>live</i> images available to try Debian without
+  installing it.  There are also <a href=https://cloud.debian.org/images/cloud/>Debian
+  Official Cloud Images</a> provided by the Debian Cloud Team on popular cloud
+  marketplace listings.
+  </p>
+
+  <p>
+  Several options for <a href="https://www.debian.org/support">support with
+  Debian</a> including online via <a href="https://wiki.debian.org/IRC">IRC</a>
+  and mailing lists.
+  </p>
+
+  <br/>
+  Some facts and tips about Debian 11 "bullseye" include:
+  <ul>
+  <li>the <code>open</code> command will try and open a file with the right program</li>
+  <li>there are 31,387 source packages in Debian 11</li>
+  <li>Debian 11 uses the new "yescrypt" password hashing format by default</li>
+  <li>the systemd persistent journal is active in Debian 11 by default</li>
+  <li>scanner devices can be accessed with driverless scanning, thanks to the new "sane-airscan" package</li>
+  <li>Debian 11 is the first Debian release providing a Linux kernel which has support for the exFAT filesystem</li>
+  <li>the security suite is now named bullseye-security so users should adapt
+  their APT source-list files and configuration accordingly when upgrading.
+  <br/> More details in the <a href="https://www.debian.org/releases/bullseye/amd64/release-notes/ch-information.en.html#security-archive">Release
+  Notes</a>.</li>
+  <li>Debian supports the previous version for at least twelve months following a new release, before it moves to the LTS and eLTS teams for further maintenance</li>
+  </ul>
+
 themes:
 - Operating systems
 title: Debian
