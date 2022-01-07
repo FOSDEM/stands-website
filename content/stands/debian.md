@@ -17,42 +17,6 @@ new_this_year: |
   place virtually online from 2021-August-24 to 2021-August-28.
   </p>
 
-  <h3>Getting Debian 11 "bullseye" and tips</h3>
-  <p>
-  <a href="https://www.debian.org/releases/bullseye/">Debian 11 "bullseye"</a>
-  is supported on nine different CPU architectures.  Visit
-  https://www.debian.org/download to get an installer and links to
-  <a href="https://www.debian.org/releases/bullseye/installmanual">documentation</a>.
-  Additionally there are <i>live</i> images available to try Debian without
-  installing it.  There are also <a href=https://cloud.debian.org/images/cloud/>Debian
-  Official Cloud Images</a> provided by the Debian Cloud Team on popular cloud
-  marketplace listings.
-  </p>
-
-  <p>
-  There are several avenues for <a href="https://www.debian.org/support">support
-  with Debian</a>, including online via <a href="https://wiki.debian.org/IRC">IRC</a>
-  and mailing lists.
-  </p>
-
-  <br/>
-  <br/>
-  Some facts and tips about Debian 11 "bullseye" include:
-  <ul>
-  <li>the <code>open</code> command will try and open a file with the right program</li>
-  <li>there are 31,387 source packages in Debian 11</li>
-  <li>Debian 11 uses the new "yescrypt" password hashing format by default</li>
-  <li>the systemd persistent journal is active in Debian 11 by default</li>
-  <li>scanner devices can be accessed with driverless scanning, thanks to the new "sane-airscan" package</li>
-  <li>Debian 11 is the first Debian release providing a Linux kernel which has support for the exFAT filesystem</li>
-  <li>the security suite is now named bullseye-security so users should adapt
-  their APT source-list files and configuration accordingly when upgrading.
-  <br/> More details in the <a href="https://www.debian.org/releases/bullseye/amd64/release-notes/ch-information.en.html#security-archive">Release
-  Notes</a>.</li>
-  <li>Debian supports the previous version for at least twelve months following a new release, before it moves to the LTS and eLTS teams for further maintenance</li>
-  </ul>
-
-
   <h3>Debian bits from 2021</h3>
   In addition to the highlights described above, there were many <i>bits</i>
   accomplished by the Debian community in 2021.  Some include:
@@ -109,7 +73,9 @@ new_this_year: |
 
   </p>
 showcase: |
-  <img src="/stands/debian/logo.png" alt="Debian logo" style="max-width: 50%" />
+  <img src="/stands/debian/logo.png" alt="Debian logo" style="max-width: 20%" />
+
+  <br/>
 
   <ul>
     <li>learn about Debian</li>
@@ -118,6 +84,42 @@ showcase: |
     <li>find out how to help and contribute to Debian</li>
     <li>have fun</li>
   </ul>
+
+  <h3>Getting Debian 11 "bullseye" and tips</h3>
+  <p>
+  <a href="https://www.debian.org/releases/bullseye/">Debian 11 "bullseye"</a>
+  is supported on nine different CPU architectures.  Visit
+  https://www.debian.org/download to get an installer and links to
+  <a href="https://www.debian.org/releases/bullseye/installmanual">documentation</a>.
+  Additionally there are <i>live</i> images available to try Debian without
+  installing it.  There are also <a href=https://cloud.debian.org/images/cloud/>Debian
+  Official Cloud Images</a> provided by the Debian Cloud Team on popular cloud
+  marketplace listings.
+  </p>
+
+  <p>
+  Several options for <a href="https://www.debian.org/support">support with
+  Debian</a> including online via <a href="https://wiki.debian.org/IRC">IRC</a>
+  and mailing lists.
+  </p>
+
+  <br/>
+  <br/>
+  Some facts and tips about Debian 11 "bullseye" include:
+  <ul>
+  <li>the <code>open</code> command will try and open a file with the right program</li>
+  <li>there are 31,387 source packages in Debian 11</li>
+  <li>Debian 11 uses the new "yescrypt" password hashing format by default</li>
+  <li>the systemd persistent journal is active in Debian 11 by default</li>
+  <li>scanner devices can be accessed with driverless scanning, thanks to the new "sane-airscan" package</li>
+  <li>Debian 11 is the first Debian release providing a Linux kernel which has support for the exFAT filesystem</li>
+  <li>the security suite is now named bullseye-security so users should adapt
+  their APT source-list files and configuration accordingly when upgrading.
+  <br/> More details in the <a href="https://www.debian.org/releases/bullseye/amd64/release-notes/ch-information.en.html#security-archive">Release
+  Notes</a>.</li>
+  <li>Debian supports the previous version for at least twelve months following a new release, before it moves to the LTS and eLTS teams for further maintenance</li>
+  </ul>
+
 themes:
 - Operating systems
 title: Debian
