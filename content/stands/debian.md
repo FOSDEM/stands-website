@@ -13,7 +13,7 @@ new_this_year: |
   will likely not be out until 2023, there has been significant work by the
   community.
 
-<!-- FIXME: add bullet list of bookworm highlights so far? -->
+  <!-- FIXME: add bullet list of bookworm highlights so far? -->
   </p>
 
 
@@ -69,9 +69,9 @@ new_this_year: |
   </ul>
 
 showcase: |
+  <p>
   <img src="/stands/debian/logo.png" alt="Debian logo" style="max-width: 20%" />
-
-  <br/>
+  </p>
 
   <ul>
     <li>learn about Debian</li>
