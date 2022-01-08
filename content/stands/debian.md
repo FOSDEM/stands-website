@@ -13,10 +13,7 @@ new_this_year: |
   will likely not be out until 2023, there has been significant work by the
   community.
 
-  bug 1,000,000 | Debian Security Advisory 5000 | door three
-  2021-11-19    | 2021-11-02                    | 2022-01-05
-  <!-- markdown table test http://mdcheatsheet.com/ -->
-<!-- FIXME: add bullet list of bookworm highlights so far? -->
+  <!-- FIXME: add bullet list of bookworm highlights so far? -->
   </p>
 
 
@@ -36,14 +33,14 @@ new_this_year: |
 
   <h3>Debian bits from 2021</h3>
   In addition to the highlights described above, there were many <i>bits</i>
-  accomplished by the Debian community in 2021.  Some include:
+  accomplished by the Debian community in 2021.  Some include&#58;
 
   <ul style="column-count:2">
   <li/><a href="https://in2021.mini.debconf.org/schedule/">MiniDebConf India
   2021</a> took place over the weekend of 2021-January-23rd and 24th.
 
   <li/><a href="https://bits.debian.org/2021/02/arduino-back-in-debian.html">Arduino
-  is back in Debian</a> as of 2021-Feburary-01. <br/> <small>WANTED: Beta Testers for Arduino</small>
+  is back in Debian</a> as of 2021-Feburary-01. <br/> <small>WANTED&#58; Beta Testers for Arduino</small>
 
   <li/>The <a href="https://lists.debian.org/debian-devel-announce/2021/04/msg00010.html">First
   virtual Bug Squashing Party in Salzburg/Austria</a> was held on 2021-April-24th and 25th.
@@ -57,7 +54,7 @@ new_this_year: |
   took place on 2021-June-3rd.
 
   <li/>Debian hosted a virtual <a href="https://micronews.debian.org/2021/1628014510.html">booth
-  at #GitLabCommit</a> 2021-August-03.
+  at &#35;GitLabCommit</a> 2021-August-03.
 
   <li/>The <a href="https://micronews.debian.org/2021/1630744899.html">Debian
   Day 2021 Turkey online</a> event took place the 2021-August-26th, with 57 participants!
@@ -72,9 +69,9 @@ new_this_year: |
   </ul>
 
 showcase: |
+  <p>
   <img src="/stands/debian/logo.png" alt="Debian logo" style="max-width: 20%" />
-
-  <br/>
+  </p>
 
   <ul>
     <li>learn about Debian</li>
