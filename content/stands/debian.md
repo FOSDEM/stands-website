@@ -4,7 +4,7 @@ description: Debian -- The Universal Operating System. <br/>  A community
 layout: stand
 logo: stands/debian/logo.png
 new_this_year: |
-  <p>The 23rd Debian Conference, <a href="https://debconf22.debconf.org/">Debconf22</a>,
+  <p>Looking ahead at 2022, the 23rd Debian Conference, <a href="https://debconf22.debconf.org/">Debconf22</a>,
   is scheduled to be held in Prizren, Kosovo from Sunday 2022-July-17th through
   2022-July-24th.  <a href="https://wiki.debian.org/DebCamp">DebCamp</a> will
   be held the week before, from July 10th through the 16th.
@@ -18,7 +18,8 @@ new_this_year: |
 
 
   <h2>Debian in 2021</h2>
-  <p>Debian 11 <i>"bullseye"</i> <a href="https://www.debian.org/News/2021/20210814">shipped
+  <p>Reviewing accomplishments in 2021 since the last FOSDEM, Debian 11
+  <i>"bullseye"</i> <a href="https://www.debian.org/News/2021/20210814">shipped
   on 2021-August-14th</a>.  Since then two point releases for Debian 11 have
   come out, most recently with <a href="https://www.debian.org/News/2021/20211218">11.2
   on 2021-December-18th</a>.
@@ -76,15 +77,16 @@ showcase: |
   <ul>
     <li>learn about Debian</li>
     <li>meet Debian people</li>
-    <li>get any questions and remarks you might have about Debian answered by Debian people</li>
+    <li>ask questions and share remarks you might have about Debian</li>
     <li>find out how to help and contribute to Debian</li>
-    <li>have fun</li>
+    <li>have fun!</li>
   </ul>
 
   <h3>Getting Debian 11 "bullseye" and tips</h3>
   <p>
   <a href="https://www.debian.org/releases/bullseye/">Debian 11 "bullseye"</a>
-  is supported on nine different CPU architectures.  Visit
+  is the current stable release of the Debian operating system.  It is
+  supported on nine different CPU architectures.  Visit
   <a href="https://www.debian.org/download">https://www.debian.org/download</a> to
   get an installer and links to <a href="https://www.debian.org/releases/bullseye/installmanual">documentation</a>.
   Additionally there are <i>live</i> images available to try Debian without
@@ -95,8 +97,8 @@ showcase: |
 
   <p>
   Several options for <a href="https://www.debian.org/support">support with
-  Debian</a> including online via <a href="https://wiki.debian.org/IRC">IRC</a>
-  and mailing lists.
+  Debian</a> are available, including online via <a href="https://wiki.debian.org/IRC">IRC</a>,
+  mailing lists, bug tracking system (BTS), and more.
   </p>
 
   <br/>
@@ -108,11 +110,11 @@ showcase: |
   <li>the systemd persistent journal is active in Debian 11 by default</li>
   <li>scanner devices can be accessed with driverless scanning, thanks to the new "sane-airscan" package</li>
   <li>Debian 11 is the first Debian release providing a Linux kernel which has support for the exFAT filesystem</li>
-  <li>the security suite is now named bullseye-security so users should adapt
-  their APT source-list files and configuration accordingly when upgrading.
-  <br/> More details in the <a href="https://www.debian.org/releases/bullseye/amd64/release-notes/ch-information.en.html#security-archive">Release
-  Notes</a>.</li>
-  <li>Debian supports the previous version for at least twelve months following a new release, before it moves to the LTS and eLTS teams for further maintenance</li>
+  <li>the security suite is now named <i>bullseye-security</i> so users should adapt
+  their APT source-list files and configuration accordingly when upgrading
+  (more details in the <a href="https://www.debian.org/releases/bullseye/amd64/release-notes/ch-information.en.html#security-archive">Release
+  Notes</a>)</li>
+  <li>Debian supports the previous stable version for at least twelve months following a new release, before transitioning it to the LTS and eLTS teams for further maintenance</li>
   </ul>
 
 themes:
