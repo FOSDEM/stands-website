@@ -12,9 +12,15 @@ new_this_year: |
   <p>While the next stable release of Debian, codenamed "<a href="https://www.debian.org/releases/bookworm/">bookworm</a>",
   will likely not be out until 2023, there has been significant work by the
   community.
-
-  <!-- FIXME: add bullet list of bookworm highlights so far? -->
   </p>
+
+  <h3>Bookworm developments</h3>
+  <ul style="column-count:2">
+  <li/>Technical Committee resolved that Debian 'bookworm' should support
+  only the <i>merged-usr root filesystem layout</i>, dropping support for the
+  non-merged-usr layout
+  <li/>fixme: populate
+  </ul>
 
 
   <h2>Debian in 2021</h2>
