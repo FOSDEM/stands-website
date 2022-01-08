@@ -49,7 +49,7 @@ new_this_year: |
   virtual Bug Squashing Party in Salzburg/Austria</a> was held on 2021-April-24th and 25th.
 
   <li/>The Debian Brazilian Portuguese (l10n-pt-BR) translation team
-  <a=href"https://debianbrasil.org.br/blog/report-from-sprint-ddtp-ddtss-by-l10n-pt-br-team/">organised a sprint</a>
+  <a href="https://debianbrasil.org.br/blog/report-from-sprint-ddtp-ddtss-by-l10n-pt-br-team/">organised a sprint</a>
   from 2021-March-20th through the 28. <small>More than 100 new translations and more
   than 650 reviews were done by 15 people.</small>
 
@@ -88,7 +88,7 @@ showcase: |
   <p>
   <a href="https://www.debian.org/releases/bullseye/">Debian 11 "bullseye"</a>
   is supported on nine different CPU architectures.  Visit
-  <a href=https://www.debian.org/download>https://www.debian.org/download</a> to
+  <a href="https://www.debian.org/download">https://www.debian.org/download</a> to
   get an installer and links to <a href="https://www.debian.org/releases/bullseye/installmanual">documentation</a>.
   Additionally there are <i>live</i> images available to try Debian without
   installing it.  There are also <a href=https://cloud.debian.org/images/cloud/>Debian
