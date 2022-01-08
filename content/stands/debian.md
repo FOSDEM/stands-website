@@ -16,8 +16,9 @@ new_this_year: |
 
   <h3>Bookworm developments</h3>
   <ul style="column-count:2">
-  <li/>Technical Committee resolved that Debian 'bookworm' should support
-  only the <i>merged-usr root filesystem layout</i>, dropping support for the
+  <li/>the <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=978636">Technical
+  Committee resolved</a> that Debian "bookworm" should support only the
+  <i>merged-usr root filesystem layout</i>, dropping support for the
   non-merged-usr layout
   <li/>fixme: populate
   </ul>
