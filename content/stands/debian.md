@@ -16,11 +16,13 @@ new_this_year: |
 
   <h3>Bookworm developments</h3>
   <ul style="column-count:2">
-  <li/>the <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=978636">Technical
+  <li/>The <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=978636">Technical
   Committee resolved</a> that Debian "bookworm" should support only the
-  <i>merged-usr root filesystem layout</i>, dropping support for the
-  non-merged-usr layout
-  <li/>fixme: populate
+  <i>merged-usr root filesystem layout</i>
+  <li/>The <code>tempfile</code> and <code>rename.ul</code> programs have been
+  removed (with replacements of <code>mktemp</code> and
+  <code>file-rename</code>)
+  <li/>The <code>which</code> program has been deprecated (advised to use <code>command -v</code> or <code>type</code> instead)
   </ul>
 
 
