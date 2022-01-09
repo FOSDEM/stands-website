@@ -106,7 +106,7 @@ The links are of the form _https://penta.fosdem.org/submission/FOSDEM21/event/\_
 
 On the _Schedule_ tab in Pentabarf, you'll find a field called _Pre-recorded Video Upload URL_. Go to that link (you'll have to copy & paste) to upload the video.
 
-You'll have to wait a few minutes while the script transcodes the video. You can check the progress at [upload.video.fosdem.org/overview](https://upload.video.fosdem.org/overview) (select _Stand recordings_ and search for your project - you'll find 4 video's - check the one you uploaded).
+You'll have to wait a few minutes while the script transcodes the video. You can check the progress at [upload.video.fosdem.org/overview](https://upload.video.fosdem.org/overview) (select _Stand recordings_ and search for your project - you'll find 5 video's - check the one you uploaded).
 
 As soon as it says _preview_ on the overview, go back to Pentabarf, go to the schedule tab and check the field called _Video Review URL_. Go to that link to check your video, and if it is OK, confirm it (if it is not, you can upload a new version).
 
@@ -116,7 +116,7 @@ Go back to Pentabarf and the schedule tab, check the field _Final Video URL_. Th
 
 Upload the video, it will be converted by our system. Afterwards, you review and approve the video, which will then be live.
 
-You can embed the video; the links will be of the form _https://video.fosdem.org/2021/stands/\_chatroom\_name\_\_video1.mp4_. Embedding is done using standard HTML. You can only embed video's in HTML content, not in Markdown. Note that all fields (description, new_this_year and showcase) will accept HTML and that any pages you add can be HTML as well.
+You can embed the video; the links will be of the form _https://video.fosdem.org/2022/stands/\_chatroom\_name\_\_video1.mp4_. Embedding is done using standard HTML. You can only embed video's in HTML content, not in Markdown. Note that all fields (description, new_this_year and showcase) will accept HTML and that any pages you add can be HTML as well.
 
 ## Welcome events on the schedule
 
