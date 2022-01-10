@@ -71,7 +71,7 @@ showcase: |
     _Showcase: explain why people should come to your stand. You can use HTML (p, ul, etc.)_
 
 new_this_year: |
-    _What has happened in 2020 to your project? You can use HTML (p, ul, etc.)_
+    _What has happened in 2021 to your project? You can use HTML (p, ul, etc.)_
 
 layout: stand
 chatroom: _Room name in pentabarf_
@@ -102,7 +102,7 @@ You can upload video's via [penta.fosdem.org](https://penta.fosdem.org), where e
 
 We've created four video events you can upload to (1 video per event). If you need more, let us know.
 
-The links are of the form _https://penta.fosdem.org/submission/FOSDEM21/event/\_event\_id\__.
+The links are of the form _https://penta.fosdem.org/submission/FOSDEM21/event/_event_id__.
 
 On the _Schedule_ tab in Pentabarf, you'll find a field called _Pre-recorded Video Upload URL_. Go to that link (you'll have to copy & paste) to upload the video.
 
@@ -116,7 +116,7 @@ Go back to Pentabarf and the schedule tab, check the field _Final Video URL_. Th
 
 Upload the video, it will be converted by our system. Afterwards, you review and approve the video, which will then be live.
 
-You can embed the video; the links will be of the form _https://video.fosdem.org/2022/stands/\_chatroom\_name\_\_video1.mp4_. Embedding is done using standard HTML. You can only embed video's in HTML content, not in Markdown. Note that all fields (description, new_this_year and showcase) will accept HTML and that any pages you add can be HTML as well.
+You can embed the video; the links will be of the form _https://video.fosdem.org/2022/stands/_chatroom_name__video1.mp4_. Embedding is done using standard HTML. You can only embed video's in HTML content, not in Markdown. Note that all fields (description, new_this_year and showcase) will accept HTML and that any pages you add can be HTML as well.
 
 ## Welcome events on the schedule
 
@@ -132,7 +132,7 @@ Doing so will add a widget in your room which will display your video feed.
 
 ## Adding extra events to the schedule
 
-You can add extra events to be put on the schedule via [_https://penta.fosdem.org/submission/FOSDEM21_](https://penta.fosdem.org/submission/FOSDEM21). Make
+You can add extra events to be put on the schedule via [_https://penta.fosdem.org/submission/FOSDEM22_](https://penta.fosdem.org/submission/FOSDEM22). Make
 sure the track is _<your project> stand_. Send the links to the event to the <i>#stands:fosdem.org</i> channel so we can approve them and put them
 on the schedule.
 
