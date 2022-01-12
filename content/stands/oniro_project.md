@@ -47,15 +47,17 @@ description: |
  <a href="https://synesthesia.it">Synesthesia</a>
  and
  <a href="http://www.array.eu">Array</a>.
- If you want to know how to
- <a href="https://docs.oniroproject.org/en/latest/community-chat-platform.html">
- join the community
- </a>
- please contact
- <a href="https://oniroproject.org/join-us/">
- Oniro
- </a>
- .
+ <h2>Connect with us</h2>
+ <div class="row mt-2 mb-4">
+ <div class="col">
+ <div class="btn-group btn-group-lg text-center" role="group">
+ <a class="btn btn-primary" href="https://docs.oniroproject.org/en/latest/community-chat-platform.html">Chat with community</a>
+ <a class="btn btn-secondary" href="https://accounts.eclipse.org/mailing-list/oniro-wg">Join our mailing list</a>
+ <a class="btn btn-secondary" href="https://oniroproject.org/join-us/">Join Working Group</a>
+ <a class="btn btn-secondary" href="https://twitter.com/@oniro_project">Follow us on Twitter</a>
+ </div>
+ </div>
+ </div>
  </p>
 layout: stand
 logo: stands/oniro_project/logo.svg.png
@@ -80,7 +82,7 @@ new_this_year: |
  intense year.
  </p>
  <h3>Don't miss our talks</h3>
- <table>
+ <table class="table table-striped">
  <tr>
  <th>Time</th>
  <th>Title</th>
@@ -281,8 +283,8 @@ new_this_year: |
  </tr>
  <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
- <a href="https://fosdem.org/2022/schedule/day/sunday/#1400">14:00</a>
- -<a href="https://fosdem.org/2022/schedule/day/sunday/#1500">15:00</a>
+ <a href="https://fosdem.org/2022/schedule/day/sunday/#1400">14:00</a>-<a
+ href="https://fosdem.org/2022/schedule/day/sunday/#1500">15:00</a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/event/astarte_data_collection/">
