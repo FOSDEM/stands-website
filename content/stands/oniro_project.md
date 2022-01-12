@@ -17,7 +17,8 @@ description: |
  </p>
  <p>
  Oniro is the global
- market reach extension of the OpenHarmony Chinese based project.
+ market reach extension of the OpenHarmony,
+ an open source operating system specified and hosted by the OpenAtom Foundation.
  Only in this way we can create a cohesive single global
  ecosystem.
  </p>
@@ -90,8 +91,8 @@ new_this_year: |
  <tr>
  <td>
  <a href="https://fosdem.org/2022/schedule/day/saturday/">Sat</a>:<br/>
- <a href="https://fosdem.org/2022/schedule/day/saturday/#1030">10:30</a>
- -<a href="https://fosdem.org/2022/schedule/day/saturday/#1100">11:00</a>
+ <a href="https://fosdem.org/2022/schedule/day/saturday/#1030">10:30</a>-<a
+ href="https://fosdem.org/2022/schedule/day/saturday/#1100">11:00</a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/event/collaboniro/">
@@ -111,8 +112,8 @@ new_this_year: |
  <tr>
  <td>
  <a href="https://fosdem.org/2022/schedule/day/saturday/">Sat</a>:<br/>
- <a href="https://fosdem.org/2022/schedule/day/saturday/#1350">13:50</a>
- -<a href="https://fosdem.org/2022/schedule/day/saturday/#1415">14:15</a>
+ <a href="https://fosdem.org/2022/schedule/day/saturday/#1350">13:50</a>-<a
+ href="https://fosdem.org/2022/schedule/day/saturday/#1415">14:15</a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/event/tee_oniro/">
@@ -130,8 +131,8 @@ new_this_year: |
  <tr>
  <td>
  <a href="https://fosdem.org/2022/schedule/day/saturday/">Sat</a>:</br>
- <a href="https://fosdem.org/2022/schedule/day/saturday/#1535">15:35</a>
- -<a href="https://fosdem.org/2022/schedule/day/saturday/#1600">16:00</a>
+ <a href="https://fosdem.org/2022/schedule/day/saturday/#1535">15:35</a>-<a
+ href="https://fosdem.org/2022/schedule/day/saturday/#1600">16:00</a>
  </td>
  <td><a href="https://fosdem.org/2022/schedule/event/llvm_oniro/">
  Libc++ on Linux - using the example of Oniro</a>
@@ -146,8 +147,8 @@ new_this_year: |
  </tr>
  <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/saturday/">Sat</a>:</br>
- <a href="https://fosdem.org/2022/schedule/day/saturday/#1545">15:45</a>
- -<a href="https://fosdem.org/2022/schedule/day/saturday/#1555">15:55</a>
+ <a href="https://fosdem.org/2022/schedule/day/saturday/#1545">15:45</a>-<a
+ href="https://fosdem.org/2022/schedule/day/saturday/#1555">15:55</a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/event/oniro_ci_with_lava/">
@@ -164,8 +165,8 @@ new_this_year: |
  </tr>
  <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/saturday/">Sat</a>:</br>
- <a href="https://fosdem.org/2022/schedule/day/saturday/#1600">16:00</a>
- -<a href="https://fosdem.org/2022/schedule/day/saturday/#1630">16:30</a>
+ <a href="https://fosdem.org/2022/schedule/day/saturday/#1600">16:00</a>-<a
+ href="https://fosdem.org/2022/schedule/day/saturday/#1630">16:30</a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/event/build_systems_all_way_down/">
@@ -185,13 +186,13 @@ new_this_year: |
  </tr>
  <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
- <a href="https://fosdem.org/2022/schedule/day/sunday/#1000">10:00</a>
- -<a href="https://fosdem.org/2022/schedule/day/sunday/#1030">10:30</a>
+ <a href="https://fosdem.org/2022/schedule/day/sunday/#1000">10:00</a>-<a
+ href="https://fosdem.org/2022/schedule/day/sunday/#1030">10:30</a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/event/lvgl/">
  LVGL: A versatile UI toolkit for MCU & CPU</a><br/>
- An UI framework for Eclipse Onino a cross kernel OS
+ An UI framework for Eclipse Oniro a cross kernel OS
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/track/graphics/">
@@ -204,8 +205,8 @@ new_this_year: |
  </tr>
  <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
- <a href="https://fosdem.org/2022/schedule/day/sunday/#1220">12:20</a>
- -<a href="https://fosdem.org/2022/schedule/day/sunday/#1240">12:40</a>
+ <a href="https://fosdem.org/2022/schedule/day/sunday/#1220">12:20</a>-<a
+ href="https://fosdem.org/2022/schedule/day/sunday/#1240">12:40</a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/event/scanning_for_known_vulnerabilities_in_an_embedded_distribution/">
@@ -223,8 +224,8 @@ new_this_year: |
  </tr>
  <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
- <a href="https://fosdem.org/2022/schedule/day/sunday/#1330">13:30</a>
- -<a href="https://fosdem.org/2022/schedule/day/sunday/#1400">14:00</a>
+ <a href="https://fosdem.org/2022/schedule/day/sunday/#1330">13:30</a>-<a
+ href="https://fosdem.org/2022/schedule/day/sunday/#1400">14:00</a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/event/oniro_blueprints/">
@@ -242,8 +243,8 @@ new_this_year: |
  </tr>
  <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
- <a href="https://fosdem.org/2022/schedule/day/sunday/#1330">13:30</a>
- -<a href="https://fosdem.org/2022/schedule/day/sunday/#1415">14:15</a>
+ <a href="https://fosdem.org/2022/schedule/day/sunday/#1330">13:30</a>-<a
+ href="https://fosdem.org/2022/schedule/day/sunday/#1415">14:15</a>
  </td>
  <td>
  <a href=https://fosdem.org/2022/schedule/event/eclipse_oniro_a_production_os/"
@@ -282,8 +283,8 @@ new_this_year: |
  </tr>
  <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
- <a href="https://fosdem.org/2022/schedule/day/sunday/#1500">15:00</a>
- -<a href="https://fosdem.org/2022/schedule/day/sunday/#1530">15:30</a>
+ <a href="https://fosdem.org/2022/schedule/day/sunday/#1500">15:00</a>-<a
+ href="https://fosdem.org/2022/schedule/day/sunday/#1530">15:30</a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/event/openthread_mesh_network/">
@@ -302,8 +303,8 @@ new_this_year: |
  </tr>
  <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
- <a href="https://fosdem.org/2022/schedule/day/sunday/#1545">15:45</a>
- -<a href="https://fosdem.org/2022/schedule/day/sunday/#1610">16:10</a>
+ <a href="https://fosdem.org/2022/schedule/day/sunday/#1545">15:45</a>-<a
+ href="https://fosdem.org/2022/schedule/day/sunday/#1610">16:10</a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/event/dos_and_donts_when_building_yocto_based_distro/">
