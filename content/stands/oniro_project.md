@@ -102,7 +102,7 @@ new_this_year: |
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/track/collaboration_and_content_management/">
- Collaboration and Content Management devroom</a>
+ Collaboration and Content Management </a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/sebastian_serewa/">
@@ -122,7 +122,7 @@ new_this_year: |
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/track/hardware_aided_trusted_computing/">
- Hardware-Aided Trusted Computing devroom</a>
+ Hardware-Aided Trusted Computing </a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/marta_rybczynska/">Marta Rybczynska</a>
@@ -139,7 +139,7 @@ new_this_year: |
  <br/>
  Experiences with switching from libstdc++ to libc++</td>
  <td>
- <a href="https://fosdem.org/2022/schedule/track/llvm/">LLVM devroom</a>
+ <a href="https://fosdem.org/2022/schedule/track/llvm/">LLVM </a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/bernhard_rosenkranzer/">Bernhard Rosenkränzer</a>
@@ -156,7 +156,7 @@ new_this_year: |
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/track/testing_and_automation/">
- Testing and Automation devroom</a>
+ Testing and Automation </a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/stevan_radakovic/">
@@ -171,17 +171,36 @@ new_this_year: |
  <td>
  <a href="https://fosdem.org/2022/schedule/event/build_systems_all_way_down/">
  Build Systems all the way down</a><br/>
- Untangling
- OpenEmbedded/meta-zephyr/zephyr integration in Eclipse
- Oniro
+ Untangling OpenEmbedded/meta-zephyr/zephyr integration in Eclipse Oniro
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/track/embedded_mobile_and_automotive/">
- Embedded, Mobile and Automotive devroom</a>
+ Embedded, Mobile and Automotive </a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/eilis_ni_fhlannagain/">
  Eilís Ní Fhlannagáin</a>
+ </td>
+ <tr>
+ <td><a href="https://fosdem.org/2022/schedule/day/saturday/">Sat</a>:</br>
+ <a href="https://fosdem.org/2022/schedule/day/saturday/#1650">16:00</a>-<a
+ href="https://fosdem.org/2022/schedule/day/saturday/#1725">17:25</a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/event/go_why_embedded/">
+ Why your next embedded project should be written in Go
+ </a><br/>
+ Confessions of a recovering C developer
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/track/go/">
+ Go 
+ </a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/speaker/zygmunt_krynicki/">
+ Zygmunt Krynicki
+ </a>
  </td>
  </tr>
  <tr>
@@ -216,7 +235,7 @@ new_this_year: |
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/track/software_composition_and_dependency_management/">
- Software composition and dependency management devroom</a>
+ Software composition and dependency management </a>
  </td>
  <td><a href="https://fosdem.org/2022/schedule/speaker/marta_rybczynska/">
  Marta Rybczynska</a>
@@ -234,7 +253,7 @@ new_this_year: |
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/track/embedded_mobile_and_automotive/">
- Embedded, Mobile and Automotive devroom</a>
+ Embedded, Mobile and Automotive </a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/philippe_coval/">
@@ -247,14 +266,14 @@ new_this_year: |
  href="https://fosdem.org/2022/schedule/day/sunday/#1415">14:15</a>
  </td>
  <td>
- <a href=https://fosdem.org/2022/schedule/event/eclipse_oniro_a_production_os/"
- >Eclipse Oniro: A production OS</a>
+ <a href="https://fosdem.org/2022/schedule/event/eclipse_oniro_a_production_os/">
+ Eclipse Oniro: A production OS</a>
  <br/>
  Focus on your applications again
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/track/distributions/">
- Distributions devroom</a>
+ Distributions </a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/amit_kucheria/">
@@ -274,11 +293,33 @@ new_this_year: |
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/track/embedded_mobile_and_automotive/">
- Embedded, Mobile and Automotive devroom</a>
+ Embedded, Mobile and Automotive </a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/rbino/">
  rbino</a>
+ </td>
+ </tr>
+ <tr>
+ <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
+ <a href="https://fosdem.org/2022/schedule/day/sunday/#1420">14:20</a>-<a
+ href="https://fosdem.org/2022/schedule/day/sunday/#1440">14:40</a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/event/astarte_data_collection/">
+ Oniro project, the new IoT platform from Eclipse Foundation
+ </a>
+ How to transform existing impediments towards a healthier competition in the IoT & Edge space
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/track/lightning_talks/">
+ Lightning Talks
+ </a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/speaker/toscalix/">
+ Agustín Benito Bethencourt
+ </a>
  </td>
  </tr>
  <tr>
@@ -294,7 +335,7 @@ new_this_year: |
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/track/embedded_mobile_and_automotive/">
- Embedded, Mobile and Automotive devroom</a>
+ Embedded, Mobile and Automotive </a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/stefan_schmidt/">
@@ -312,7 +353,7 @@ new_this_year: |
  What we have learned in a year of building Oniro
  </td>
  <td>
- <a href="https://fosdem.org/2022/schedule/track/distributions/">Distributions devroom</a>
+ <a href="https://fosdem.org/2022/schedule/track/distributions/">Distributions </a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/bernhard_rosenkranzer/">
