@@ -1,5 +1,8 @@
 ---
 description: |
+ <p>
+ <img src="/stands/oniro_project/ONIRO-Masterbrand-horizontal.svg.png" alt="Oniro logo" class="center-block">
+ </p>
  <a href="https://newsroom.eclipse.org/news/announcements/open-source-leader-eclipse-foundation-launches-vendor-neutral-operating-system">
  Oniro is an Eclipse Foundation project</a>.
  <p>
@@ -64,13 +67,9 @@ show_on_overview: true
 chatroom: oniro
 aliases:
  - /stands/oniro/
-showcase: |
- <p>
- <img src="/stands/oniro_project/logo.svg.png" alt="Oniro logo"/>
- </p>
+showcase:
 
 new_this_year: |
- <h3>Welcome to the Oniro Project stand!</h3>
  <p>
  Speaking at
  FOSDEM’21 has been a great opportunity for Oniro to connect with
