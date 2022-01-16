@@ -46,7 +46,7 @@ We will clone the repositories you provided in two locations (corresponding to t
 
 ## Important files
 
-/<stand_name>.md is used for the rendering in the lists on /themes/ and /stands/; <stand_name>/\_index.md (if it exists) or <stand_name>.md is used for the page itself. Do not use _show\_on\_overview_ in your \_index.md file.
+/<stand_name>.md is used for the adding the stand to the lists on /themes/ and /stands/; <stand_name>/\_index.md is used for the page itself unless it does not exist. Do not use _show\_on\_overview_ in your \_index.md file.
 
 ### _content/stands/<your stand>.md_
 
@@ -54,6 +54,8 @@ We will clone the repositories you provided in two locations (corresponding to t
 
 The contents of the _.md_ file can be changed as you wish, but please make sure you do not remove any of the variables (changing the content
 is fine) of the _front matter_, otherwise the generator will not work. Please do not change the theme or the layout.
+
+You can override this file with _\_index.md_ in your repository.
 
 #### Front matter
 
