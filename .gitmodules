@@ -27,10 +27,10 @@
 	url = https://github.com/kiwitcms/fosdem-2021-stand-static.git
 [submodule "content/stands/libreoffice"]
 	path = content/stands/libreoffice
-	url = https://git.libreoffice.org/conferences/fosdem-2021-content.git
+	url = https://git.libreoffice.org/conferences/fosdem-2022-content.git
 [submodule "static/stands/libreoffice"]
 	path = static/stands/libreoffice
-	url = https://git.libreoffice.org/conferences/fosdem-2021-static.git
+	url = https://git.libreoffice.org/conferences/fosdem-2022-static.git
 [submodule "content/stands/pharo"]
 	path = content/stands/pharo
 	url = https://github.com/pharo-divulgation/pharo-fosdem-content.git
