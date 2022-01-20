@@ -69,7 +69,14 @@ show_on_overview: true
 chatroom: oniro
 aliases:
  - /stands/oniro/
-showcase:
+showcase: |
+ <p>
+ <video class="mb-3 mx-auto" style="max-width: 500px;" controls="controls" preload="metadata">
+ <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video3.mp4" type="video/mp4" />
+ <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video3.webm"  type="video/webm" />
+ Your browser does not support this video.
+ </video>
+ </p>
 
 new_this_year: |
  <p>
@@ -108,6 +115,9 @@ new_this_year: |
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/sebastian_serewa/">
  Sebastian Serewa</a>
+ +
+ <a href="https://fosdem.org/2022/schedule/speaker/ettore_chimenti/">
+ Ettore Chimenti</a>
  </td>
  </tr>
  <tr>
@@ -309,7 +319,7 @@ new_this_year: |
  <td>
  <a href="https://fosdem.org/2022/schedule/event/astarte_data_collection/">
  Oniro project, the new IoT platform from Eclipse Foundation
- </a>
+ </a><br/>
  How to transform existing impediments towards a healthier competition in the IoT & Edge space
  </td>
  <td>
