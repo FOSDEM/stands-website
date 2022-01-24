@@ -72,8 +72,19 @@ aliases:
 showcase: |
  <p>
  <video class="mb-3 mx-auto" style="max-width: 500px;" controls="controls" preload="metadata">
- <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video3.mp4" type="video/mp4" />
+ <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video2.webm"  type="video/webm" />
+ Your browser does not support this video.
+ </video>
+ </p>
+ <p>
+ <video class="mb-3 mx-auto" style="max-width: 500px;" controls="controls" preload="metadata">
  <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video3.webm"  type="video/webm" />
+ Your browser does not support this video.
+ </video>
+ </p>
+ <p>
+ <video class="mb-3 mx-auto" style="max-width: 500px;" controls="controls" preload="metadata">
+ <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video4.webm"  type="video/webm" />
  Your browser does not support this video.
  </video>
  </p>
@@ -254,6 +265,27 @@ new_this_year: |
  </tr>
  <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
+ <a href="https://fosdem.org/2022/schedule/day/sunday/#1320">13:20</a>-<a
+ href="https://fosdem.org/2022/schedule/day/sunday/#1340">13:40</a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/event/lt_netota/">
+ NetOTA - repository protocol for embedded systems
+ </a><br/>
+ The sweet spot between global stores and latest-image URLs
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/track/lightning_talks/">
+ Lightning Talks
+ </a>
+ </td>
+ <td><a href="https://fosdem.org/2022/schedule/speaker/zygmunt_krynicki/">
+ Zygmunt Krynicki
+ </a>
+ </td>
+ </tr>
+ <tr>
+ <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
  <a href="https://fosdem.org/2022/schedule/day/sunday/#1330">13:30</a>-<a
  href="https://fosdem.org/2022/schedule/day/sunday/#1400">14:00</a>
  </td>
@@ -372,4 +404,11 @@ new_this_year: |
  </td>
  </tr>
  </table>
+ <h3>Resources</h3>
+ <ul>
+ <li><a href="https://docs.oniroproject.org/">Oniro's developer documentation</a></li>
+ <li><a href="https://booting.oniroproject.org/">Oniro's sources</a></li>
+ <li><a href="https://www.youtube.com/watch?v=p-gSvehb-As&list=PLy7t4z5SYNaQBDReZmeHAknEchYmu0LLa#OniroPlaylist">Oniro's videos playlist</a></li>
+ <li><a href="https://fosdem.org/2022/schedule/event/welcome_eclipse/">Eclipse Foundation FOSDEM2022's stand</a></li>
+ </ul>
 ---
