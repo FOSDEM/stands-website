@@ -71,20 +71,26 @@ aliases:
  - /stands/oniro/
 showcase: |
  <p>
- <video class="mb-3 mx-auto" style="max-width: 500px;" controls="controls" preload="metadata">
+ <video class="mb-3 mx-auto" style="max-width: 500px;" controls="controls" preload="metadata"
+ poster="/stands/oniro_project/oniro-blueprint-vendingmachine.png">
  <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video2.webm"  type="video/webm" />
+ <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video2.mp4"  type="video/mp4" />
  Your browser does not support this video.
  </video>
  </p>
  <p>
- <video class="mb-3 mx-auto" style="max-width: 500px;" controls="controls" preload="metadata">
+ <video class="mb-3 mx-auto" style="max-width: 500px;" controls="controls" preload="metadata"
+ poster="/stands/oniro_project/oniro-blueprint-doorlock.png">
  <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video3.webm"  type="video/webm" />
+ <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video3.mp4"  type="video/mp4" />
  Your browser does not support this video.
  </video>
  </p>
  <p>
- <video class="mb-3 mx-auto" style="max-width: 500px;" controls="controls" preload="metadata">
+ <video class="mb-3 mx-auto" style="max-width: 500px;" controls="controls" preload="metadata"
+ poster="/stands/oniro_project/oniro-blueprint-gateway.png">
  <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video4.webm"  type="video/webm" />
+ <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video4.mp4"  type="video/mp4" />
  Your browser does not support this video.
  </video>
  </p>
