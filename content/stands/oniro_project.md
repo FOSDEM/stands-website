@@ -351,7 +351,8 @@ new_this_year: |
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/philippe_coval/">
  Philippe Coval</a>
- + Andrei Gherzan
+ +
+ <a href="https://fosdem.org/2022/schedule/speaker/andrei_gherzan/">Andrei&nbsp;Gherzan</a>
  </td>
  </tr>
  <tr>
@@ -452,6 +453,8 @@ new_this_year: |
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/bernhard_rosenkranzer/">
  Bernhard Rosenkränzer</a>
+ +
+ <a href="https://fosdem.org/2022/schedule/speaker/andrei_gherzan/">Andrei&nbsp;Gherzan</a>
  </td>
  </tr>
  </table>
