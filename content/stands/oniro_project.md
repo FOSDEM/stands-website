@@ -232,6 +232,28 @@ new_this_year: |
  </td>
  </tr>
  <tr>
+ <td><a href="https://fosdem.org/2022/schedule/day/saturday/">Sat</a>:</br>
+ <a href="https://fosdem.org/2022/schedule/day/saturday/#1630">16:30</a>-<a
+ href="https://fosdem.org/2022/schedule/day/saturday/#1730">17:30</a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/event/tee_discussion/">
+ Process-based abstractions for VM-based environments
+ </a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/track/hardware_aided_trusted_computing/">
+ Hardware-Aided Trusted Computing
+ </a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/speaker/marta_rybczynska/">
+ Marta Rybczynska
+ </a>
+ + (Panel)
+ </td>
+ </tr>
+ <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
  <a href="https://fosdem.org/2022/schedule/day/sunday/#1000">10:00</a>-<a
  href="https://fosdem.org/2022/schedule/day/sunday/#1030">10:30</a>
@@ -292,6 +314,28 @@ new_this_year: |
  </tr>
  <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
+ <a href="https://fosdem.org/2022/schedule/day/sunday/#1320">13:20</a>-<a
+ href="https://fosdem.org/2022/schedule/day/sunday/#1400">14:00</a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/event/software_composition_dependency_panel_2/">
+ Software composition and dependency management
+ </a><br/>
+ Panel #2
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/track/software_composition_and_dependency_management/">
+ Software composition and dependency management devroom
+ </a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/speaker/marta_rybczynska/">
+ Marta Rybczynska</a>
+  + (Panel)
+ </td>
+ </tr>
+ <tr>
+ <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
  <a href="https://fosdem.org/2022/schedule/day/sunday/#1330">13:30</a>-<a
  href="https://fosdem.org/2022/schedule/day/sunday/#1400">14:00</a>
  </td>
@@ -307,6 +351,7 @@ new_this_year: |
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/philippe_coval/">
  Philippe Coval</a>
+ + Andrei Gherzan
  </td>
  </tr>
  <tr>
