@@ -1,5 +1,7 @@
 ---
 description: |
+  <p>There are many WiFi chips around us. The WiFi router, the smart light, the TV, the phone, etc., all have WiFi chips inside. Ever imagine replacing those chips with an open-source chip?</p>
+  <p><a href="https://github.com/open-sdr">openwifi</a>, announced in FOSDEM’20, is the 1st opensource WiFi chip design (802.11a/g/n, ax is coming) which includes Verilog source code for the chip and C source code for the Linux driver. We have paved solid steps towards an open-source WiFi chip. Now if you have FPGA dev boards (listed on our github), you can download our design onto it and start to use this FPGA based WiFi in the same way as other commercial WiFi chips! The FPGA board could become WiFi AP, WiFi client, ad-hoc node or sniffer, etc. Just like a Raspberry PI! </p>
   <img src="/stands/openwifi/logo-1.png">
   <p>Videos: <a href="https://ftp.heanet.ie/mirrors/fosdem-video/2022/stands/openwifi/stand_video_openwifi_video1.webm">The 1st demo</a>, 
   <a href="https://video.fosdem.org/2022/stands/openwifi/stand_video_openwifi_video2.webm">Flash 2020</a>, 
@@ -7,9 +9,7 @@ description: |
   <a href="https://video.fosdem.org/2022/stands/openwifi/stand_video_openwifi_video4.webm">FOSDEM 2020</a>, 
   <a href="https://video.fosdem.org/2022/stands/openwifi/stand_video_openwifi_video5.webm">Libreplanet 2021</a>
   </p>
-  <p>There are many WiFi chips around us. The WiFi router, the smart light, the TV, the phone, etc., all have WiFi chips inside. Ever imagine replacing those chips with an open-source chip?</p>
-  <p><a href="https://github.com/open-sdr">openwifi</a>, announced in FOSDEM’20, is the 1st opensource WiFi chip design (802.11a/g/n, ax is coming) which includes Verilog source code for the chip and C source code for the Linux driver.</p>
-  <p>We have paved solid steps towards an open-source WiFi chip. Now if you have commercial off the shelf FPGA boards, you can download our design onto your board and start to use this FPGA based WiFi in the same way as other commercial WiFi chips! The FPGA board could become WiFi AP, WiFi client, ad-hoc node or sniffer, etc. Just like a Raspberry PI! Besides the standard WiFi functionality, it also has some special features.</p>
+  <p>Besides the standard WiFi functionality, it also has some special features.</p>
 
   <ul>
     <li>802.11a/g/n (802.11ax/WiFi6 is under development)</li>
@@ -29,11 +29,14 @@ layout: stand
 logo: stands/openwifi/logo.png
 new_this_year: |
   <p>Checkout openwifi update in these events this year:</p>
+  
   <ul>
     <li>Feb 6 11:20 (Brussels time): <a href="https://fosdem.org/2022/schedule/event/openwifipynqz1/">Bring openwifi to PYNQ-Z1 with ultra low cost</a> in Libre-Open VLSI and FPGA devroom.</li>
     <li>Feb 6 13:10 (Brussels time): <a href="https://fosdem.org/2022/schedule/event/radio_openwifi/">Opensource WiFi chip (openwifi) progress and future plan</a> in Free Software Radio devroom.</li>
-  <p>Also feel free come to us for further discussion!</p>
   </ul>
+  
+  <p>Also feel free come to us for further discussion!</p>
+  
 showcase: "All of those opensource hardware projects are focusing on the CPU side:\r\
   \nRISC-V, all kinds of open CPU cores, Raspberry PI, many other PI, PINE64, openWRT, AI/machine-learning\
   \ accelerators.\r\nHowever the radio connectivity part of those opensource hardware\
