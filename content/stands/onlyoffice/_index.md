@@ -197,7 +197,7 @@ new_this_year: |
           <span style="color: #333333;"><b>HTML</b> to work with content for web pages.</span>
         </li>
         <li style="padding-bottom: 8px;">
-          <span style="color: #333333;"><b>Word Counter</b> o calculate characters, words, and paragraphs.s</span>
+          <span style="color: #333333;"><b>Word Counter</b> to calculate characters, words, and paragraphs.</span>
         </li>
       </ul>
 
@@ -245,6 +245,94 @@ new_this_year: |
 
       <div style="font-size: 16px; line-height: 19px; padding-bottom: 50px;">
         What else, ONLYOFFICE got <b>Gold in the Cloud Computing Insider Awards 2021</b> in the category File Sharing & Collaboration.
+      </div>
+
+      <h2 style="font-size: 20px; font-weight: 700; line-height: 23px; padding-bottom: 20px;">
+        ONLYOFFICE 7.0
+      </h2>
+      <div style="font-size: 16px; line-height: 19px; padding-bottom: 20px;">
+        On 18 January 2022, we released a big update — <b>ONLYOFFICE 7.0</b>.
+      </div>
+      <div style="font-size: 16px; line-height: 19px; padding-bottom: 20px;">
+        <b><i>OFORMs</i></b>: Create, collaborate on and fill online forms to create documents from templates. Forms can be exported in fillable PDF and DOCX.
+      </div>
+      
+      <h5 style="color: #FF6F3D; font-size: 16px; line-height: 20px; margin: 0; padding: 0 0 10px;">
+        New useful features
+      </h5>
+      <ul style="color: #FF6F3D; margin-bottom: 20px; padding-left: 30px;">
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Password protection for spreadsheet files and separate sheets;</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Query tables (correct opening and saving);</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Hyperlink autocorrection - now also in documents and presentations;</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Mail Merge from local files and URLs;</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Transitions tab in presentations;</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Viewing animations in presentations;</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Presentation export to PNG and JPG.</span>
+        </li>
+      </ul>
+
+      <h5 style="color: #FF6F3D; font-size: 16px; line-height: 20px; margin: 0; padding: 0 0 10px;">
+        Collaboration
+      </h5>
+      <ul style="color: #FF6F3D; margin-bottom: 20px; padding-left: 30px;">
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Version History in spreadsheets;</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Comment sorting;</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Two display modes for reviewing tracked changes: balloons and tooltips;</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Ability to see other users’ selection in spreadsheets.</span>
+        </li>
+      </ul>
+
+      <h5 style="color: #FF6F3D; font-size: 16px; line-height: 20px; margin: 0; padding: 0 0 10px;">
+        Usability & accessibility
+      </h5>
+      <ul style="color: #FF6F3D; margin-bottom: 20px; padding-left: 30px;">
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Full dark mode with dark canvas and contrasting content in text documents;</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Keyboard shortcuts with hints;</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Up to 500% zoom.</span>
+        </li>
+      </ul>
+
+      <h5 style="color: #FF6F3D; font-size: 16px; line-height: 20px; margin: 0; padding: 0 0 10px;">
+        Pro features now available in the free community version
+      </h5>
+      <ul style="color: #FF6F3D; margin-bottom: 20px; padding-left: 30px;">
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Content Controls;</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Document Comparison;</span>
+        </li>
+        <li style="padding-bottom: 8px;">
+          <span style="color: #333333;">Sheet Views.</span>
+        </li>
+      </ul>
+      <div style="font-size: 16px; line-height: 19px; padding-bottom: 20px;">
+        Learn more in the <a href="https://www.onlyoffice.com/blog/2022/01/onlyoffice-docs-7-0/" target="_blank" title="Visit ONLYOFFICE website">official blog</a> / on <a href="https://github.com/ONLYOFFICE/DocumentServer/blob/master/CHANGELOG.md#700" target="_blank" title="Visit GitHub">GitHub</a> / in <a href="https://www.youtube.com/watch?v=hmGHs4v44Tk" target="_blank" title="Watch on TouTube">video overview</a>. You can also watch the <a href="https://youtu.be/LO9rkKvm_4Y" target="_blank" title="Watch on TouTube">recording</a> of the live announcement.
       </div>
 
       <h4 style="color: #FF6F3D; font-size: 24px; line-height: 30px; margin: 0; padding: 0 0 10px;">
@@ -340,13 +428,18 @@ showcase: |
   <div style="border-bottom: 1px solid #DFDFDF; font-size: 16px; font-weight: 600; line-height: 19px; padding: 20px 0 10px;">
     Saturday
   </div>
-  <div style="padding: 20px 0 10px;">
-    We are planning to present a talk in the Collaboration and Content Management devroom. Further details follow later.
-  </div>
   <table>
     <tr>
       <td style="padding: 10px 24px 0 0; vertical-align: top; white-space: nowrap;">
-        entire day:
+        <b>15:30 - 16:00</b>:
+      </td>
+      <td style="padding: 10px 20px 0 0;">
+        Our talk ‘<a href="https://fosdem.org/2022/schedule/event/collabonlyoffice/" target="_blank">Introducing ONLYOFFICE Forms for paperwork automation and smart collaboration</a>’ in the D.collab devroom, presented by Alex Mikheev.
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px 24px 0 0; vertical-align: top; white-space: nowrap;">
+        <b>entire day</b>:
       </td>
       <td style="padding: 10px 20px 0 0;">
         We’re available at our virtual stand to answer all your questions.
@@ -360,7 +453,7 @@ showcase: |
   <table style="margin-bottom: 26px;">
     <tr>
       <td style="min-width: 111px; padding: 10px 24px 0 0; vertical-align: top; white-space: nowrap;">
-        entire day:
+        <b>entire day</b>:
       </td>
       <td style="padding-top: 10px;">
         We’re available at our virtual stand to answer all your questions.

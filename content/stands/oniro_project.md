@@ -71,20 +71,26 @@ aliases:
  - /stands/oniro/
 showcase: |
  <p>
- <video class="mb-3 mx-auto" style="max-width: 500px;" controls="controls" preload="metadata">
+ <video class="mb-3 mx-auto" style="max-width: 500px;" controls="controls" preload="metadata"
+ poster="/stands/oniro_project/oniro-blueprint-vendingmachine.png">
  <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video2.webm"  type="video/webm" />
+ <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video2.mp4"  type="video/mp4" />
  Your browser does not support this video.
  </video>
  </p>
  <p>
- <video class="mb-3 mx-auto" style="max-width: 500px;" controls="controls" preload="metadata">
+ <video class="mb-3 mx-auto" style="max-width: 500px;" controls="controls" preload="metadata"
+ poster="/stands/oniro_project/oniro-blueprint-doorlock.png">
  <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video3.webm"  type="video/webm" />
+ <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video3.mp4"  type="video/mp4" />
  Your browser does not support this video.
  </video>
  </p>
  <p>
- <video class="mb-3 mx-auto" style="max-width: 500px;" controls="controls" preload="metadata">
+ <video class="mb-3 mx-auto" style="max-width: 500px;" controls="controls" preload="metadata"
+ poster="/stands/oniro_project/oniro-blueprint-gateway.png">
  <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video4.webm"  type="video/webm" />
+ <source src="https://video.fosdem.org/2022/stands/oniro/stand_video_oniro_video4.mp4"  type="video/mp4" />
  Your browser does not support this video.
  </video>
  </p>
@@ -226,6 +232,28 @@ new_this_year: |
  </td>
  </tr>
  <tr>
+ <td><a href="https://fosdem.org/2022/schedule/day/saturday/">Sat</a>:</br>
+ <a href="https://fosdem.org/2022/schedule/day/saturday/#1630">16:30</a>-<a
+ href="https://fosdem.org/2022/schedule/day/saturday/#1730">17:30</a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/event/tee_discussion/">
+ Process-based abstractions for VM-based environments
+ </a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/track/hardware_aided_trusted_computing/">
+ Hardware-Aided Trusted Computing
+ </a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/speaker/marta_rybczynska/">
+ Marta Rybczynska
+ </a>
+ + (Panel)
+ </td>
+ </tr>
+ <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
  <a href="https://fosdem.org/2022/schedule/day/sunday/#1000">10:00</a>-<a
  href="https://fosdem.org/2022/schedule/day/sunday/#1030">10:30</a>
@@ -286,6 +314,28 @@ new_this_year: |
  </tr>
  <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
+ <a href="https://fosdem.org/2022/schedule/day/sunday/#1320">13:20</a>-<a
+ href="https://fosdem.org/2022/schedule/day/sunday/#1400">14:00</a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/event/software_composition_dependency_panel_2/">
+ Software composition and dependency management
+ </a><br/>
+ Panel #2
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/track/software_composition_and_dependency_management/">
+ Software composition and dependency management devroom
+ </a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/speaker/marta_rybczynska/">
+ Marta Rybczynska</a>
+  + (Panel)
+ </td>
+ </tr>
+ <tr>
+ <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
  <a href="https://fosdem.org/2022/schedule/day/sunday/#1330">13:30</a>-<a
  href="https://fosdem.org/2022/schedule/day/sunday/#1400">14:00</a>
  </td>
@@ -301,6 +351,8 @@ new_this_year: |
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/philippe_coval/">
  Philippe Coval</a>
+ +
+ <a href="https://fosdem.org/2022/schedule/speaker/andrei_gherzan/">Andrei&nbsp;Gherzan</a>
  </td>
  </tr>
  <tr>
@@ -401,6 +453,8 @@ new_this_year: |
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/bernhard_rosenkranzer/">
  Bernhard Rosenkränzer</a>
+ +
+ <a href="https://fosdem.org/2022/schedule/speaker/andrei_gherzan/">Andrei&nbsp;Gherzan</a>
  </td>
  </tr>
  </table>
