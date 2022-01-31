@@ -104,7 +104,7 @@ You can upload video's via [penta.fosdem.org](https://penta.fosdem.org), where e
 
 We've created four video events you can upload to (1 video per event). If you need more, let us know.
 
-The links are of the form _https://penta.fosdem.org/submission/FOSDEM22event/_event_id__.
+The links are of the form _https://penta.fosdem.org/submission/FOSDEM22/event/_event_id__.
 
 On the _Schedule_ tab in Pentabarf, you'll find a field called _Pre-recorded Video Upload URL_. Go to that link (you'll have to copy & paste) to upload the video.
 
