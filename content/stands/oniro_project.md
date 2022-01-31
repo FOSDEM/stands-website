@@ -256,7 +256,7 @@ new_this_year: |
  <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
  <a href="https://fosdem.org/2022/schedule/day/sunday/#1000">10:00</a>-<a
- href="https://fosdem.org/2022/schedule/day/sunday/#1030">10:30</a>
+ href="https://fosdem.org/2022/schedule/day/sunday/#1045">10:45</a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/event/lvgl/">
@@ -401,7 +401,7 @@ new_this_year: |
  href="https://fosdem.org/2022/schedule/day/sunday/#1440">14:40</a>
  </td>
  <td>
- <a href="https://fosdem.org/2022/schedule/event/astarte_data_collection/">
+ <a href="https://fosdem.org/2022/schedule/event/lt_oniro/">
  Oniro project, the new IoT platform from Eclipse Foundation
  </a><br/>
  How to transform existing impediments towards a healthier competition in the IoT & Edge space
