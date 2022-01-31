@@ -1,0 +1,2453 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="54.977329mm"
+   height="47.611767mm"
+   viewBox="0 0 54.97733 47.611767"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="logo-uyuni.svg"
+   inkscape:export-filename="/home/heimbach/Dokumente/opensuse/fosdem22/mid.png"
+   inkscape:export-xdpi="39.599998"
+   inkscape:export-ydpi="39.599998">
+  <defs
+     id="defs2">
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="45.968334"
+       height="29.016476"
+       id="rect1434" />
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932" />
+    </filter>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,-1221.1257,-1688.1317)"
+       id="a"
+       gradientUnits="userSpaceOnUse"
+       x1="384.57144"
+       x2="407.57141"
+       y1="515.79797"
+       y2="537.79773">
+      <stop
+         offset="0"
+         stop-color="#fcfcfc"
+         stop-opacity=".260638"
+         id="stop894" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         stop-opacity="0"
+         id="stop896" />
+    </linearGradient>
+    <linearGradient
+       id="b">
+      <stop
+         offset="0"
+         stop-color="#292c2f"
+         id="stop899" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         id="stop901" />
+    </linearGradient>
+    <linearGradient
+       id="c"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="545.79797"
+       y2="517.79797">
+      <stop
+         offset="0"
+         stop-color="#3889e9"
+         id="stop904" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         id="stop906" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,-1221.1257,-1688.1317)"
+       id="d"
+       gradientUnits="userSpaceOnUse"
+       x1="399.57144"
+       x2="402.57144"
+       xlink:href="#b"
+       y1="524.79797"
+       y2="527.79797" />
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,108.90875,95.747843)"
+       id="e"
+       gradientUnits="userSpaceOnUse"
+       x1="10.00001"
+       x2="21.00001"
+       xlink:href="#b"
+       y1="11.99997"
+       y2="22.999969" />
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,3.7383746,71.066439)"
+       id="f"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="23"
+       y2="8">
+      <stop
+         offset="0"
+         stop-color="#8cbdf8"
+         id="stop911" />
+      <stop
+         offset="1"
+         stop-color="#d5e8ff"
+         id="stop913" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(4.0899012,0,0,4.0899012,-1079.4132,-2277.8149)"
+       y2="517.79797"
+       x2="0"
+       y1="545.79797"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient970"
+       xlink:href="#c"
+       inkscape:collect="always" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1514"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1512" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1468"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1466" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1428"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1426" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1394"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1392" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1246"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1244"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
+    </marker>
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934-2">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932-7" />
+    </filter>
+    <linearGradient
+       id="c-0"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="545.79797"
+       y2="517.79797">
+      <stop
+         offset="0"
+         stop-color="#3889e9"
+         id="stop904-6" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         id="stop906-2" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,3.7383746,71.066439)"
+       id="f-6"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="23"
+       y2="8">
+      <stop
+         offset="0"
+         stop-color="#8cbdf8"
+         id="stop911-1" />
+      <stop
+         offset="1"
+         stop-color="#d5e8ff"
+         id="stop913-8" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(4.0899012,0,0,4.0899012,-1238.1398,-2277.9389)"
+       y2="517.79797"
+       x2="0"
+       y1="545.79797"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient970-7"
+       xlink:href="#c-0"
+       inkscape:collect="always" />
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934-22">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932-8" />
+    </filter>
+    <linearGradient
+       id="c-1"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="545.79797"
+       y2="517.79797">
+      <stop
+         offset="0"
+         stop-color="#3889e9"
+         id="stop904-2" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         id="stop906-9" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,3.7383746,71.066439)"
+       id="f-3"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="23"
+       y2="8">
+      <stop
+         offset="0"
+         stop-color="#8cbdf8"
+         id="stop911-19" />
+      <stop
+         offset="1"
+         stop-color="#d5e8ff"
+         id="stop913-4" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(4.0899012,0,0,4.0899012,-1031.151,-2302.748)"
+       y2="517.79797"
+       x2="0"
+       y1="545.79797"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient970-78"
+       xlink:href="#c-1"
+       inkscape:collect="always" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1514-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1512-5" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1468-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1466-3" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1428-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1426-1" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1394-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1392-6" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1246-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1244-2"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
+    </marker>
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934-5">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932-2" />
+    </filter>
+    <linearGradient
+       id="c-4"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="545.79797"
+       y2="517.79797">
+      <stop
+         offset="0"
+         stop-color="#3889e9"
+         id="stop904-3" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         id="stop906-0" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,3.7383746,71.066439)"
+       id="f-7"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="23"
+       y2="8">
+      <stop
+         offset="0"
+         stop-color="#8cbdf8"
+         id="stop911-8" />
+      <stop
+         offset="1"
+         stop-color="#d5e8ff"
+         id="stop913-6" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(4.0899012,0,0,4.0899012,-1392.5756,-2312.8883)"
+       y2="517.79797"
+       x2="0"
+       y1="545.79797"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient970-8"
+       xlink:href="#c-4"
+       inkscape:collect="always" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1514-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1512-4" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1468-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1466-1" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1428-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1426-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1394-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1392-0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1246-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1244-8"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
+    </marker>
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-0" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1453" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-8" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1453-7" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-7" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1453-2" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-2" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1453-26" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="45.968334"
+       height="29.016476"
+       id="rect1434-3" />
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934-56">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932-29" />
+    </filter>
+    <linearGradient
+       id="c-9"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="545.79797"
+       y2="517.79797">
+      <stop
+         offset="0"
+         stop-color="#3889e9"
+         id="stop904-36" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         id="stop906-06" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,3.7383746,71.066439)"
+       id="f-2"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="23"
+       y2="8">
+      <stop
+         offset="0"
+         stop-color="#8cbdf8"
+         id="stop911-6" />
+      <stop
+         offset="1"
+         stop-color="#d5e8ff"
+         id="stop913-1" />
+    </linearGradient>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1514-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1512-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1468-02"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1466-37" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1428-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1426-92" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1394-28"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1392-9" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1246-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1244-3"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
+    </marker>
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934-2-6">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932-7-1" />
+    </filter>
+    <linearGradient
+       id="c-0-2"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="545.79797"
+       y2="517.79797">
+      <stop
+         offset="0"
+         stop-color="#3889e9"
+         id="stop904-6-9" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         id="stop906-2-3" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,3.7383746,71.066439)"
+       id="f-6-1"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="23"
+       y2="8">
+      <stop
+         offset="0"
+         stop-color="#8cbdf8"
+         id="stop911-1-9" />
+      <stop
+         offset="1"
+         stop-color="#d5e8ff"
+         id="stop913-8-4" />
+    </linearGradient>
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934-22-8">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932-8-4" />
+    </filter>
+    <linearGradient
+       id="c-1-5"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="545.79797"
+       y2="517.79797">
+      <stop
+         offset="0"
+         stop-color="#3889e9"
+         id="stop904-2-0" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         id="stop906-9-3" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,3.7383746,71.066439)"
+       id="f-3-6"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="23"
+       y2="8">
+      <stop
+         offset="0"
+         stop-color="#8cbdf8"
+         id="stop911-19-1" />
+      <stop
+         offset="1"
+         stop-color="#d5e8ff"
+         id="stop913-4-0" />
+    </linearGradient>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1514-4-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1512-5-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1468-0-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1466-3-6" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1428-6-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1426-1-5" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1394-0-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1392-6-4" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1246-3-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1244-2-6"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
+    </marker>
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934-5-5">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932-2-6" />
+    </filter>
+    <linearGradient
+       id="c-4-9"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="545.79797"
+       y2="517.79797">
+      <stop
+         offset="0"
+         stop-color="#3889e9"
+         id="stop904-3-3" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         id="stop906-0-7" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,3.7383746,71.066439)"
+       id="f-7-4"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="23"
+       y2="8">
+      <stop
+         offset="0"
+         stop-color="#8cbdf8"
+         id="stop911-8-5" />
+      <stop
+         offset="1"
+         stop-color="#d5e8ff"
+         id="stop913-6-2" />
+    </linearGradient>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1514-8-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1512-4-7" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1468-3-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1466-1-4" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1428-4-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1426-9-0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1394-2-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1392-0-8" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1246-6-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1244-8-8"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
+    </marker>
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-84" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-0-3" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1453-1" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-8-4" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1453-7-9" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-7-2" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1453-2-0" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-2-6" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1453-26-8" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2363">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2361" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2367">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2365" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2371">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2369" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2375">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2373" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2379">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2377" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2383">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2381" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2387">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2385" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2391">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2389" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2395">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2393" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2399">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2397" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2403">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2401" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2363-7">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2361-2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2367-2">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2365-6" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2371-1">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2369-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2375-6">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2373-1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2379-5">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2377-9" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2383-4">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2381-9" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2387-0">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2385-9" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2391-1">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2389-7" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2395-7">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2393-1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2399-1">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2397-5" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2403-9">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2401-7" />
+    </filter>
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="45.968334"
+       height="29.016476"
+       id="rect1434-9" />
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934-3">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932-9" />
+    </filter>
+    <linearGradient
+       id="c-09"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="545.79797"
+       y2="517.79797">
+      <stop
+         offset="0"
+         stop-color="#3889e9"
+         id="stop904-63" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         id="stop906-8" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,3.7383746,71.066439)"
+       id="f-5"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="23"
+       y2="8">
+      <stop
+         offset="0"
+         stop-color="#8cbdf8"
+         id="stop911-61" />
+      <stop
+         offset="1"
+         stop-color="#d5e8ff"
+         id="stop913-15" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(4.0899012,0,0,4.0899012,-921.37365,-2243.4747)"
+       y2="517.79797"
+       x2="0"
+       y1="545.79797"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient970-9"
+       xlink:href="#c-09"
+       inkscape:collect="always" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1514-84"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1512-8" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1468-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1466-0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1428-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1426-0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1394-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1392-4" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1246-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1244-4"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
+    </marker>
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934-2-7">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932-7-6" />
+    </filter>
+    <linearGradient
+       id="c-0-3"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="545.79797"
+       y2="517.79797">
+      <stop
+         offset="0"
+         stop-color="#3889e9"
+         id="stop904-6-1" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         id="stop906-2-7" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,3.7383746,71.066439)"
+       id="f-6-5"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="23"
+       y2="8">
+      <stop
+         offset="0"
+         stop-color="#8cbdf8"
+         id="stop911-1-96" />
+      <stop
+         offset="1"
+         stop-color="#d5e8ff"
+         id="stop913-8-2" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(4.0899012,0,0,4.0899012,-1080.1003,-2243.5987)"
+       y2="517.79797"
+       x2="0"
+       y1="545.79797"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient970-7-1"
+       xlink:href="#c-0-3"
+       inkscape:collect="always" />
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934-22-7">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932-8-8" />
+    </filter>
+    <linearGradient
+       id="c-1-57"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="545.79797"
+       y2="517.79797">
+      <stop
+         offset="0"
+         stop-color="#3889e9"
+         id="stop904-2-4" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         id="stop906-9-1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,3.7383746,71.066439)"
+       id="f-3-8"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="23"
+       y2="8">
+      <stop
+         offset="0"
+         stop-color="#8cbdf8"
+         id="stop911-19-5" />
+      <stop
+         offset="1"
+         stop-color="#d5e8ff"
+         id="stop913-4-9" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(4.0899012,0,0,4.0899012,-873.11145,-2268.4078)"
+       y2="517.79797"
+       x2="0"
+       y1="545.79797"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient970-78-7"
+       xlink:href="#c-1-57"
+       inkscape:collect="always" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1514-4-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1512-5-3" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1468-0-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1466-3-8" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1428-6-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1426-1-1" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1394-0-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1392-6-9" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1246-3-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1244-2-4"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
+    </marker>
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934-5-3">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932-2-3" />
+    </filter>
+    <linearGradient
+       id="c-4-3"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="545.79797"
+       y2="517.79797">
+      <stop
+         offset="0"
+         stop-color="#3889e9"
+         id="stop904-3-8" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         id="stop906-0-6" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,3.7383746,71.066439)"
+       id="f-7-0"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="23"
+       y2="8">
+      <stop
+         offset="0"
+         stop-color="#8cbdf8"
+         id="stop911-8-4" />
+      <stop
+         offset="1"
+         stop-color="#d5e8ff"
+         id="stop913-6-8" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(4.0899012,0,0,4.0899012,-1234.5361,-2278.5481)"
+       y2="517.79797"
+       x2="0"
+       y1="545.79797"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient970-8-8"
+       xlink:href="#c-4-3"
+       inkscape:collect="always" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1514-8-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1512-4-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1468-3-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1466-1-7" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1428-4-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1426-9-4" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1394-2-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1392-0-0" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1246-6-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1244-8-0"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
+    </marker>
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-9" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-0-2" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1453-5" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-8-40" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1453-7-5" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-7-9" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1453-2-4" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-2-69" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1453-26-2" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="45.968334"
+       height="29.016476"
+       id="rect1434-3-2" />
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934-56-4">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932-29-7" />
+    </filter>
+    <linearGradient
+       id="c-9-7"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="545.79797"
+       y2="517.79797">
+      <stop
+         offset="0"
+         stop-color="#3889e9"
+         id="stop904-36-5" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         id="stop906-06-4" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,3.7383746,71.066439)"
+       id="f-2-8"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="23"
+       y2="8">
+      <stop
+         offset="0"
+         stop-color="#8cbdf8"
+         id="stop911-6-1" />
+      <stop
+         offset="1"
+         stop-color="#d5e8ff"
+         id="stop913-1-2" />
+    </linearGradient>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1514-9-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1512-2-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1468-02-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1466-37-6" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1428-5-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1426-92-0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1394-28-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1392-9-1" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1246-7-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1244-3-5"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
+    </marker>
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934-2-6-1">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932-7-1-1" />
+    </filter>
+    <linearGradient
+       id="c-0-2-0"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="545.79797"
+       y2="517.79797">
+      <stop
+         offset="0"
+         stop-color="#3889e9"
+         id="stop904-6-9-8" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         id="stop906-2-3-5" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,3.7383746,71.066439)"
+       id="f-6-1-0"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="23"
+       y2="8">
+      <stop
+         offset="0"
+         stop-color="#8cbdf8"
+         id="stop911-1-9-6" />
+      <stop
+         offset="1"
+         stop-color="#d5e8ff"
+         id="stop913-8-4-4" />
+    </linearGradient>
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934-22-8-6">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932-8-4-2" />
+    </filter>
+    <linearGradient
+       id="c-1-5-5"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="545.79797"
+       y2="517.79797">
+      <stop
+         offset="0"
+         stop-color="#3889e9"
+         id="stop904-2-0-8" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         id="stop906-9-3-6" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,3.7383746,71.066439)"
+       id="f-3-6-2"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="23"
+       y2="8">
+      <stop
+         offset="0"
+         stop-color="#8cbdf8"
+         id="stop911-19-1-8" />
+      <stop
+         offset="1"
+         stop-color="#d5e8ff"
+         id="stop913-4-0-4" />
+    </linearGradient>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1514-4-3-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1512-5-2-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1468-0-0-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1466-3-6-0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1428-6-1-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1426-1-5-2" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1394-0-5-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1392-6-4-9" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1246-3-7-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1244-2-6-8"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
+    </marker>
+    <filter
+       style="opacity:1;color-interpolation-filters:sRGB"
+       inkscape:label="Lightness-Contrast"
+       id="filter934-5-5-1">
+      <feColorMatrix
+         values="1 0 0 0.782383 -0 0 1 0 0.782383 -0 0 0 1 0.782383 -0 0 0 0 1 0"
+         id="feColorMatrix932-2-6-3" />
+    </filter>
+    <linearGradient
+       id="c-4-9-1"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="545.79797"
+       y2="517.79797">
+      <stop
+         offset="0"
+         stop-color="#3889e9"
+         id="stop904-3-3-1" />
+      <stop
+         offset="1"
+         stop-color="#5ea5fb"
+         id="stop906-0-7-0" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(3.4584848,0,0,3.4584848,3.7383746,71.066439)"
+       id="f-7-4-3"
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y1="23"
+       y2="8">
+      <stop
+         offset="0"
+         stop-color="#8cbdf8"
+         id="stop911-8-5-4" />
+      <stop
+         offset="1"
+         stop-color="#d5e8ff"
+         id="stop913-6-2-0" />
+    </linearGradient>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1514-8-4-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1512-4-7-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1468-3-4-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1466-1-4-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1428-4-3-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1426-9-0-9" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1394-2-7-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotM">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1392-0-8-3" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1246-6-6-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1244-8-8-0"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)" />
+    </marker>
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-84-5" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-0-3-6" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1453-1-6" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-8-4-4" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1453-7-9-0" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-7-2-0" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1453-2-0-4" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1442-2-6-6" />
+    <rect
+       x="166.65842"
+       y="67.007729"
+       width="65.059433"
+       height="28.885122"
+       id="rect1453-26-8-2" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2363-6">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2361-7" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2367-5">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2365-69" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2371-8">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2369-7" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2375-2">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2373-8" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2379-2">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2377-99" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2383-6">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2381-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2387-2">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2385-7" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2391-6">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2389-1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2395-3">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2393-2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2399-15">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2397-9" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2403-91">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2401-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2363-7-9">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2361-2-1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2367-2-0">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2365-6-7" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2371-1-5">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2369-0-8" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2375-6-7">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2373-1-0" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2379-5-4">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2377-9-8" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2383-4-0">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2381-9-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2387-0-2">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2385-9-9" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2391-1-6">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2389-7-1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2395-7-0">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2393-1-4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2399-1-2">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2397-5-2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Greyscale"
+       id="filter2403-9-2">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0.21 0.72 0.072 0.19 0 0 0 0 1 0 "
+         id="feColorMatrix2401-7-0" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="787.7246"
+     inkscape:cy="144.12615"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1363"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-others="true"
+     inkscape:snap-nodes="true"
+     inkscape:document-rotation="0"
+     inkscape:snap-bbox="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-61.383154,-36.635035)">
+    <path
+       inkscape:transform-center-y="-1.2455974e-05"
+       d="m 101.71244,82.681535 -25.681248,-10e-7 -12.840625,-22.240617 12.840627,-22.240615 25.681256,10e-7 12.84062,22.240617 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.5707963"
+       sodipodi:arg1="1.0471976"
+       sodipodi:r2="22.240614"
+       sodipodi:r1="25.681252"
+       sodipodi:cy="60.440918"
+       sodipodi:cx="88.871819"
+       sodipodi:sides="6"
+       id="path925"
+       style="opacity:1;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.422479;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="star"
+       inkscape:transform-center-x="-1.7209596e-05" />
+    <circle
+       style="fill:url(#linearGradient970);stroke-width:16.3595"
+       r="0"
+       cx="558.88416"
+       cy="-102.81392"
+       id="ellipse926" />
+    <g
+       id="g2197"
+       transform="matrix(0.3540834,0,0,0.3540834,242.39841,-204.08222)" />
+    <circle
+       style="fill:url(#linearGradient970-7);stroke-width:16.3595"
+       r="0"
+       cx="400.15753"
+       cy="-102.93797"
+       id="ellipse926-7" />
+    <circle
+       style="fill:url(#linearGradient970-78);stroke-width:16.3595"
+       r="0"
+       cx="607.14636"
+       cy="-127.74706"
+       id="ellipse926-5" />
+    <g
+       id="g2197-4"
+       transform="matrix(0.3540834,0,0,0.3540834,290.66062,-229.01536)" />
+    <circle
+       style="fill:url(#linearGradient970-8);stroke-width:16.3595"
+       r="0"
+       cx="245.72171"
+       cy="-137.88733"
+       id="ellipse926-9" />
+    <g
+       id="g2197-5"
+       transform="matrix(0.3540834,0,0,0.3540834,-70.764001,-239.15563)" />
+    <text
+       id="text4546"
+       y="82.706947"
+       x="209.91174"
+       style="font-style:normal;font-weight:normal;font-size:6.93422px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.173355px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="89.083107"
+         x="209.91174"
+         id="tspan4544"
+         style="stroke-width:0.173355px" /><tspan
+         id="tspan4548"
+         y="97.750877"
+         x="209.91174"
+         style="stroke-width:0.173355px" /></text>
+    <circle
+       style="fill:url(#linearGradient970-9);stroke-width:16.3595"
+       r="0"
+       cx="716.92371"
+       cy="-68.473732"
+       id="ellipse926-0" />
+    <circle
+       style="fill:url(#linearGradient970-7-1);stroke-width:16.3595"
+       r="0"
+       cx="558.19708"
+       cy="-68.597786"
+       id="ellipse926-7-8" />
+    <circle
+       style="fill:url(#linearGradient970-78-7);stroke-width:16.3595"
+       r="0"
+       cx="765.18591"
+       cy="-93.406876"
+       id="ellipse926-5-3" />
+    <circle
+       style="fill:url(#linearGradient970-8-8);stroke-width:16.3595"
+       r="0"
+       cx="403.76126"
+       cy="-103.54714"
+       id="ellipse926-9-0" />
+    <text
+       id="text4546-0"
+       y="117.04713"
+       x="367.95129"
+       style="font-style:normal;font-weight:normal;font-size:6.93422px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.173355px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="123.42329"
+         x="367.95129"
+         id="tspan4544-9"
+         style="stroke-width:0.173355px" /><tspan
+         id="tspan4548-1"
+         y="132.09106"
+         x="367.95129"
+         style="stroke-width:0.173355px" /></text>
+    <g
+       id="g3496"
+       transform="translate(0.10249663,-0.96592059)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 72.987504,61.405753 10.0359,-3.80575 v -9.861328 h -2.14481 z"
+         id="path3432" />
+      <path
+         style="fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 72.987504,61.405753 10.0359,-3.80575 0.001,10.11776 z"
+         id="path3434" />
+      <path
+         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 72.987504,61.405753 7.89109,13.66925 h 2.14481 v -7.35869 z"
+         id="path3436" />
+      <path
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 83.023404,67.716313 11.69756,7.35869 h -11.69756 z"
+         id="path3438" />
+      <path
+         style="fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 83.024854,67.717763 h 11.69611 v 7.35724 z"
+         id="path3440" />
+      <path
+         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 83.023404,67.717763 h 11.69756 v -14.55369 l -11.69829,4.43593 z"
+         id="path3442" />
+      <path
+         style="fill:#ebebeb;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 83.022674,57.600003 7.9e-4,-9.861328 h 11.69756 v 5.425398 z"
+         id="path3444" />
+      <path
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 94.720964,47.738675 h 1.93619 l 2.22159,3.847759 -4.15778,1.577639 z"
+         id="path3446" />
+      <path
+         style="fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 94.720964,53.164073 4.15778,-1.577639 5.672396,9.819319 -3.64421,6.31201 h -6.185966 z"
+         id="path3448" />
+      <path
+         style="fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 94.720964,67.716313 6.185966,0.001 -4.247596,7.35724 h -1.93837 z"
+         id="path3450" />
+    </g>
+  </g>
+</svg>
