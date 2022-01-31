@@ -1,8 +1,15 @@
 ---
 description: |
-  There are many WiFi chips around us. The WiFi router, the smart light, the TV, the phone, etc., all have WiFi chips inside. Ever imagine replacing those chips with an open-source chip?
-  Openwifi(https://github.com/open-sdr), announced in FOSDEM’20, is the 1st opensource WiFi chip design (802.11a/g/n, ax is coming) which includes Verilog source code for the chip and C source code for the Linux driver.
-  We have paved solid steps towards an open-source WiFi chip. Now if you have commercial off the shelf FPGA boards, you can download our design onto your board and start to use this FPGA based WiFi in the same way as other commercial WiFi chips! The FPGA board could become WiFi AP, WiFi client, ad-hoc node or sniffer, etc. Just like a Raspberry PI! Besides the standard WiFi functionality, it also has some special features.
+  <p>There are many WiFi chips around us. The WiFi router, the smart light, the TV, the phone, etc., all have WiFi chips inside. Ever imagine replacing those chips with an open-source chip?</p>
+  <p><a href="https://github.com/open-sdr">openwifi</a>, announced in FOSDEM’20, is the 1st opensource WiFi chip design (802.11a/g/n, ax is coming) which includes Verilog source code for the chip and C source code for the Linux driver. We have paved solid steps towards an open-source WiFi chip. Now if you have FPGA dev boards (listed on our github), you can download our design onto it and start to use this FPGA based WiFi in the same way as other commercial WiFi chips! The FPGA board could become WiFi AP, WiFi client, ad-hoc node or sniffer, etc. Just like a Raspberry PI! </p>
+  <img src="/stands/openwifi/logo-1.png">
+  <p>Videos: <a href="https://ftp.heanet.ie/mirrors/fosdem-video/2022/stands/openwifi/stand_video_openwifi_video1.webm">The 1st demo</a>, 
+  <a href="https://video.fosdem.org/2022/stands/openwifi/stand_video_openwifi_video2.webm">Flash 2020</a>, 
+  <a href="https://video.fosdem.org/2022/stands/openwifi/stand_video_openwifi_video3.webm">Low latency gaming</a>, 
+  <a href="https://video.fosdem.org/2022/stands/openwifi/stand_video_openwifi_video4.webm">FOSDEM 2020</a>, 
+  <a href="https://video.fosdem.org/2022/stands/openwifi/stand_video_openwifi_video5.webm">Libreplanet 2021</a>
+  </p>
+  <p>Besides the standard WiFi functionality, it also has some special features.</p>
 
   <ul>
     <li>802.11a/g/n (802.11ax/WiFi6 is under development)</li>
@@ -22,13 +29,16 @@ layout: stand
 logo: stands/openwifi/logo.png
 new_this_year: |
   <p>Checkout openwifi update in these events this year:</p>
+  
   <ul>
-    <li>Feb 6 11:20 (Brussels time): "Bring openwifi to PYNQ-Z1 with ultra low cost" in Libre-Open VLSI and FPGA devroom. https://fosdem.org/2022/schedule/event/openwifipynqz1/</li>
-    <li>Feb 6 13:10 (Brussels time): "Opensource WiFi chip (openwifi) progress and future plan" in Free Software Radio devroom. https://fosdem.org/2022/schedule/event/radio_openwifi/</li>
-  <p>Also feel free come to us for further discussion!</p>
+    <li>Feb 6 11:20 (Brussels time): <a href="https://fosdem.org/2022/schedule/event/openwifipynqz1/">Bring openwifi to PYNQ-Z1 with ultra low cost</a> in Libre-Open VLSI and FPGA devroom.</li>
+    <li>Feb 6 13:10 (Brussels time): <a href="https://fosdem.org/2022/schedule/event/radio_openwifi/">Opensource WiFi chip (openwifi) progress and future plan</a> in Free Software Radio devroom.</li>
   </ul>
+  
+  <p>Also feel free come to us for further discussion!</p>
+  
 showcase: "All of those opensource hardware projects are focusing on the CPU side:\r\
-  \nRISC-V, all kinds of open CPU cores, Raspberry PI, xxxx PI, PINE64, openWRT, AI/machine-learning\
+  \nRISC-V, all kinds of open CPU cores, Raspberry PI, many other PI, PINE64, openWRT, AI/machine-learning\
   \ accelerators.\r\nHowever the radio connectivity part of those opensource hardware\
   \ boards are still from black-box silicon (commercial chips, like WiFi chips from\
   \ big companies).\r\nOpenwifi project, which was announced in the FOSDEM'20, is\
@@ -38,7 +48,7 @@ showcase: "All of those opensource hardware projects are focusing on the CPU sid
   \ unique features that commercial chips don't have.\r\n\r\nWe hope more people can\
   \ come and think about the opensource activity in the radio chip domain, and invest\
   \ more in this domain!\r\n\r\nWe are also eager to seek people's voice and help about\
-  \ the idea of: Low cost SDR openwifi dongle (+/-200usd) and chip\
+  \ the idea of: Low cost SDR openwifi dongle (100usd?) and chip\
   \ tape out!"
 themes:
 - Hardware
