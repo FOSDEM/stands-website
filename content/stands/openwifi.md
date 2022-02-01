@@ -31,8 +31,8 @@ new_this_year: |
   <p>Checkout openwifi update in these events this year:</p>
   
   <ul>
-    <li>Feb 6 11:20 (Brussels time): <a href="https://fosdem.org/2022/schedule/event/openwifipynqz1/">Bring openwifi to PYNQ-Z1 with ultra low cost</a> in Libre-Open VLSI and FPGA devroom.</li>
-    <li>Feb 6 13:10 (Brussels time): <a href="https://fosdem.org/2022/schedule/event/radio_openwifi/">Opensource WiFi chip (openwifi) progress and future plan</a> in Free Software Radio devroom.</li>
+    <li>Feb 6 11:20 (Brussels time): <a href="https://fosdem.org/2022/schedule/event/openwifipynqz1/">Bring openwifi to PYNQ-Z1 with ultra low cost</a> in <a href="https://fosdem.org/2022/schedule/track/libre_open_vlsi_and_fpga/">Libre-Open VLSI and FPGA devroom</a>.</li>
+    <li>Feb 6 13:10 (Brussels time): <a href="https://fosdem.org/2022/schedule/event/radio_openwifi/">Opensource WiFi chip (openwifi) progress and future plan</a> in <a href="https://fosdem.org/2022/schedule/track/free_software_radio/">Free Software Radio devroom</a>.</li>
   </ul>
   
   <p>Also feel free come to us for further discussion!</p>
