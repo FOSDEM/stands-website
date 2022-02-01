@@ -155,3 +155,9 @@
 [submodule "static/stands/ubuntu"]
 	path = static/stands/ubuntu
 	url = https://github.com/ubuntu/community-fosdem-2022-static.git
+[submodule "content/stands/xwiki___cryptpad"]
+	path = content/stands/xwiki___cryptpad
+	url = https://github.com/xwikisas/fosdem-stand-content.git
+[submodule "static/stands/xwiki___cryptpad"]
+	path = static/stands/xwiki___cryptpad
+	url = https://github.com/xwikisas/fosdem-stand-static.git
