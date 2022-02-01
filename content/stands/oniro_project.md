@@ -105,6 +105,7 @@ new_this_year: |
  technology, compliance processes and all progress made in one
  intense year.
  </p>
+ <a name="events"/>
  <h3>Don't miss our talks</h3>
  <table class="table table-striped">
  <tr>
@@ -123,7 +124,7 @@ new_this_year: |
  <a href="https://fosdem.org/2022/schedule/event/collaboniro/">
  Oniro - an open-source starter for fast-paced IoT environments</a>
  <br/>
- A retrospective on an open-source project development
+ A retrospect on an open-source project development
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/track/collaboration_and_content_management/">
@@ -270,6 +271,9 @@ new_this_year: |
  <td>
  <a href="https://fosdem.org/2022/schedule/speaker/philippe_coval/">
  Philippe Coval</a>
+ +
+ <a href="https://fosdem.org/2022/schedule/speaker/gabor_kiss_vamosi/">
+ Gabor&nbsp;Kiss-Vamosi</a>
  </td>
  </tr>
  <tr>
