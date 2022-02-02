@@ -57,7 +57,7 @@ layout: stand
 logo: stands/opensuse/logo.png
 new_this_year: |
   <p>Join the community in our "openSUSE bar" on Feb 5 and Feb 6 at 15:00 (UTC)</p>
-  <p><a href="" class="btn btn-primary">https://meet.opensuse.org/bar/</a><p>
+  <p><a href="https://meet.opensuse.org/bar" class="btn btn-primary">https://meet.opensuse.org/bar</a><p>
   
   <p>Feel free come to join us for further discussion at <a href="https://chat.opensuse.org">chat.opensuse.org</a>!</p>
   <img src="mid.png">
