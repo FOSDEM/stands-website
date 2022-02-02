@@ -149,10 +149,12 @@
 	path = static/stands/openuk
 	url = https://github.com/OpenUK/fosdem-static.git
 	branch = main
-[submodule "content/stands/openuk"]
-	path = content/stands/openuk
-	url = https://github.com/OpenUK/fosdem-stand.git
-	branch = main
+
+#  Removed because of hugo errors
+# [submodule "content/stands/openuk"]
+# 	path = content/stands/openuk
+# 	url = https://github.com/OpenUK/fosdem-stand.git
+# 	branch = main
 
 [submodule "content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu"]
 	path = content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu
