@@ -1,4 +1,4 @@
-Welcome to FOSDEM 2021. This year, we have an experimental digital-only setup for reasons I think you all know.
+Welcome to FOSDEM 2022 This year, we have an experimental digital-only setup for reasons I think you all know.
 
 ## General structure
 
@@ -46,7 +46,7 @@ We will clone the repositories you provided in two locations (corresponding to t
 
 ## Important files
 
-/<stand_name>.md is used for the rendering in the lists on /themes/ and /stands/; <stand_name>/\_index.md (if it exists) or <stand_name>.md is used for the page itself. Do not use _show\_on\_overview_ in your \_index.md file.
+/<stand_name>.md is used for the adding the stand to the lists on /themes/ and /stands/; <stand_name>/\_index.md is used for the page itself unless it does not exist. Do not use _show\_on\_overview_ in your \_index.md file.
 
 ### _content/stands/<your stand>.md_
 
@@ -54,6 +54,8 @@ We will clone the repositories you provided in two locations (corresponding to t
 
 The contents of the _.md_ file can be changed as you wish, but please make sure you do not remove any of the variables (changing the content
 is fine) of the _front matter_, otherwise the generator will not work. Please do not change the theme or the layout.
+
+You can override this file with _\_index.md_ in your repository.
 
 #### Front matter
 
@@ -71,7 +73,7 @@ showcase: |
     _Showcase: explain why people should come to your stand. You can use HTML (p, ul, etc.)_
 
 new_this_year: |
-    _What has happened in 2020 to your project? You can use HTML (p, ul, etc.)_
+    _What has happened in 2021 to your project? You can use HTML (p, ul, etc.)_
 
 layout: stand
 chatroom: _Room name in pentabarf_
@@ -102,11 +104,11 @@ You can upload video's via [penta.fosdem.org](https://penta.fosdem.org), where e
 
 We've created four video events you can upload to (1 video per event). If you need more, let us know.
 
-The links are of the form _https://penta.fosdem.org/submission/FOSDEM21/event/\_event\_id\__.
+The links are of the form _https://penta.fosdem.org/submission/FOSDEM22/event/_event_id__.
 
 On the _Schedule_ tab in Pentabarf, you'll find a field called _Pre-recorded Video Upload URL_. Go to that link (you'll have to copy & paste) to upload the video.
 
-You'll have to wait a few minutes while the script transcodes the video. You can check the progress at [upload.video.fosdem.org/overview](https://upload.video.fosdem.org/overview) (select _Stand recordings_ and search for your project - you'll find 4 video's - check the one you uploaded).
+You'll have to wait a few minutes while the script transcodes the video. You can check the progress at [upload.video.fosdem.org/overview](https://upload.video.fosdem.org/overview) (select _Stand recordings_ and search for your project - you'll find 5 video's - check the one you uploaded).
 
 As soon as it says _preview_ on the overview, go back to Pentabarf, go to the schedule tab and check the field called _Video Review URL_. Go to that link to check your video, and if it is OK, confirm it (if it is not, you can upload a new version).
 
@@ -116,7 +118,7 @@ Go back to Pentabarf and the schedule tab, check the field _Final Video URL_. Th
 
 Upload the video, it will be converted by our system. Afterwards, you review and approve the video, which will then be live.
 
-You can embed the video; the links will be of the form _https://video.fosdem.org/2021/stands/\_chatroom\_name\_\_video1.mp4_. Embedding is done using standard HTML. You can only embed video's in HTML content, not in Markdown. Note that all fields (description, new_this_year and showcase) will accept HTML and that any pages you add can be HTML as well.
+You can embed the video; the links will be of the form _https://video.fosdem.org/2022/stands/_chatroom_name__video1.mp4_. Embedding is done using standard HTML. You can only embed video's in HTML content, not in Markdown. Note that all fields (description, new_this_year and showcase) will accept HTML and that any pages you add can be HTML as well.
 
 ## Welcome events on the schedule
 
@@ -132,7 +134,7 @@ Doing so will add a widget in your room which will display your video feed.
 
 ## Adding extra events to the schedule
 
-You can add extra events to be put on the schedule via [_https://penta.fosdem.org/submission/FOSDEM21_](https://penta.fosdem.org/submission/FOSDEM21). Make
+You can add extra events to be put on the schedule via [_https://penta.fosdem.org/submission/FOSDEM22_](https://penta.fosdem.org/submission/FOSDEM22). Make
 sure the track is _<your project> stand_. Send the links to the event to the <i>#stands:fosdem.org</i> channel so we can approve them and put them
 on the schedule.
 

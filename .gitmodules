@@ -27,10 +27,10 @@
 	url = https://github.com/kiwitcms/fosdem-2021-stand-static.git
 [submodule "content/stands/libreoffice"]
 	path = content/stands/libreoffice
-	url = https://git.libreoffice.org/conferences/fosdem-2021-content.git
+	url = https://git.libreoffice.org/conferences/fosdem-2022-content.git
 [submodule "static/stands/libreoffice"]
 	path = static/stands/libreoffice
-	url = https://git.libreoffice.org/conferences/fosdem-2021-static.git
+	url = https://git.libreoffice.org/conferences/fosdem-2022-static.git
 [submodule "content/stands/pharo"]
 	path = content/stands/pharo
 	url = https://github.com/pharo-divulgation/pharo-fosdem-content.git
@@ -149,3 +149,15 @@
 [submodule "static/stands/illumos"]
 	path = static/stands/illumos
 	url = https://github.com/hrosenfeld/fosdem-assets-illumos.git
+[submodule "content/stands/ubuntu"]
+	path = content/stands/ubuntu
+	url = https://github.com/ubuntu/community-fosdem-2022-content.git
+[submodule "static/stands/ubuntu"]
+	path = static/stands/ubuntu
+	url = https://github.com/ubuntu/community-fosdem-2022-static.git
+[submodule "content/stands/xwiki___cryptpad"]
+	path = content/stands/xwiki___cryptpad
+	url = https://github.com/xwikisas/fosdem-stand-content.git
+[submodule "static/stands/xwiki___cryptpad"]
+	path = static/stands/xwiki___cryptpad
+	url = https://github.com/xwikisas/fosdem-stand-static.git
