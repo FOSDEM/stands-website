@@ -1,15 +1,15 @@
 [submodule "content/stands/checkmk"]
 	path = content/stands/checkmk
 	url = https://github.com/tribe29/checkmk-fosdem-content.git
-
+	branch = main
 [submodule "static/stands/checkmk"]
 	path = static/stands/checkmk
 	url = https://github.com/tribe29/checkmk-fosdem-static.git
+	branch = main
 
 [submodule "content/stands/free_software_foundation_europe"]
 	path = content/stands/free_software_foundation_europe
 	url = https://git.fsfe.org/FSFE/fosdem21-content.git
-
 [submodule "static/stands/free_software_foundation_europe"]
 	path = static/stands/free_software_foundation_europe
 	url = https://git.fsfe.org/FSFE/fosdem21-static.git
@@ -21,28 +21,31 @@
 [submodule "content/stands/kiwi_tcms"]
 	path = content/stands/kiwi_tcms
 	url = https://github.com/kiwitcms/fosdem-2021-stand-content.git
-
+	branch = main
 [submodule "static/stands/kiwi_tcms"]
 	path = static/stands/kiwi_tcms
 	url = https://github.com/kiwitcms/fosdem-2021-stand-static.git
+	branch = main
+
 [submodule "content/stands/libreoffice"]
 	path = content/stands/libreoffice
 	url = https://git.libreoffice.org/conferences/fosdem-2022-content.git
 [submodule "static/stands/libreoffice"]
 	path = static/stands/libreoffice
 	url = https://git.libreoffice.org/conferences/fosdem-2022-static.git
+
 [submodule "content/stands/pharo"]
 	path = content/stands/pharo
 	url = https://github.com/pharo-divulgation/pharo-fosdem-content.git
-
+	branch = main
 [submodule "static/stands/pharo"]
 	path = static/stands/pharo
 	url = https://github.com/pharo-divulgation/pharo-fosdem-static.git
+	branch = main
 
 [submodule "static/stands/postgresql"]
 	path = static/stands/postgresql
 	url = https://git.postgresql.org/git/fosdem2021-static.git
-
 [submodule "content/stands/postgresql"]
 	path = content/stands/postgresql
 	url = https://git.postgresql.org/git/fosdem2021-content.git
@@ -53,30 +56,37 @@
 [submodule "content/stands/box86"]
 	path = content/stands/box86
 	url = https://github.com/rajdakin/box86-fosdem2021-content.git
+
 [submodule "content/stands/ntop"]
 	path = content/stands/ntop
 	url = https://github.com/ntop/fosdem21-content.git
 [submodule "static/stands/ntop"]
 	path = static/stands/ntop
 	url = https://github.com/ntop/fosdem21-static.git
+
 [submodule "content/stands/the_gnome_foundation"]
 	path = content/stands/the_gnome_foundation
 	url = https://github.com/gnome/stands-website.git
 [submodule "static/stands/the_gnome_foundation"]
 	path = static/stands/the_gnome_foundation
 	url = https://github.com/gnome/stands-website.git
+
 [submodule "content/stands/openwifi"]
 	path = content/stands/openwifi
 	url = https://github.com/JiaoXianjun/openwifi-fosdem21-content.git
+	branch = main
 [submodule "static/stands/openwifi"]
 	path = static/stands/openwifi
 	url = https://github.com/JiaoXianjun/openwifi-fosdem21-static.git
+	branch = main
+
 [submodule "content/stands/ow2_open_source_community"]
 	path = content/stands/ow2_open_source_community
 	url = https://gitlab.ow2.org/ow2/fosdem/ow2-fosdem-stand-content.git
 [submodule "static/stands/ow2_open_source_community"]
 	path = static/stands/ow2_open_source_community
 	url = https://gitlab.ow2.org/ow2/fosdem/ow2-fosdem-stand-static.git
+
 [submodule "content/stands/mautic"]
 	path = content/stands/mautic
 	url = https://github.com/mautic/fosdem-2021-stand-content.git
@@ -91,9 +101,12 @@
 [submodule "static/stands/eclipse-foundation"]
 	path = static/stands/eclipse-foundation
 	url = https://github.com/EclipseFdn/fosdem2021-static.git
+	branch = main
 [submodule "content/stands/eclipse-foundation"]
 	path = content/stands/eclipse-foundation
 	url = https://github.com/EclipseFdn/fosdem2021-content.git
+	branch = main
+
 [submodule "content/stands/mariadb_foundation"]
 	path = content/stands/mariadb_foundation
 	url = https://github.com/MariaDB-FOSDEM/stand-content.git
@@ -107,54 +120,74 @@
 [submodule "static/stands/opentap"]
 	path = static/stands/opentap
 	url = https://github.com/kaushiksanthanam/opentap-fosdem21-static.git
+
 [submodule "content/stands/kde_community"]
 	path = content/stands/kde_community
 	url = https://invent.kde.org/websites/fosdem-2021-website-content.git
+	branch = main
 [submodule "static/stands/kde_community"]
 	path = static/stands/kde_community
 	url = https://invent.kde.org/websites/fosdem-2021-website-static.git
+
 [submodule "static/stands/the_apache_software_foundation"]
 	path = static/stands/the_apache_software_foundation
 	url = https://github.com/apache/comdev-fosdem-static.git
+	branch = main
 [submodule "content/stands/the_apache_software_foundation"]
 	path = content/stands/the_apache_software_foundation
 	url = https://github.com/apache/comdev-fosdem-content.git
+	branch = main
+
 [submodule "static/stands/schul-frei"]
 	path = static/stands/schul-frei
 	url = https://edugit.org/Teckids/schul-frei/conferences/2021/FOSDEM/fosdem-2021-stand-static.git
 [submodule "content/stands/schul-frei"]
 	path = content/stands/schul-frei
 	url = https://edugit.org/Teckids/schul-frei/conferences/2021/FOSDEM/fosdem-2021-stand-content.git
+
 [submodule "static/stands/openuk"]
 	path = static/stands/openuk
 	url = https://github.com/OpenUK/fosdem-static.git
+	branch = main
+[submodule "content/stands/openuk"]
+	path = content/stands/openuk
+	url = https://github.com/OpenUK/fosdem-stand.git
+	branch = main
+
 [submodule "content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu"]
 	path = content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu
 	url = https://git.libre-soc.org/git/fosdem-stand.git
+
 [submodule "content/stands/civicrm"]
 	path = content/stands/civicrm
 	url = https://lab.civicrm.org/marketing/events/fosdem-2021-content.git
 [submodule "static/stands/civicrm"]
 	path = static/stands/civicrm
 	url = https://lab.civicrm.org/marketing/events/fosdem-2021-static.git
-[submodule "content/stands/openuk"]
-	path = content/stands/openuk
-	url = https://github.com/OpenUK/fosdem-stand.git
+
 [submodule "content/stands/illumos"]
 	path = content/stands/illumos
 	url = https://github.com/Toasterson/fosdem-stands-illumos.git
+	branch = main
 [submodule "static/stands/illumos"]
 	path = static/stands/illumos
 	url = https://github.com/hrosenfeld/fosdem-assets-illumos.git
+	branch = main
+
 [submodule "content/stands/ubuntu"]
 	path = content/stands/ubuntu
 	url = https://github.com/ubuntu/community-fosdem-2022-content.git
+	branch = main
 [submodule "static/stands/ubuntu"]
 	path = static/stands/ubuntu
 	url = https://github.com/ubuntu/community-fosdem-2022-static.git
+	branch = main
+
 [submodule "content/stands/xwiki___cryptpad"]
 	path = content/stands/xwiki___cryptpad
 	url = https://github.com/xwikisas/fosdem-stand-content.git
+	branch = main
 [submodule "static/stands/xwiki___cryptpad"]
 	path = static/stands/xwiki___cryptpad
 	url = https://github.com/xwikisas/fosdem-stand-static.git
+	branch = main
