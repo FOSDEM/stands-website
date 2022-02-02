@@ -149,12 +149,16 @@
 [submodule "static/stands/illumos"]
 	path = static/stands/illumos
 	url = https://github.com/hrosenfeld/fosdem-assets-illumos.git
+
 [submodule "content/stands/ubuntu"]
 	path = content/stands/ubuntu
 	url = https://github.com/ubuntu/community-fosdem-2022-content.git
+	branch = main
 [submodule "static/stands/ubuntu"]
 	path = static/stands/ubuntu
 	url = https://github.com/ubuntu/community-fosdem-2022-static.git
+	branch = main
+
 [submodule "content/stands/xwiki___cryptpad"]
 	path = content/stands/xwiki___cryptpad
 	url = https://github.com/xwikisas/fosdem-stand-content.git
