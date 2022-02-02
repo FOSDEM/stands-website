@@ -1,0 +1,28 @@
+name: Test PR by running hugo build
+
+on:
+  pull_request:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+        name: checkout
+
+      - name: Recurse every submodule
+        shell: bash
+        run: |
+          git submodule update --init --remote
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.91.2"
+          extended: true
+
+
+      - name: Build
+        shell: bash
+        run: |
+          hugo --gc --minify --cleanDestinationDir
