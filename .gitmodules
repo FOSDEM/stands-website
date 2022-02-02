@@ -156,9 +156,10 @@
 # 	url = https://github.com/OpenUK/fosdem-stand.git
 # 	branch = main
 
-[submodule "content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu"]
-	path = content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu
-	url = https://git.libre-soc.org/git/fosdem-stand.git
+#  Removed because of hugo errors
+# [submodule "content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu"]
+# 	path = content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu
+# 	url = https://git.libre-soc.org/git/fosdem-stand.git
 
 [submodule "content/stands/civicrm"]
 	path = content/stands/civicrm
