@@ -7,26 +7,13 @@ description: "
 layout: stand
 logo: /stands/foreman/logo.png
 new_this_year: "
-  <h3>A Year in Foreman</h3>
-  <p>Take a look at our video to learn about the developments across the Foreman community in the last year!</p>
-    <ul>
-        <li>A brand-new host details page for easy host management and monitoring.</li>
-.</li>
-    </ul>
-    <p>
-    <video width=\"40%\" controls>
-      <source src=\"https://ftp.fau.de/fosdem/2021/stands/foreman/foreman_video1.webm\" type=\"video/mp4\">
-    </video>
-    </p>
 
 "
 showcase: "
-<p style=\"margin-top: 20px;\">Foreman has x talk this year in the Infra Management devroom:</p>
+<p style=\"margin-top: 20px;\">Foreman has one talk this year in the Infra Management devroom:</p>
 <ul>
-
+<li><a href=\"https://fosdem.org/2022/schedule/event/foreman_katello_leapp_elevate/\">Migrating Foreman/Katello from EL7 to EL8 using LEAPP/ELevate</a></li>
 </ul>
-<p style=\"margin-top: 20px;\">We welcome your questions after the talks in the Infra Management chatroom and at any point in the day at our stand chatroon!</p>
-
 <ul>
 <h3>Foreman Workflows</h3>
 <p>Let's take a look at some of the most common Foreman workflows.</p>
@@ -71,11 +58,7 @@ showcase: "
         <img style=\"width: 100%; height: auto;\" src=\"/stands/foreman/monitoring.png\">
     </div>
 </div>
-<p>
-<video width=\"70%\" controls>
-  <source src=\"https://mirror.as35701.net/video.fosdem.org/2021/stands/foreman/foreman_video2.mp4\" type=\"video/mp4\">
-</video>
-</p>
+
 <h4>Content Management (Katello plugin)</h4>
 <div class=\"row\">
     <div class=\"col-md-8\">
