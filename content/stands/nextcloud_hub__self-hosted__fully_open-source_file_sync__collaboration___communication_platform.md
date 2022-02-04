@@ -8,7 +8,7 @@ layout: stand
 logo: /stands/nextcloud/logo.png
 new_this_year: "
 <p>To find out what's new in Nextcloud over 2021, it's probably best to check out our <a href=\"https://fosdem.org/2022/schedule/event/collabnextcloudin2021/\">talk on that subject.</a> But we'll also happily share some basics below!</p>
-<p>Let's also add that, at our booth, and in collaboration with friends from Collabora, Canonical and other booths, we're organizing a <strong>How to get involved</strong> session at 1PM on Saturday, <a href=\"https://matrix.to/#/#collab-devroom:fosdem.org?web-instance[element.io]=chat.fosdem.org\">so be in our collaboration matrix channel!</a></p>
+<p>Let's also add that, at our booth, and in collaboration with friends from Collabora, Canonical and other booths, we're organizing a <strong>How to get involved</strong> session at 1PM on Saturday, <a href=\"https://matrix.to/#/#nextcloud-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org\">so be in our matrix channel!</a> We also work with other collaborative projects and have a <a href=\"https://matrix.to/#/#collab-devroom:fosdem.org?web-instance[element.io]=chat.fosdem.org\">collaboration room channel.</a></p>
 <p>But first, what it looks like today!</p>
 <h4>What it looks like</h4>
 
