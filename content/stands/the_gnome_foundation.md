@@ -4,7 +4,7 @@ description: |
 showcase: Gnome
 new_this_year: Gnome
 layout: stand
-logo: stands/the_gnome_foundation/gnome-logo.svg
+logo: stands/fosdem/gnome-logo.svg
 themes:
   - Desktop Environments
   - Operating Systems
