@@ -22,7 +22,7 @@ showcase: |
         <div class="col-md-6 col-sm-12 col-xs-12 gallery">
           <div class="embed-responsive embed-responsive-16by9">
             <video controls>
-              <source src="https://video.fosdem.org/2022/stands/fsfe/fsfe_video3.mp4" type="video/mp4">
+              <source src="https://video.fosdem.org/2022/stands/fsfe/stand_video_fsfe_video3.mp4" type="video/mp4">
                 Your browser does not support this video.
               </source>
             </video>
@@ -32,7 +32,7 @@ showcase: |
         <div class="col-md-6 col-sm-12 col-xs-12 gallery">
           <div class="embed-responsive embed-responsive-16by9">
             <video controls>
-              <source src="https://video.fosdem.org/2022/stands/fsfe/fsfe_video1.mp4" type="video/mp4">
+              <source src="https://video.fosdem.org/2022/stands/fsfe/stand_video_fsfe_video1.mp4" type="video/mp4">
                 Your browser does not support this video.
               </source>
             </video>
@@ -44,7 +44,7 @@ showcase: |
         <div class="col-md-6 col-sm-12 col-xs-12 gallery">
           <div class="embed-responsive embed-responsive-16by9">
             <video controls>
-              <source src="https://video.fosdem.org/2022/stands/fsfe/fsfe_video4.mp4" type="video/mp4">
+              <source src="https://video.fosdem.org/2022/stands/fsfe/stand_video_fsfe_video4.mp4" type="video/mp4">
                 Your browser does not support this video.
               </source>
             </video>
@@ -54,7 +54,7 @@ showcase: |
         <div class="col-md-6 col-sm-12 col-xs-12 gallery">
           <div class="embed-responsive embed-responsive-16by9">
             <video controls>
-              <source src="https://video.fosdem.org/2022/stands/fsfe/fsfe_video2.mp4" type="video/mp4">
+              <source src="https://video.fosdem.org/2022/stands/fsfe/stand_video_fsfe_video2.mp4" type="video/mp4">
                 Your browser does not support this video.
               </source>
             </video>
