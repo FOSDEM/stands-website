@@ -62,6 +62,6 @@ new_this_year: |
     tangible. 
     In 2021, the development of AlekSIS has progressed strongly, so that we will now test AlekSIS in practice with partner schools. Gathering feedback will be an important task for us in 2022 in order to be able to fulfil the goal of using AlekSIS on a large scale in schools.
 show_on_overview: true
-chatroom: schul-frei
+chatroom: schulfrei
 draft: true
 ---

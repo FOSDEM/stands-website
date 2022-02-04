@@ -3,9 +3,8 @@ languageCode = "en-us"
 title = "FOSDEM 2022 Stands"
 theme = "fosdem"
 ignoreFiles = [
-    "content/stands/the_gnome_foundation/archetypes/.*",
-    "content/stands/the_gnome_foundation/themes/.*",
-    "content/stands/the_gnome_foundation/content/.*"
+    # Fix for error in _index.md file
+    "content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu/_index.md"
 ]
 
 [taxonomies]
