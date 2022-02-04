@@ -4,7 +4,7 @@ parent="/var/opt/app/fosdem_submission/html/stands-website"
 
 cd "$parent"
 
-git pull origin master
+git pull --no-edit origin master
 
 #git submodule init
 #git submodule update
