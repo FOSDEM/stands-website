@@ -45,7 +45,7 @@ showcase: |
   <h4>Host Your Own Container registry</h4>
   <p style=\"margin-top: 20px;\">If you want to avoid relying on third parties whose subscription models and rate limits can change at any time, you can host your own container registry with <a href="https://github.com/pulp/pulp_container/">Pulp Container </a>. With Pulp container, you can also build your own containers, publish, and distribute them throughout your organization or to your customers. For more information, see <a href="https://opensource.com/article/21/5/container-management-pulp">5 reasons to host your container registry with Pulp </a></p>
   <h4>Manage upgrades to your Edge devices</h4>
-  <p style=\"margin-top: 20px;\"> The OSTree plugin for Pulp allows users to manage OSTree repositories from which their Edge devices can download updates. <a href="bit.ly/pulp_ostree">Learn more here</a>. <p>
+  <p style=\"margin-top: 20px;\"> The OSTree plugin for Pulp allows users to manage OSTree repositories from which their Edge devices can download updates. <a href="https://www.youtube.com/watch?v=zpAT7obVNk0">Learn more here</a>. <p>
   <h4>Host Your Own Ansible Galaxy</h4>
   <p style=\"margin-top: 20px;\"><a href="https://github.com/ansible/galaxy_ng">Ansible Galaxy_NG </a> is Pulp plugin to support hosting your very own Ansible Galaxy server. For more information, see Brian Bouterse's talk <a href="https://video.fosdem.org/2021/D.infra/hostyourownansiblegalaxy.mp4">Host Your Own Ansible Galaxy </a></p>
   <h4>Host Your Own PyPI</h4>
