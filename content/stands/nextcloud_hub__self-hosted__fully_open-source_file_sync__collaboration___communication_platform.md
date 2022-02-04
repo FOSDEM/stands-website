@@ -7,50 +7,54 @@ We are Nextcloud, a global community of thousands of contributors developing Nex
 layout: stand
 logo: /stands/nextcloud/logo.png
 new_this_year: "
-<p>To find out what's new in Nextcloud over 2020, it's probably best to check out our talk on that subject. But we'll also happily share some basics here.</p>
+<p>To find out what's new in Nextcloud over 2021, it's probably best to check out our <a href=\"https://fosdem.org/2022/schedule/event/collabnextcloudin2021/\">talk on that subject.</a> But we'll also happily share some basics below!</p>
+<p>Let's also add that, at our booth, and in collaboration with friends from Collabora, Canonical and other booths, we're organizing a <strong>How to get involved</strong> session at 1PM on Saturday, <a href=\"https://matrix.to/#/#collab-devroom:fosdem.org?web-instance[element.io]=chat.fosdem.org\">so be in our collaboration matrix channel!</a></p>
 <p>But first, what it looks like today!</p>
 <h4>What it looks like</h4>
 
 <p>We created some videos to give you an idea of what Nextcloud Hub looks like!</p>
 
-You can find them on YouTube (click image for redirect), we're currently working on getting them also embedded below.
-
 <div class=\"row\">
     <div class=\"col-md-6\">
-        <a href=\"https://www.youtube.com/watch?v=I8GtygCoNcY\"><img class=\"img-fluid\" src=\"/stands/nextcloud/hub-video.png\" /></a><br /> Nextcloud Hub overview
-        <!--<stream src=\"eb1384b4fa48d8f47abdec5051bc922d\" controls poster=\"/stands/nextcloud/hub-video.png\"></stream>
-        <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=eb1384b4fa48d8f47abdec5051bc922d\"></script>-->
+        <h3>Nextcloud Hub</h3>
+        <video width=\"80%\" controls>
+            <source src=\"https://ftp.fau.de/fosdem/2022/stands/nextcloud/stand_video_nextcloud_video1.mp4\" type=\"video/mp4\">
+            <source src=\"https://video.fosdem.org/2022/stands/nextcloud/stand_video_nextcloud_video1.webm\" type=\"video/webm\">
+            I'm sorry; your browser doesn't support HTML5 video.
+        </video><br />
+        <a href=\"https://www.youtube.com/watch?v=I8GtygCoNcY\">📺 watch on YouTube</a>
     </div>
     <div class=\"col-md-6\">
-        <a href=\"https://www.youtube.com/watch?v=FMgBD3Jr33Y\"><img class=\"img-fluid\" src=\"/stands/nextcloud/homeoffice-video.png\" /></a><br /> Nextcloud in working-from-home
-        <!--<stream src=\"4b66104c586170a4dc5b6ebbed80b193\" controls preload poster=\"https://nextcloud.com/wp-content/themes/next//assets/img/features/homeoffice-video.png\">
-        </stream> <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=4b66104c586170a4dc5b6ebbed80b193\"></script>-->
+        <h3>Nextcloud Files</h3>
+        <video width=\"80%\" controls>
+            <source src=\"https://ftp.fau.de/fosdem/2022/stands/nextcloud/stand_video_nextcloud_video2.mp4\" type=\"video/mp4\">
+            <source src=\"https://video.fosdem.org/2022/stands/nextcloud/stand_video_nextcloud_video2.webm\" type=\"video/webm\">
+            I'm sorry; your browser doesn't support HTML5 video.
+        </video><br />
+        <a href=\"https://www.youtube.com/watch?v=W1-W5KTWNdM\">📺 watch on YouTube</a>
     </div>
 </div>
 <div style=\"margin-top:20px;\" class=\"row\">
     <div class=\"col-md-6\">
-        <a href=\"https://www.youtube.com/watch?v=W1-W5KTWNdM\"><img class=\"img-fluid\" src=\"/stands/nextcloud/files-video.png\" /></a><br /> Nextcloud Files
-        <!--<stream src=\"fa1b52828b602f72cf1bcfab61f74fb4\" controls poster=\"/stands/nextcloud/files-video.png\"></stream>
-        <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=fa1b52828b602f72cf1bcfab61f74fb4\"></script>-->
+        <h3>Nextcloud Groupware</h3>
+        <video width=\"80%\" controls>
+            <source src=\"https://ftp.fau.de/fosdem/2022/stands/nextcloud/stand_video_nextcloud_video3.mp4\" type=\"video/mp4\">
+            <source src=\"https://video.fosdem.org/2022/stands/nextcloud/stand_video_nextcloud_video3.webm\" type=\"video/webm\">
+            I'm sorry; your browser doesn't support HTML5 video.
+        </video><br />
+        <a href=\"https://www.youtube.com/watch?v=k5e1Ut6MytE\">📺 watch on YouTube</a>
     </div>
     <div class=\"col-md-6\">
-        <a href=\"https://www.youtube.com/watch?v=dDUid67CeRQ\"><img class=\"img-fluid\" src=\"/stands/nextcloud/talk-video.png\" /></a><br /> Nextcloud Talk
-        <!--<stream src=\"58bf7b0f3ae662ee1d6b368099c8c94f\" controls poster=\"/stands/nextcloud/talk-video.png\"></stream>
-        <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=58bf7b0f3ae662ee1d6b368099c8c94f\"></script>-->
+        <h3>Nextcloud Document collaboration</h3>
+        <video width=\"80%\" controls>
+            <source src=\"https://ftp.fau.de/fosdem/2022/stands/nextcloud/stand_video_nextcloud_video4.mp4\" type=\"video/mp4\">
+            <source src=\"https://video.fosdem.org/2022/stands/nextcloud/stand_video_nextcloud_video4.webm\" type=\"video/webm\">
+            I'm sorry; your browser doesn't support HTML5 video.
+        </video><br />
+        <a href=\"https://www.youtube.com/watch?v=nxX_Z6BKySw\>"📺 watch on YouTube</a>
     </div>
 </div>
-<div style=\"margin-top:20px;\" class=\"row\">
-    <div class=\"col-md-6\">
-        <a href=\"https://www.youtube.com/watch?v=k5e1Ut6MytE\"><img class=\"img-fluid\" src=\"/stands/nextcloud/groupware-video.png\" /></a><br /> Nextcloud Groupware
-        <!--<stream src=\"3e135d59fff771d1909c4b8d588d5800\" controls poster=\"/stands/nextcloud/groupware-video.png\"></stream>
-        <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=3e135d59fff771d1909c4b8d588d5800\"></script>-->
-    </div>
-    <div class=\"col-md-6\">
-        <a href=\"https://www.youtube.com/watch?v=nxX_Z6BKySw\"><img class=\"img-fluid\" src=\"/stands/nextcloud/documents-video.png\" /></a><br /> Nextcloud Document editing
-        <!--<stream src=\"6644f6c1e7c0a5e3ff5b877e07ed1dea\" controls poster=\"<?php bloginfo('template_directory'); ?>/assets/img/features/documents-video.png\"></stream>
-        <script data-cfasync=\"false\" defer type=\"text/javascript\" src=\"https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=6644f6c1e7c0a5e3ff5b877e07ed1dea\"></script>-->
-    </div>
-</div>
+
 <p style=\"margin-top: 20px;\">Of course, there's a lot more to learn about Nextcloud, and we've collected some links for you to our website:</p>
 <ul>
 <li><a href=\"https://nextcloud.com/hub\">Nextcloud Hub overview</a></li>
@@ -85,66 +89,39 @@ You can find them on YouTube (click image for redirect), we're currently working
 
 
 <h3>Releases</h3>
-<h4>Nextcloud hub 20</h4>
-<p>The three biggest features we introduced with Nextcloud 20 are:</p>
-<ul style=\"padding-inline-start: 20px;\">
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">🏁 Our new dashboard provides a great starting point for the day with over a dozen widgets ranging from Twitter and Github to Moodle and Zammad already available</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">🔍 Search was unified, bringing search results of Nextcloud apps as well as external services like Gitlab, Jira and Discourse in one place</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">🗨 Talk introduced bridging to other platforms including MS Teams, Slack, IRC, Matrix and a dozen others</li>
-</ul>
-<p style=\"margin-top: 20px;\" >👾 Some other improvements we want to highlight include:</p>
-<ul style=\"padding-inline-start: 20px; margin-top: 15px;\">
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">📢 Notifications and Activities were brought together, making sure you won’t miss anything important</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">🟢 We added a ‘status’ setting so you can communicate to other users what you are up to</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">🗨 Talk also brings dashboard and search integration, emoji picker, upload view, camera and microphone settings, mute and more</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">📅 Calendar integrates in dashboard and search, introduced a list view and design improvements</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">📫 Mail introduces threaded view, mailbox management and more</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">🗂 Deck integrates with dashboard and search, introduces Calendar integration, modal view for card editing and series of smaller improvements</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">↕ Flow adds push notification and webhooks so other web apps can easily integrate with Nextcloud</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">🗒 Text introduced direct linking to files in Nextcloud</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">🗄 Files lets you add a description to public link shares</li>
-</ul>
-<p style=\"margin-top: 20px;\" ><a href=\"https://nextcloud.com/blog/nextcloud-hub-20-debuts-dashboard-unifies-search-and-notifications-integrates-with-other-technologies/\">Read the full announcement on our blog.</a></p>
-<h4>Nextcloud Hub 19</h4>
-<p>Nextcloud Hub v19, code name “home office”, represents a big step forward for remote collaboration in teams. This release brought document collaboration to video chats, introduced password-less login and improves performance.</p>
-<p>A quick overview of what is new:</p>
-<ul style=\"padding-inline-start: 20px;\">
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">🔒 password-less authentication and many other security measures</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">📝 Talk 9 with built-in office document editing courtesy of Collabora, a grid view & more</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">🚀 MUCH improved performance, 📆 Deck integration in Calendar, 🙇 guest account groups and more!</li>
-</ul>
-<p style=\"margin-top: 20px;\" >We also released our high performance back-end for Talk under an open source license and introduced improvements in Deck, Mail, Calendar and other apps.</p>
-<p style=\"margin-top: 20px;\" >Read the <a class=\"hyperlink\" href=\"https://nextcloud.com/blog/nextcloud-hub-brings-productivity-to-home-office/\">release announcement</a> for more details.</p>
-<h4>Nextcloud Hub 18 announcement</h4>
-<p>Nextcloud Hub is the first completely integrated on-premises content collaboration platform on the market, ready for a new generation of users who expect seamless online collaboration capabilities out of the box.</p>
-<p>With this release, we made a change to what we ship. Nextcloud 17 is now Nextcloud Hub 18. Nextcloud Hub comes with a number of new apps which get installed by default on installation (but not shipped as part of the tarball/zip).</p>
-<p>A quick overview of what is new:</p>
-<ul style=\"padding-inline-start: 20px;\">
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">📁 Files - features an improved sidebar, accepting internal shares &amp; folder owner transfership
-<ul style=\"padding-inline-start: 20px;\">
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">🗃 Workspaces brings context to your folders, facilitating collaboration in one place.</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">🔏 File locking prevents conflicts editing shared files with others</li>
-</ul></li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">🤖 Flow - Brings extensive, easy to use workflow capabilities to Nextcloud. Automatically turn documents in PDFs, send messages to chat rooms and more!</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">📝 ONLYOFFICE - Built in ONLYOFFICE makes collaborative editing of Microsoft Office documents accessible to everyone</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">📸 Photos - A brand new image gallery makes finding, browsing and sharing your images easier than ever before.</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">📅 Calendar 2.0 - Calendar 2.0 books Talk meetings, brings busy view for meetings and resource booking and more</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">📩 Mail - Mail 1.0 recognizes itineraries, handles rich text mails and more</li>
-<li style=\"list-style: none; list-style-image: none; margin-top: 8px;\">🗣 Talk - rewritten user interface brings message delivery notifications, circles support, message replies and flow integration</li>
-</ul>
-<p style=\"margin-top: 20px;\" >Read the <a class=\"hyperlink\" href=\"https://nextcloud.com/blog/the-new-standard-in-on-premises-team-collaboration-nextcloud-hub/\">release announcement</a> for more details.</p>
-
-<h4>More releases</h4>
-<p>There are many more things the Nextcloud community releases - independent but very cool apps like <a href\"https://twitter.com/Nextclouders/status/1349648706237325314\">Notes for Android</a> or the brand new <a href\"https://twitter.com/the_picrew/status/1349710415064944645\">Podcasts app</a>. And of course our mobile and desktop apps! Here some highlights from 2020.
+<p>The Nextcloud community does a lot of things, too much to mention - we have over 250 community apps that do releases all the time, not to speak of various mobile and desktop clients, not just for files but also talk, password managers & deck. We can't cover everything, so let's focus on the major releases. Below a short, emoji-supported list of improvements in  2021!</p>
+<p>The biggest improvements Nextcloud Hub 21 introduced are:</p>
 <ul>
-<li><a href=\"https://nextcloud.com/blog/minor-release-of-desktop-client-a-recap-of-2020-features-and-gifts-for-nextcloud-users/\">Desktop client 2020 recap</a></li>
-<li><a href=\"https://nextcloud.com/blog/unsung-heroes-of-the-nextcloud-community-biswajit-das-developing-a-nextcloud-bookmarks-android-client/\">Nextcloud Bookmarks (author interview)</a></li>
-<li><a href=\"https://nextcloud.com/blog/nextcloud-ios-client-turns-3-0-10-new-transfer-view-grid-view-recent-view-on-your-mobile-copy-pasting-between-different-users-and-more/\">Final iOS release of the year</a></li>
-<li><a href=\"https://nextcloud.com/blog/nextcloud-3-13-1-for-android-is-out-plus-tips-about-auto-upload-for-existing-images-and-more/\">Final Android release of 2020</a></li>
-<li><a href=\"https://nextcloud.com/blog/production-ready-end-to-end-encryption-and-new-user-interface-arrive-with-nextcloud-desktop-client-3-0/\">Did you know end-to-end encryption is now here?</a></li>
-<li><a href=\"https://nextcloud.com/blog/nextcloud-forms-is-here-to-take-on-gafam/\">We released Nextcloud Forms to replace Google Forms.</a></li>
-<li><a href=\"https://nextcloud.com/blog/nextcloud-mail-introduces-machine-learning-for-priority-inbox/\">Nextcloud Mail introduced a machine learning powered priority inbox</a></li>
-<li><a href=\"https://nextcloud.com/blog/nextcloud-deck-1-0-available-today-plus-deck-for-android/\">Nextcloud Deck made it to 1.0!</a></li>"
+<li style=\"list-style: none;\">🚀 High Performance Back-end for Nextcloud Files: reduces server load from desktop clients and web interface polling by 90% while delivering instant notifications to users.</li>
+<li style=\"list-style: none;\">➕🚀 And a wide range of performance improvements all over on top, decreasing loading times of pages and reducing load on the server</li>
+<li style=\"list-style: none;\">🤝 Collaborative features: new Whiteboard, author colours in Text and Document Templates to increase team productivity</li>
+<li style=\"list-style: none;\">🗨 Nextcloud Talk: debuts message status indicators, a raise hand feature, a group conversation description and more!</li>
+<li style=\"list-style: none; margin-bottom: 30px;\">📫 A range of Groupware improvements like drag'n'drop and nicer threading in Mail and syncing social media avatars in Contacts.</li>
+</ul>
+<h4>Nextcloud Hub 22</h4>
+<p>The biggest improvements Nextcloud Hub 22 introduced are:</p>
+<ul>
+<li style=\"list-style: none;\">⭕ User-defined groups with Circles that makes it easier to manage teams where you can share files or assign tasks to circles, or create chat rooms for a circle</li>
+<li style=\"list-style: none;\">🗂️ Integrated chat and task management where you can simply share a deck card into a chat room or turn a chat message into a task</li>
+<li style=\"list-style: none;\">🔃 Easy approval workflow, where an administrator can define a new approval flow in the settings and users can, on a document, request approval</li>
+<li style=\"list-style: none;\">📝 Getting your document signatures easy with integrated PDF signing with DocuSign, EIDEasy, and LibreSign</li>
+<li style=\"list-style: none;\">📚 Integrated knowledge management Nextcloud puts knowledge available to everyone at a moments' notice, providing easy search, sharing, and portable access</li>
+<li style=\"list-style: none;\">💌 Groupware improvements bringing a trash bin feature in Calendar and more. Nextcloud Mail features improved threading, email tagging, and support for Sieve filtering</li>
+<li style=\"list-style: none; margin-bottom: 30px;\">🗣 Big improvements in Nextcloud Talk with voice messages, location and contact sharing, message deletion and much more</li>
+</ul>
+<h4>Nextcloud Hub II</h4>
+<p>The biggest improvements Nextcloud Hub 23 introduced are:</p>
+
+<li style=\"list-style: none;\">🚀 Nextcloud Files: profile page and automatic user status setting; delegate administration tasks; massive syncing performance improvements</li>
+<li style=\"list-style: none; margin-left: 0px;\">👥 Nextcloud Groupware: Appointment booking, room and resource search and Mail improvements</li>
+<li style=\"list-style: none;\">💬 Nextcloud Talk: background blur, device check screen, user permissions and much more</li>
+<li style=\"list-style: none;\">📝 Nextcloud Office: brand new, developed in collaboration with Collabora Productivity</li>
+<li style=\"list-style: none;\">🖱️ One-click deployment: easy installation and update</li>
+<li style=\"list-style: none;\">📦 Nextcloud Backup: a peer-to-peer backup solution designed for private users</li>
+<li style=\"list-style: none; margin-bottom: 30px;\">📱 Nextcloud Clients: updates available for Desktop, Android and iOS clients</li>
+<p>This release was also the point where we decided this represented a bug step, worthy of updating Nextcloud Hub's version number to Hub II!</p>
+
+"
 showcase: "
 <h3>Introductions</h3>
 <p>What is a content collaboration platform? Why on premises and open source? Let's answer that with a question!</p>
@@ -172,7 +149,7 @@ showcase: "
 </div>
 
 
-<p>We have a virtual stand and we'll try and answer questions you have in the chat room. There's a talk about Nextcloud in 2020 and of course you can check the videos below.</p>
+<p>We have a virtual stand and we'll try and answer questions you have in the chat room. There's a talk about Nextcloud in 2021 and of course you can check the videos below.</p>
 "
 themes:
 - World wide web
