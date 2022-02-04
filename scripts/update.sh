@@ -11,6 +11,12 @@ git pull --no-edit origin master
 
 #git pull --recurse-submodules
 
+git submodule sync
+git submodule update
+hugo
+
+exit 0
+
 
 for d in $(find content/stands -maxdepth 1 -type d); do
 
@@ -51,6 +57,4 @@ for d in $(find static/stands -maxdepth 1 -type d); do
 
 done
 
-hugo
 
-exit 0
