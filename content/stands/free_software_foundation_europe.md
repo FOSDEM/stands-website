@@ -90,18 +90,17 @@ showcase: |
   <p>
     Do you miss wandering around FOSDEM stands and equipping yourself with <strong>merchandise</strong> and <strong>information material</strong>? We can't offer you the real experience, but you don't need to wait for next year! Browse and order our <a href="https://fsfe.org/contribute/spreadtheword.html">stickers, flyer and posters</a> and check out new and classic <a href="https://fsfe.org/order/index.html">shirts and branded items</a>.
   </p>
-layout: stand
-new_this_year: |
   <p>In the past year, we have made remarkable progress in a number of our
-  activities. Some examples:</p>
-  <ul>
-    <li>The FSFE turned 20 years! Take a look at the <a href="https://fsfe.org/activities/20years/">highlights</a>!</li>
-    <li>Promotion of the principle <a href="https://publiccode.eu">Public Money? Public Code!</a> to decision-makers in politics and public administrations. It's a powerful framework and open for participation and collaboration.</li>
-    <li>We have heavily engaged in the topic of <a href="https://fsfe.org/news/2021/news-20211110-01.html#sustainability">sustainability of Free Software</a></li>
-    <li>Router Freedom is a pan-European topic. We are <a href="https://fsfe.org/news/2021/news-20210330-01.en.html">working together</a> with organisations from many countries to safeguard user rights!</li>
-    <li>Making Free Software licensing and copyright easy for developers with <a href="https://reuse.software">REUSE</a>. Now, it's simpler than ever before to declare conditions for reuse of your software.</li>
-  </ul>
-  <p>Read the <a href="https://fsfe.org/news/2021/news-20211110-01.html">complete overview of our activities in 2021</a> – but take some time, it's been a lot! :)</p>
+    activities. Some examples:</p>
+    <ul>
+      <li>The FSFE turned 20 years! Take a look at the <a href="https://fsfe.org/activities/20years/">highlights</a>!</li>
+      <li>Promotion of the principle <a href="https://publiccode.eu">Public Money? Public Code!</a> to decision-makers in politics and public administrations. It's a powerful framework and open for participation and collaboration.</li>
+      <li>We have heavily engaged in the topic of <a href="https://fsfe.org/news/2021/news-20211110-01.html#sustainability">sustainability of Free Software</a></li>
+      <li>Router Freedom is a pan-European topic. We are <a href="https://fsfe.org/news/2021/news-20210330-01.en.html">working together</a> with organisations from many countries to safeguard user rights!</li>
+      <li>Making Free Software licensing and copyright easy for developers with <a href="https://reuse.software">REUSE</a>. Now, it's simpler than ever before to declare conditions for reuse of your software.</li>
+    </ul>
+    <p>Read the <a href="https://fsfe.org/news/2021/news-20211110-01.html">complete overview of our activities in 2021</a> – but take some time, it's been a lot! :)</p>
+layout: stand
 show_on_overview: true
 chatroom: fsfe
 ---
