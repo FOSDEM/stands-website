@@ -84,7 +84,7 @@ showcase: |
   </p>
 
   <div class="text-center">
-    <img src="/stands/free_software_foundation_europe/stand.jpg" alt="FSFE's FOSDEM Booth" style="max-width: 550px; margin-bottom: 2em;" />
+    <img src="/stands/free_software_foundation_europe/stand.jpg" alt="FSFE's FOSDEM Booth" style="width: 550px; margin-bottom: 2em; max-width: 100%;" />
   </div>
   <h3>Get Your Gear!</h3>
   <p>
