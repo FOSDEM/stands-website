@@ -51,7 +51,7 @@ new_this_year: "
             <source src=\"https://video.fosdem.org/2022/stands/nextcloud/stand_video_nextcloud_video4.webm\" type=\"video/webm\">
             I'm sorry; your browser doesn't support HTML5 video.
         </video><br />
-        <a href=\"https://www.youtube.com/watch?v=nxX_Z6BKySw\>"📺 watch on YouTube</a>
+        <a href=\"https://www.youtube.com/watch?v=nxX_Z6BKySw\">📺 watch on YouTube</a>
     </div>
 </div>
 
