@@ -11,8 +11,9 @@ git pull --no-edit origin master
 
 #git pull --recurse-submodules
 
-git submodule sync
-git submodule update
+#git submodule sync
+#git submodule update
+git submodule update --init --remote
 hugo
 
 exit 0
