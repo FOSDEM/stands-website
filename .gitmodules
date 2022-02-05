@@ -17,6 +17,7 @@
 [submodule "content/stands/freebsd_project"]
 	path = content/stands/freebsd_project
 	url = https://github.com/jehops/freebsd_fosdem
+	branch = main
 
 [submodule "content/stands/kiwi_tcms"]
 	path = content/stands/kiwi_tcms
@@ -97,6 +98,7 @@
 [submodule "content/stands/haiku"]
 	path = content/stands/haiku
 	url = https://github.com/haiku/fosdem-stands-haiku.git
+	branch = main
 
 [submodule "static/stands/eclipse-foundation"]
 	path = static/stands/eclipse-foundation
