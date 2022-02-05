@@ -8,6 +8,7 @@ description: |
   <div class="text-center">
     <img src="/stands/free_software_foundation_europe/logo_normal.png" alt="FSFE logo" style="max-width: 100%; margin-bottom: 2em;" />
     <p><strong>Meet FSFE's team, get informed about our activities, and ask us anything!</strong></p>
+    <p>💬 Matrix chat rooms: FOSDEM stand @ <strong>#fsfe-stand:fosdem.org</strong> <a href="https://matrix.to/#/#fsfe-stand:fosdem.org" target="_blank"><span class="material-icons md-18 mr-1">launch</span></a> / General FSFE space @ <strong>#fsfe:fsfe.org</strong> <a href="https://matrix.to/#/#fsfe:fsfe.org" target="_blank"><span class="material-icons md-18 mr-1">launch</span></a></p>
   </div>
   <h3>About us</h3>
   <p>
