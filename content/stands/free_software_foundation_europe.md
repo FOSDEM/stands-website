@@ -94,7 +94,7 @@ showcase: |
     FOSDEM's Legal and Policy Issues Devroom addresses important Free Software related policy and legal topics. Our community has substantial expertise in this area yet there are few venues to discuss these matters in a forum open to all. Hackers, developers, contributors, lawyers, policy experts, and community leaders all possess expertise in these matters. At the Legal and Policy Issues Devroom we come together for a fruitful exchange on these questions.
   </p>
   <p>
-    Special recommendations: join <a href="https://fosdem.org/2022/schedule/event/deviceneutrality/">this talk</a> on Saturday 15:00 to learn about Device Neutrality, a highly important topic for digital freedoms, by Lucas Lasota of the FSFE.
+    Special recommendations: join <a href="https://fosdem.org/2022/schedule/event/deviceneutrality/">this talk</a> on Saturday 15:00 to learn about Device Neutrality, a highly important topic for digital freedoms, by Lucas Lasota of the FSFE. Directly afterwards, the organiser of the devroom – FSFE's Alexander Sander and Max Mehl among them – will discuss the <a href="https://fosdem.org/2022/schedule/event/organizerslegalpolicy/">hot topics of the day and year</a>.
   </p>
 
   <div class="text-center">
