@@ -72,7 +72,7 @@ description: |
     Software is deeply involved in all aspects of our lives. It is important that this technology empowers rather than restricts us. Free Software gives everybody the rights to use, understand, adapt and share software. These rights help support other fundamental rights like freedom of speech, freedom of press and privacy.
   </p>
   <p>
-    Want to know more? Here's our <a href="https://fsfe.org/about/mission.html">mission</a> ⭐, our <a href="https://fsfe.org/activities/activities.html">activities</a> 🚀, and how you can <a href="https://fsfe.org/contribute/contribute.html">become part</a> of all this 💪. And hey, if you would like to watch more videos, check out our <a href="media.fsfe.org/">Peertube instance</a> 📺!
+    Want to know more? Here's our <a href="https://fsfe.org/about/mission.html">mission</a> ⭐, our <a href="https://fsfe.org/activities/activities.html">activities</a> 🚀, and how you can <a href="https://fsfe.org/contribute/contribute.html">become part</a> of all this 💪. And hey, if you would like to watch more videos, check out our <a href="https://media.fsfe.org/">Peertube instance</a> 📺!
   </p>
   <h3>FSFE Updates </h3>
   <p>In the past year, we have made remarkable progress in a number of our
