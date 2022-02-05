@@ -16,15 +16,16 @@ description: |
   In addition, it is based on the design of the NT kernel, which makes it scalable, portable and performant.
   In addition to the well-known Win32 support, this also enables other subsystems, for example POSIX, or the DOS/Win16 VDM, which is already under development.
 new_this_year: |
-  <p><strong>WIP, the page is not finished yet!</strong></p>
-  <p>The most notable changes are:
+  <p>Here is our most notable changes since the FOSDEM 2021:</p>
   <ul>
-    <li>Deep memory manager rework</li>
-    <li>64-bit build boots and works</li>
-    <li>SMP works have been started</li>
-    <li>Many more</li>
+    <li>64bit build is now more mature, builds and boots in VMs now and even on some hardware.</li>
+    <li>Improved HAL library for APIC interrupt controller.</li>
+    <li>SMP improvements are being done, but not yet ready to be demonstrated.</li>
+    <li>Security subsystem in the kernel sees improvements for the first time in a decade.</li>
+    <li>Memory manager improvements, allowing the boot from NTFS filesystem (still experimental though) and using FS drivers from Microsoft.</li>
+    <li>Multiple monitors support.</li>
+    <li>Huge improvements in input and display of CJK (Chinese, Japanese, Korean) languages.</li>
   </ul>
-  </p>
 showcase: |
   <p>We are a one of a kind project aiming to recreate Windows&nbsp;NT from ground up, cleanly and legally.
   All code is freely available for anyone to tinker with.</p>
