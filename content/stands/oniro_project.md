@@ -255,6 +255,28 @@ new_this_year: |
  </td>
  </tr>
  <tr>
+ <td><a href="https://fosdem.org/2022/schedule/day/saturday/">Sat</a>:</br>
+ <a href="https://fosdem.org/2022/schedule/day/saturday/#1730">1730</a>-<a
+ href="https://fosdem.org/2022/schedule/day/saturday/#1800">1800</a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/event/gpio_linux_vs_zaphyr/">
+ GPIO across Linux and Zephyr kernels
+ </a>
+ Maximizing code reuse in the example of the Oniro doorlock blueprint
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/track/embedded_mobile_and_automotive/">
+ Embedded, Mobile and Automotive devroom
+ </a>
+ </td>
+ <td>
+ <a href="https://fosdem.org/2022/schedule/speaker/bernhard_rosenkranzer/">
+ Bernhard Rosenkränzer
+ </a>
+ </td>
+ </tr>
+ <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/sunday/">Sun</a>:<br/>
  <a href="https://fosdem.org/2022/schedule/day/sunday/#1000">10:00</a>-<a
  href="https://fosdem.org/2022/schedule/day/sunday/#1045">10:45</a>
