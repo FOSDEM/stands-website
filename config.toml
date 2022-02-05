@@ -6,7 +6,7 @@ ignoreFiles = [
     # Fix for error in _index.md file
 #    "content/stands/the_libresoc_project__a_hybrid_3d_cpu_vpu_gpu/_index.md",
     # Fix another error in their _index.md file
-#    "content/stands/openuk/_index.md"
+    "content/stands/openuk/_index.md"
 ]
 
 [taxonomies]
