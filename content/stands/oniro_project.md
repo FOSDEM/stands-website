@@ -256,8 +256,8 @@ new_this_year: |
  </tr>
  <tr>
  <td><a href="https://fosdem.org/2022/schedule/day/saturday/">Sat</a>:</br>
- <a href="https://fosdem.org/2022/schedule/day/saturday/#1730">1730</a>-<a
- href="https://fosdem.org/2022/schedule/day/saturday/#1800">1800</a>
+ <a href="https://fosdem.org/2022/schedule/day/saturday/#1730">17:30</a>-<a
+ href="https://fosdem.org/2022/schedule/day/saturday/#1800">18:00</a>
  </td>
  <td>
  <a href="https://fosdem.org/2022/schedule/event/gpio_linux_vs_zaphyr/">
