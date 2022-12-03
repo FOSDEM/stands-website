@@ -1,6 +1,6 @@
 baseURL = "https://stands.fosdem.org"
 languageCode = "en-us"
-title = "FOSDEM 2022 Stands"
+title = "FOSDEM 2023 Stands"
 theme = "fosdem"
 ignoreFiles = [
     # Fix for error in _index.md file
