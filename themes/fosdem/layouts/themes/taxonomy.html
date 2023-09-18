@@ -12,7 +12,7 @@
             <p>{{ .Params.Description }}</p>
         </div>
     </div>
-    
+
     <div class="row mt-4 fosdem-stands">
         {{ range .Pages }}
         {{ if .Params.show_on_overview }}
@@ -33,10 +33,10 @@
                     <ul class="list-unstyled">
                     {{ if .Params.Chatroom }}
                         <li><span class="material-icons md-18 mr-1">comment</span> <a href="https://matrix.to/#/#{{ .Params.Chatroom }}-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">Join the conversation!</a></li>
-                        <li><span class="material-icons md-18 mr-1">event</span> <a href="https://fosdem.org/2023/schedule/room/s{{ .Params.Chatroom }}/">{{ .Params.title }} stand events @ FOSDEM</a></li>
+                        <li><span class="material-icons md-18 mr-1">event</span> <a href="https://fosdem.org/2024/schedule/room/s{{ .Params.Chatroom }}/">{{ .Params.title }} stand events @ FOSDEM</a></li>
                     {{ else }}
                         <li><span class="material-icons md-18 mr-1">comment</span> <a href="https://matrix.to/#/#{{ .File.TranslationBaseName }}-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">Join the conversation!</a></li>
-                        <li><span class="material-icons md-18 mr-1">event</span> <a href="https://fosdem.org/2023/schedule/room/s{{ .File.TranslationBaseName }}/">{{ .Params.title }} stand events @ FOSDEM</a></li>
+                        <li><span class="material-icons md-18 mr-1">event</span> <a href="https://fosdem.org/2024/schedule/room/s{{ .File.TranslationBaseName }}/">{{ .Params.title }} stand events @ FOSDEM</a></li>
                     {{ end }}
                     </ul>
                 </div>

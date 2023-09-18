@@ -1,6 +1,6 @@
 {{ define "title" }}
 {{ range (.GetTerms "themes") -}}
-{{ .LinkTitle }} - 
+{{ .LinkTitle }} -
 {{ end -}}
 {{ .Params.Title }}
 {{ end }}
@@ -52,12 +52,12 @@
                     <ul class="list-group list-group-flush">
                         {{ if .Params.Chatroom }}
                         <li class="list-group-item"><span class="material-icons md-18 mr-1">comment</span> <a href="https://matrix.to/#/#{{ .Params.Chatroom }}-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">Join the conversation!</a></li>
-                        <li class="list-group-item"><span class="material-icons md-18 mr-1">theaters</span> <a href="https://video.fosdem.org/2023/stands/{{ .Params.Chatroom }}">Videos from {{.Params.Title}}</a></li>
-                        <li class="list-group-item"><span class="material-icons md-18 mr-1">event</span> <a href="https://fosdem.org/2023/schedule/room/s{{ .Params.Chatroom }}/">{{ .Params.title }} stand events @ FOSDEM</a></li>
+                        <li class="list-group-item"><span class="material-icons md-18 mr-1">theaters</span> <a href="https://video.fosdem.org/2024/stands/{{ .Params.Chatroom }}">Videos from {{.Params.Title}}</a></li>
+                        <li class="list-group-item"><span class="material-icons md-18 mr-1">event</span> <a href="https://fosdem.org/2024/schedule/room/s{{ .Params.Chatroom }}/">{{ .Params.title }} stand events @ FOSDEM</a></li>
                         {{ else }}
                         <li class="list-group-item"><span class="material-icons md-18 mr-1">comment</span> <a href="https://matrix.to/#/#{{ .File.TranslationBaseName }}-stand:fosdem.org?web-instance[element.io]=chat.fosdem.org">Join the conversation!</a></li>
-                        <li class="list-group-item"><span class="material-icons md-18 mr-1">theaters</span> <a href="https://video.fosdem.org/2023/stands/{{ .File.TranslationBaseName }}">Videos from {{.Params.Title}}</a></li>
-                        <li class="list-group-item"><span class="material-icons md-18 mr-1">event</span> <a href="https://fosdem.org/2023/schedule/room/s{{ .File.TranslationBaseName }}/">{{ .Params.title }} stand events @ FOSDEM</a></li>
+                        <li class="list-group-item"><span class="material-icons md-18 mr-1">theaters</span> <a href="https://video.fosdem.org/2024/stands/{{ .File.TranslationBaseName }}">Videos from {{.Params.Title}}</a></li>
+                        <li class="list-group-item"><span class="material-icons md-18 mr-1">event</span> <a href="https://fosdem.org/2024/schedule/room/s{{ .File.TranslationBaseName }}/">{{ .Params.title }} stand events @ FOSDEM</a></li>
                         {{ end }}
                         {{ range .Pages }}
                         {{ if .Params.title }}
@@ -74,7 +74,7 @@
     {{ if isset .Params "new_this_year" }}
     <div class="row mt-4">
         <div class="col">
-            <h2>{{ .Params.Title }} in 2023</h2>
+            <h2>{{ .Params.Title }} in 2024</h2>
         </div>
     </div>
     <div class="row mt-2">
